@@ -1,0 +1,1001 @@
+CustomerID,FirstName,LastName,Email,Gender,Age,City,State,PurchaseAmount,PurchaseDate,ProductCategory,Rating
+1,James,Smith,Emily.Brown@gmail.com,Male,34,Austin,AZ,371.73,2023-05-19,Clothing,5
+2,Sarah,Hernandez,David.Johnson@gmail.com,Male,57,Austin,AZ,161.96,2023-04-27,Electronics,5
+3,Linda,Williams,John.Brown@gmail.com,Female,36,Dallas,NC,459.6,2023-10-26,Home & Kitchen,2
+4,David,Williams,John.Smith@gmail.com,Female,69,San Antonio,NY,119.49,2023-10-03,Sports,4
+5,James,Jones,Michael.Williams@gmail.com,Female,32,Los Angeles,MI,332.05,2023-10-04,Home & Kitchen,2
+6,Sophia,Hernandez,Sarah.Williams@gmail.com,Male,26,Philadelphia,IL,62.96,2023-12-04,Clothing,4
+7,Michael,Jones,Michael.Smith@gmail.com,Female,69,Houston,IL,339.67,2023-11-09,Electronics,1
+8,James,Hernandez,Sarah.Johnson@gmail.com,Female,27,New York,IL,174.71,2023-06-27,Clothing,2
+9,Linda,Miller,Emily.Williams@gmail.com,Male,61,New York,IL,252.35,2023-11-26,Home & Kitchen,5
+10,David,Smith,Emily.Jones@gmail.com,Female,48,Phoenix,MI,205.37,2023-12-20,Clothing,2
+11,Sarah,Miller,David.Williams@gmail.com,Male,40,Los Angeles,AZ,127.74,2023-06-03,Books,2
+12,Linda,Lopez,Sarah.Jones@gmail.com,Male,69,Houston,MI,329.89,2023-07-20,Toys & Games,1
+13,Linda,Garcia,David.Smith@gmail.com,Female,47,New York,IL,446.89,2024-01-01,Home & Kitchen,5
+14,Michael,Brown,John.Smith@gmail.com,Female,50,Houston,NY,481.59,2023-04-25,Clothing,5
+15,Anna,Hernandez,Sarah.Williams@gmail.com,Female,69,Philadelphia,TX,136.56,2023-06-08,Electronics,3
+16,David,Lopez,Michael.Brown@gmail.com,Male,26,Austin,CA,372.82,2023-02-11,Clothing,3
+17,Emily,Garcia,John.Jones@gmail.com,Male,64,Houston,IL,348.95,2023-09-04,Electronics,3
+18,Linda,Martinez,John.Johnson@gmail.com,Male,18,New York,OH,204.52,2023-03-09,Toys & Games,1
+19,Anna,Smith,Michael.Williams@gmail.com,Female,61,San Antonio,TX,58.59,2023-11-22,Clothing,2
+20,Emily,Jones,John.Johnson@gmail.com,Female,52,Los Angeles,MI,360.41,2023-11-30,Toys & Games,5
+21,David,Jones,Sarah.Williams@gmail.com,Female,28,Dallas,OH,475.47,2023-07-15,Home & Kitchen,5
+22,John,Miller,David.Brown@gmail.com,Female,51,Chicago,OH,334.45,2023-03-31,Electronics,2
+23,Sophia,Williams,John.Brown@gmail.com,Male,33,San Diego,PA,245.88,2023-04-21,Books,5
+24,Anna,Garcia,Sarah.Brown@gmail.com,Male,26,San Diego,OH,286.32,2023-12-25,Home & Kitchen,2
+25,Robert,Martinez,Emily.Brown@gmail.com,Male,49,Chicago,IL,139.83,2023-05-25,Electronics,1
+26,John,Lopez,Sarah.Smith@gmail.com,Male,32,Houston,PA,387.74,2023-10-02,Toys & Games,1
+27,Sophia,Smith,David.Smith@gmail.com,Female,29,Los Angeles,NC,385.89,2023-06-28,Sports,1
+28,Michael,Garcia,Sarah.Jones@gmail.com,Female,50,Houston,AZ,115.48,2023-08-29,Clothing,2
+29,James,Martinez,Michael.Johnson@gmail.com,Female,62,Dallas,OH,445.09,2023-11-22,Toys & Games,2
+30,Sarah,Brown,David.Williams@gmail.com,Male,31,Los Angeles,NY,171.14,2023-11-15,Electronics,4
+31,Robert,Hernandez,Emily.Williams@gmail.com,Male,25,Chicago,CA,492.02,2023-11-27,Electronics,5
+32,Michael,Jones,Michael.Smith@gmail.com,Female,25,Houston,OH,222.31,2023-06-02,Electronics,5
+33,David,Lopez,Sarah.Williams@gmail.com,Female,44,Phoenix,NC,130.05,2023-04-14,Electronics,4
+34,Michael,Jones,David.Smith@gmail.com,Male,29,New York,FL,208.27,2023-03-16,Clothing,4
+35,James,Lopez,Emily.Jones@gmail.com,Female,18,San Antonio,MI,248.08,2023-05-08,Home & Kitchen,1
+36,David,Miller,Michael.Johnson@gmail.com,Male,60,Austin,MI,81.19,2023-07-18,Books,4
+37,Robert,Williams,Emily.Jones@gmail.com,Male,57,San Antonio,NC,310.2,2023-06-03,Sports,2
+38,James,Lopez,Sarah.Brown@gmail.com,Male,59,Dallas,FL,318.93,2023-02-25,Clothing,3
+39,Emily,Jones,Emily.Brown@gmail.com,Female,68,Houston,MI,382.52,2023-10-05,Electronics,2
+40,Sarah,Miller,John.Brown@gmail.com,Female,28,Philadelphia,MI,63.13,2023-12-11,Clothing,4
+41,Robert,Lopez,Michael.Jones@gmail.com,Male,56,Los Angeles,MI,293.56,2023-01-19,Toys & Games,5
+42,Emily,Brown,Emily.Williams@gmail.com,Female,60,Houston,NC,73.81,2023-06-08,Books,2
+43,Sophia,Williams,Sarah.Johnson@gmail.com,Male,48,Los Angeles,AZ,365.51,2023-01-26,Electronics,5
+44,Robert,Lopez,Sarah.Brown@gmail.com,Male,34,Austin,CA,75.08,2023-06-18,Sports,2
+45,Sophia,Miller,Emily.Brown@gmail.com,Male,50,Phoenix,NC,460.28,2023-01-23,Electronics,5
+46,David,Garcia,Sarah.Brown@gmail.com,Male,49,San Antonio,FL,365.94,2023-02-16,Books,2
+47,Emily,Johnson,David.Johnson@gmail.com,Female,46,New York,OH,278.33,2023-01-13,Sports,5
+48,Sarah,Martinez,David.Brown@gmail.com,Male,38,Austin,AZ,248.68,2023-08-05,Books,3
+49,James,Johnson,David.Johnson@gmail.com,Male,38,Austin,AZ,108.8,2023-11-18,Sports,1
+50,Linda,Johnson,John.Brown@gmail.com,Female,57,San Antonio,OH,180.95,2023-07-13,Home & Kitchen,2
+51,Michael,Smith,Emily.Jones@gmail.com,Male,40,Austin,NY,441.03,2023-05-24,Home & Kitchen,3
+52,John,Brown,John.Jones@gmail.com,Male,23,Philadelphia,PA,457.0,2023-03-14,Clothing,1
+53,Sarah,Garcia,Sarah.Johnson@gmail.com,Female,39,Philadelphia,CA,50.34,2023-06-05,Clothing,2
+54,Emily,Hernandez,John.Jones@gmail.com,Female,67,San Diego,CA,317.36,2023-03-18,Sports,3
+55,Linda,Lopez,Sarah.Johnson@gmail.com,Female,55,San Diego,NY,373.69,2023-06-18,Electronics,3
+56,Sarah,Martinez,Sarah.Jones@gmail.com,Male,54,Philadelphia,PA,328.44,2023-10-14,Toys & Games,3
+57,Emily,Williams,Michael.Jones@gmail.com,Female,62,Chicago,CA,86.76,2023-03-26,Toys & Games,4
+58,Anna,Garcia,David.Johnson@gmail.com,Female,68,Phoenix,FL,147.98,2023-07-01,Electronics,5
+59,Anna,Jones,Sarah.Williams@gmail.com,Male,25,Los Angeles,TX,162.65,2023-11-11,Electronics,1
+60,Sophia,Hernandez,Michael.Jones@gmail.com,Male,58,Phoenix,TX,424.28,2023-10-24,Home & Kitchen,5
+61,Sarah,Smith,David.Brown@gmail.com,Male,66,Dallas,CA,258.44,2023-04-22,Toys & Games,5
+62,Anna,Smith,Sarah.Williams@gmail.com,Male,52,Austin,IL,269.07,2023-08-18,Sports,5
+63,Emily,Garcia,Sarah.Johnson@gmail.com,Male,68,New York,CA,470.7,2023-04-06,Books,3
+64,Sophia,Miller,John.Williams@gmail.com,Female,28,Austin,OH,336.69,2023-06-17,Clothing,5
+65,Emily,Johnson,John.Smith@gmail.com,Female,41,Phoenix,OH,454.4,2023-06-05,Books,4
+66,Sophia,Jones,David.Smith@gmail.com,Female,66,Philadelphia,PA,255.43,2023-04-15,Home & Kitchen,2
+67,Sarah,Smith,Sarah.Jones@gmail.com,Male,38,San Antonio,MI,117.25,2023-07-12,Toys & Games,3
+68,Linda,Martinez,Emily.Jones@gmail.com,Male,68,Dallas,AZ,468.47,2023-11-26,Electronics,1
+69,James,Smith,John.Brown@gmail.com,Male,19,Philadelphia,FL,256.42,2023-05-12,Toys & Games,2
+70,Robert,Williams,David.Williams@gmail.com,Female,57,Phoenix,NY,131.73,2023-12-21,Sports,2
+71,Linda,Lopez,Sarah.Smith@gmail.com,Female,36,San Antonio,CA,186.08,2023-05-18,Home & Kitchen,2
+72,David,Smith,Sarah.Jones@gmail.com,Male,56,New York,MI,72.86,2023-11-27,Electronics,5
+73,Emily,Williams,Emily.Williams@gmail.com,Female,45,Phoenix,MI,260.74,2023-09-27,Books,5
+74,David,Garcia,David.Jones@gmail.com,Male,34,Los Angeles,FL,433.91,2023-02-07,Sports,3
+75,Linda,Garcia,Sarah.Jones@gmail.com,Female,23,Houston,NY,470.11,2023-02-14,Books,5
+76,Sophia,Hernandez,John.Smith@gmail.com,Female,36,San Antonio,OH,469.67,2023-06-12,Clothing,5
+77,Robert,Smith,Emily.Smith@gmail.com,Female,55,Phoenix,NC,106.35,2023-11-27,Home & Kitchen,5
+78,Robert,Martinez,David.Jones@gmail.com,Male,45,Philadelphia,FL,221.92,2023-09-10,Sports,3
+79,John,Smith,Emily.Johnson@gmail.com,Female,19,Los Angeles,MI,62.7,2023-06-18,Sports,3
+80,Robert,Martinez,John.Jones@gmail.com,Female,55,Chicago,TX,434.82,2023-10-12,Books,4
+81,James,Brown,David.Jones@gmail.com,Male,54,San Antonio,CA,211.44,2023-10-01,Electronics,4
+82,Robert,Hernandez,Emily.Brown@gmail.com,Female,68,Los Angeles,PA,334.0,2023-01-20,Clothing,4
+83,Linda,Brown,Michael.Brown@gmail.com,Male,69,Philadelphia,TX,371.7,2023-08-27,Books,4
+84,John,Smith,John.Brown@gmail.com,Male,21,Phoenix,MI,243.43,2023-09-27,Sports,2
+85,Linda,Hernandez,John.Johnson@gmail.com,Male,39,Austin,AZ,187.9,2023-11-06,Home & Kitchen,2
+86,Linda,Brown,John.Johnson@gmail.com,Male,43,New York,IL,483.0,2023-01-31,Sports,4
+87,Michael,Johnson,Michael.Jones@gmail.com,Male,66,Austin,NY,484.02,2023-11-10,Toys & Games,4
+88,John,Smith,Michael.Brown@gmail.com,Female,60,Houston,OH,180.25,2023-04-14,Home & Kitchen,1
+89,Linda,Brown,Sarah.Johnson@gmail.com,Male,53,Los Angeles,CA,265.83,2023-06-19,Home & Kitchen,2
+90,Michael,Johnson,Emily.Smith@gmail.com,Male,30,Houston,PA,487.78,2023-07-05,Sports,1
+91,Michael,Johnson,Sarah.Jones@gmail.com,Male,69,New York,NC,52.19,2023-05-08,Electronics,1
+92,John,Garcia,Emily.Williams@gmail.com,Male,49,Los Angeles,OH,235.71,2023-07-29,Home & Kitchen,5
+93,David,Smith,Michael.Jones@gmail.com,Female,34,San Diego,CA,95.21,2023-10-08,Toys & Games,3
+94,Sophia,Johnson,Michael.Williams@gmail.com,Male,58,Philadelphia,NC,279.12,2023-09-10,Books,2
+95,James,Garcia,Sarah.Brown@gmail.com,Female,53,Los Angeles,PA,61.1,2023-01-19,Electronics,4
+96,Sophia,Brown,David.Williams@gmail.com,Male,63,Philadelphia,MI,233.1,2023-07-19,Electronics,4
+97,Robert,Williams,Sarah.Brown@gmail.com,Female,36,Austin,IL,149.31,2023-08-08,Electronics,3
+98,James,Smith,Emily.Smith@gmail.com,Male,52,Dallas,TX,289.99,2023-05-16,Home & Kitchen,2
+99,Robert,Hernandez,Sarah.Williams@gmail.com,Male,63,San Antonio,TX,498.2,2023-08-11,Electronics,4
+100,Linda,Martinez,John.Jones@gmail.com,Female,57,Dallas,MI,410.24,2023-01-03,Sports,4
+101,Emily,Martinez,Emily.Brown@gmail.com,Male,45,Phoenix,OH,430.54,2023-08-24,Electronics,5
+102,John,Brown,Emily.Jones@gmail.com,Female,18,San Antonio,MI,335.87,2023-12-08,Toys & Games,1
+103,James,Miller,David.Johnson@gmail.com,Male,59,San Antonio,MI,68.7,2023-08-16,Clothing,4
+104,James,Miller,Michael.Brown@gmail.com,Female,35,Chicago,CA,143.06,2023-05-22,Toys & Games,2
+105,Linda,Brown,Emily.Williams@gmail.com,Male,65,San Antonio,CA,466.28,2023-01-09,Home & Kitchen,3
+106,David,Johnson,Michael.Brown@gmail.com,Male,57,New York,PA,214.75,2023-07-09,Electronics,5
+107,Michael,Smith,Sarah.Jones@gmail.com,Female,50,Dallas,IL,96.64,2023-12-16,Electronics,2
+108,Linda,Martinez,John.Smith@gmail.com,Male,29,Austin,CA,366.08,2023-06-14,Sports,5
+109,Anna,Martinez,David.Brown@gmail.com,Male,25,Philadelphia,PA,184.76,2023-05-19,Books,1
+110,Michael,Johnson,Michael.Williams@gmail.com,Male,41,Phoenix,AZ,170.99,2023-10-03,Electronics,4
+111,John,Martinez,Emily.Johnson@gmail.com,Male,33,San Antonio,MI,499.09,2023-10-18,Toys & Games,2
+112,Michael,Hernandez,Michael.Smith@gmail.com,Male,67,Phoenix,MI,436.16,2023-02-22,Home & Kitchen,3
+113,David,Smith,Emily.Johnson@gmail.com,Male,21,Austin,OH,233.57,2023-06-24,Clothing,1
+114,Michael,Lopez,Michael.Brown@gmail.com,Female,55,Phoenix,AZ,491.12,2023-04-20,Electronics,1
+115,John,Martinez,Emily.Jones@gmail.com,Female,61,Austin,OH,342.55,2023-07-22,Clothing,5
+116,David,Brown,Sarah.Jones@gmail.com,Female,44,San Antonio,NC,383.91,2023-05-16,Electronics,1
+117,Sophia,Hernandez,Emily.Williams@gmail.com,Male,26,Austin,PA,64.18,2023-01-04,Home & Kitchen,2
+118,James,Martinez,Emily.Jones@gmail.com,Female,64,San Antonio,PA,104.72,2023-06-04,Books,5
+119,James,Hernandez,John.Smith@gmail.com,Male,33,Chicago,MI,334.89,2023-06-21,Toys & Games,1
+120,Robert,Garcia,Emily.Jones@gmail.com,Male,29,Chicago,FL,454.56,2023-12-24,Home & Kitchen,3
+121,Sophia,Lopez,John.Williams@gmail.com,Male,48,Austin,NC,330.68,2023-02-16,Clothing,2
+122,Sophia,Jones,David.Brown@gmail.com,Male,41,Chicago,PA,110.31,2023-04-04,Electronics,3
+123,Michael,Brown,John.Brown@gmail.com,Female,31,Philadelphia,CA,102.09,2023-02-17,Clothing,3
+124,James,Brown,Sarah.Jones@gmail.com,Male,62,Philadelphia,MI,429.88,2023-08-28,Toys & Games,5
+125,John,Smith,John.Johnson@gmail.com,Female,42,Chicago,OH,112.69,2023-12-13,Home & Kitchen,4
+126,Sarah,Hernandez,David.Brown@gmail.com,Male,51,Chicago,AZ,284.1,2023-08-01,Clothing,5
+127,Sarah,Johnson,Sarah.Jones@gmail.com,Female,20,San Diego,OH,66.7,2023-12-06,Clothing,2
+128,David,Brown,Michael.Williams@gmail.com,Female,41,San Diego,TX,86.3,2023-11-20,Toys & Games,2
+129,James,Hernandez,Michael.Jones@gmail.com,Female,59,San Antonio,FL,352.56,2023-05-19,Electronics,5
+130,James,Hernandez,John.Brown@gmail.com,Female,26,Austin,PA,360.13,2023-07-24,Clothing,4
+131,Sarah,Williams,John.Williams@gmail.com,Female,43,Houston,IL,203.66,2023-03-14,Toys & Games,5
+132,James,Williams,David.Jones@gmail.com,Female,37,Houston,NY,147.02,2023-01-04,Electronics,2
+133,Michael,Jones,David.Smith@gmail.com,Male,57,Chicago,FL,416.17,2023-03-17,Books,4
+134,Anna,Garcia,Emily.Williams@gmail.com,Female,27,Phoenix,MI,147.7,2023-11-25,Electronics,2
+135,Emily,Jones,David.Smith@gmail.com,Male,36,Chicago,PA,293.91,2023-03-18,Books,4
+136,Sophia,Martinez,Emily.Johnson@gmail.com,Female,20,San Diego,AZ,485.69,2023-10-31,Home & Kitchen,4
+137,Robert,Johnson,Sarah.Williams@gmail.com,Male,41,San Antonio,PA,116.53,2023-09-13,Toys & Games,5
+138,David,Martinez,John.Smith@gmail.com,Female,22,Chicago,NY,473.39,2023-04-12,Electronics,5
+139,Anna,Miller,Sarah.Brown@gmail.com,Female,20,Dallas,AZ,132.3,2023-04-16,Books,5
+140,Sarah,Martinez,David.Brown@gmail.com,Male,44,Phoenix,OH,305.35,2023-11-29,Books,4
+141,Sophia,Smith,Sarah.Johnson@gmail.com,Female,33,Dallas,AZ,219.65,2023-02-08,Home & Kitchen,4
+142,James,Martinez,Sarah.Williams@gmail.com,Female,66,San Antonio,FL,484.22,2023-11-10,Sports,2
+143,Robert,Jones,Sarah.Williams@gmail.com,Female,32,San Antonio,OH,173.09,2023-10-02,Toys & Games,3
+144,James,Brown,David.Williams@gmail.com,Male,52,Philadelphia,PA,229.85,2023-03-29,Sports,5
+145,John,Brown,Sarah.Johnson@gmail.com,Female,29,Los Angeles,MI,492.29,2023-07-30,Electronics,2
+146,John,Williams,Emily.Williams@gmail.com,Male,58,Dallas,NC,291.41,2023-03-18,Toys & Games,2
+147,Robert,Johnson,David.Brown@gmail.com,Female,61,Philadelphia,MI,276.18,2023-03-18,Home & Kitchen,1
+148,Robert,Johnson,Sarah.Smith@gmail.com,Female,43,San Diego,PA,166.0,2023-01-28,Electronics,5
+149,Sarah,Smith,David.Brown@gmail.com,Male,64,New York,NY,365.61,2023-09-02,Toys & Games,2
+150,Robert,Jones,Michael.Brown@gmail.com,Female,51,Phoenix,NC,56.47,2023-03-07,Toys & Games,1
+151,Michael,Williams,Emily.Smith@gmail.com,Female,40,New York,PA,72.28,2023-09-23,Sports,5
+152,James,Miller,Sarah.Brown@gmail.com,Male,48,Austin,IL,319.71,2023-07-24,Electronics,4
+153,Anna,Johnson,Michael.Johnson@gmail.com,Female,67,San Diego,FL,203.75,2023-02-27,Home & Kitchen,1
+154,Linda,Brown,Michael.Smith@gmail.com,Male,37,San Diego,IL,478.99,2023-07-20,Home & Kitchen,4
+155,Robert,Martinez,David.Brown@gmail.com,Male,29,New York,OH,456.44,2023-08-13,Electronics,3
+156,David,Martinez,Michael.Jones@gmail.com,Male,40,Dallas,TX,371.17,2023-05-22,Electronics,3
+157,John,Williams,Emily.Brown@gmail.com,Female,21,Los Angeles,PA,418.17,2023-03-25,Books,3
+158,Michael,Jones,Emily.Johnson@gmail.com,Male,40,Dallas,CA,350.3,2023-05-23,Clothing,3
+159,Sophia,Jones,John.Williams@gmail.com,Male,65,New York,CA,106.51,2023-12-18,Sports,2
+160,Linda,Garcia,Emily.Brown@gmail.com,Female,65,Austin,AZ,394.49,2023-02-02,Electronics,3
+161,Anna,Lopez,Michael.Williams@gmail.com,Male,18,Dallas,MI,144.59,2023-06-01,Electronics,2
+162,Linda,Johnson,Emily.Jones@gmail.com,Female,42,Houston,MI,195.55,2023-06-07,Clothing,2
+163,Robert,Jones,David.Brown@gmail.com,Female,19,Dallas,MI,418.66,2023-05-21,Clothing,5
+164,Sarah,Brown,John.Smith@gmail.com,Female,47,San Antonio,IL,291.44,2023-09-08,Toys & Games,2
+165,John,Williams,Michael.Williams@gmail.com,Female,20,Philadelphia,FL,436.97,2023-10-30,Home & Kitchen,2
+166,John,Miller,John.Jones@gmail.com,Male,38,Phoenix,PA,145.87,2023-04-22,Sports,3
+167,Sophia,Garcia,Michael.Smith@gmail.com,Male,42,Dallas,NY,323.5,2023-05-24,Toys & Games,2
+168,Sarah,Hernandez,David.Smith@gmail.com,Male,37,Los Angeles,AZ,87.71,2023-07-28,Electronics,4
+169,James,Smith,John.Smith@gmail.com,Male,66,Los Angeles,OH,339.38,2023-08-12,Clothing,3
+170,Emily,Miller,Sarah.Smith@gmail.com,Male,69,Dallas,NC,393.14,2023-02-12,Books,1
+171,Michael,Hernandez,Michael.Brown@gmail.com,Female,39,Chicago,OH,313.22,2023-09-21,Home & Kitchen,3
+172,John,Martinez,Sarah.Brown@gmail.com,Male,38,San Diego,PA,169.8,2023-09-01,Toys & Games,2
+173,David,Smith,John.Brown@gmail.com,Male,50,Dallas,TX,64.1,2023-01-03,Books,4
+174,John,Johnson,Sarah.Jones@gmail.com,Male,69,San Diego,MI,103.75,2023-05-05,Home & Kitchen,3
+175,Linda,Brown,Sarah.Jones@gmail.com,Female,55,Houston,NC,330.04,2023-09-25,Books,4
+176,John,Smith,John.Jones@gmail.com,Female,32,New York,IL,470.49,2023-03-25,Clothing,1
+177,John,Lopez,David.Johnson@gmail.com,Male,63,Houston,PA,142.94,2023-01-16,Toys & Games,1
+178,Emily,Hernandez,Sarah.Jones@gmail.com,Female,69,Dallas,TX,380.76,2023-11-30,Toys & Games,5
+179,Emily,Johnson,Sarah.Brown@gmail.com,Male,32,Los Angeles,IL,439.9,2023-02-28,Home & Kitchen,5
+180,Anna,Lopez,David.Brown@gmail.com,Male,63,Chicago,TX,284.4,2023-06-26,Books,3
+181,James,Martinez,Sarah.Johnson@gmail.com,Female,42,Austin,MI,351.17,2023-03-04,Clothing,5
+182,David,Lopez,Sarah.Johnson@gmail.com,Female,38,San Diego,IL,416.76,2023-02-18,Electronics,4
+183,John,Garcia,Sarah.Jones@gmail.com,Male,41,Philadelphia,FL,167.3,2023-11-03,Toys & Games,5
+184,John,Garcia,Emily.Williams@gmail.com,Male,22,San Diego,CA,183.6,2023-09-03,Electronics,4
+185,Michael,Williams,David.Johnson@gmail.com,Female,23,San Antonio,OH,50.28,2023-10-16,Clothing,5
+186,Emily,Miller,Sarah.Smith@gmail.com,Male,66,Phoenix,FL,483.39,2023-10-13,Toys & Games,5
+187,David,Miller,David.Brown@gmail.com,Female,60,Dallas,NC,462.9,2023-11-28,Toys & Games,5
+188,Sophia,Johnson,Michael.Smith@gmail.com,Male,65,Houston,AZ,394.06,2023-01-15,Books,2
+189,Anna,Martinez,Michael.Brown@gmail.com,Female,61,Philadelphia,CA,85.58,2023-12-04,Electronics,2
+190,James,Jones,Sarah.Brown@gmail.com,Male,64,Los Angeles,FL,251.38,2023-09-12,Books,5
+191,Sarah,Garcia,David.Johnson@gmail.com,Male,40,Los Angeles,PA,95.85,2023-04-02,Sports,4
+192,James,Johnson,David.Johnson@gmail.com,Female,21,Los Angeles,TX,57.16,2023-10-06,Electronics,3
+193,Linda,Jones,David.Smith@gmail.com,Male,44,Austin,NC,327.28,2023-07-25,Electronics,1
+194,John,Miller,Emily.Brown@gmail.com,Male,35,San Antonio,PA,482.37,2023-04-04,Sports,2
+195,Anna,Williams,Michael.Smith@gmail.com,Female,38,Los Angeles,CA,456.29,2023-08-13,Clothing,5
+196,Linda,Lopez,David.Williams@gmail.com,Male,45,Los Angeles,TX,363.54,2023-10-28,Clothing,1
+197,David,Garcia,David.Smith@gmail.com,Male,52,Dallas,NC,93.49,2023-11-14,Toys & Games,2
+198,Sarah,Johnson,Emily.Jones@gmail.com,Male,39,San Antonio,AZ,173.37,2023-07-18,Home & Kitchen,3
+199,Emily,Smith,Emily.Smith@gmail.com,Female,57,Chicago,CA,194.03,2023-09-28,Books,4
+200,Anna,Jones,David.Jones@gmail.com,Female,40,Chicago,NC,393.42,2023-08-22,Home & Kitchen,5
+201,Anna,Lopez,John.Jones@gmail.com,Female,20,San Antonio,FL,411.01,2023-02-15,Toys & Games,3
+202,John,Garcia,David.Jones@gmail.com,Male,57,Phoenix,NC,223.3,2023-03-05,Home & Kitchen,2
+203,Robert,Miller,David.Williams@gmail.com,Male,67,Austin,CA,238.05,2023-08-18,Electronics,5
+204,Anna,Martinez,Emily.Smith@gmail.com,Male,27,Philadelphia,MI,70.03,2023-09-06,Electronics,1
+205,Michael,Jones,Emily.Smith@gmail.com,Male,42,San Diego,FL,180.11,2023-09-03,Sports,4
+206,Sarah,Miller,David.Williams@gmail.com,Female,69,Dallas,PA,253.08,2023-03-16,Sports,2
+207,Sarah,Garcia,David.Brown@gmail.com,Male,66,New York,CA,102.64,2023-06-06,Toys & Games,4
+208,Michael,Jones,David.Johnson@gmail.com,Male,25,Chicago,MI,253.97,2023-08-11,Toys & Games,5
+209,Sophia,Lopez,Emily.Smith@gmail.com,Male,28,San Antonio,NY,433.93,2023-07-09,Toys & Games,3
+210,Michael,Garcia,David.Johnson@gmail.com,Female,22,Philadelphia,AZ,311.59,2023-02-21,Electronics,4
+211,Michael,Hernandez,David.Williams@gmail.com,Male,62,San Antonio,MI,85.52,2023-03-29,Home & Kitchen,1
+212,Sarah,Johnson,Sarah.Brown@gmail.com,Male,54,San Diego,NY,136.25,2023-11-09,Books,2
+213,James,Lopez,John.Brown@gmail.com,Male,62,Philadelphia,OH,263.54,2023-12-05,Toys & Games,1
+214,Sarah,Jones,Michael.Brown@gmail.com,Male,55,Chicago,TX,212.67,2023-03-07,Toys & Games,4
+215,Robert,Martinez,John.Williams@gmail.com,Male,46,Los Angeles,MI,211.43,2023-05-30,Electronics,3
+216,John,Miller,Sarah.Jones@gmail.com,Female,22,San Antonio,IL,288.17,2023-01-20,Books,3
+217,Linda,Smith,Michael.Jones@gmail.com,Male,26,New York,AZ,312.98,2023-02-02,Electronics,1
+218,James,Miller,David.Johnson@gmail.com,Male,65,Chicago,MI,408.59,2023-11-24,Books,5
+219,Emily,Jones,Sarah.Jones@gmail.com,Male,19,Houston,NY,203.43,2023-10-08,Electronics,5
+220,Linda,Miller,David.Jones@gmail.com,Male,18,New York,IL,412.46,2023-02-15,Home & Kitchen,3
+221,John,Johnson,Emily.Brown@gmail.com,Male,57,Phoenix,AZ,202.38,2023-03-14,Toys & Games,1
+222,Robert,Garcia,Sarah.Brown@gmail.com,Male,68,Austin,IL,74.94,2023-12-20,Clothing,1
+223,Robert,Smith,Emily.Johnson@gmail.com,Male,47,Chicago,FL,299.38,2023-11-09,Clothing,1
+224,Emily,Brown,Sarah.Smith@gmail.com,Male,28,Los Angeles,NY,314.56,2023-12-09,Toys & Games,4
+225,James,Jones,Sarah.Johnson@gmail.com,Male,45,Chicago,NC,470.54,2023-05-13,Toys & Games,5
+226,Sophia,Williams,Emily.Johnson@gmail.com,Male,61,San Diego,FL,376.73,2023-02-24,Toys & Games,5
+227,Michael,Brown,Michael.Williams@gmail.com,Female,29,Philadelphia,AZ,463.0,2023-03-02,Toys & Games,4
+228,James,Miller,John.Williams@gmail.com,Female,56,San Antonio,AZ,458.76,2023-12-11,Books,2
+229,Sophia,Jones,David.Johnson@gmail.com,Female,43,Philadelphia,CA,322.06,2023-01-08,Home & Kitchen,4
+230,Robert,Hernandez,Sarah.Johnson@gmail.com,Female,30,Philadelphia,NY,287.49,2023-09-29,Clothing,1
+231,Sarah,Williams,David.Johnson@gmail.com,Male,25,Chicago,OH,300.85,2023-09-03,Sports,4
+232,John,Smith,Emily.Jones@gmail.com,Female,45,San Diego,OH,490.25,2023-06-25,Clothing,1
+233,Emily,Martinez,David.Williams@gmail.com,Female,47,San Antonio,AZ,397.93,2023-04-26,Clothing,3
+234,John,Hernandez,Emily.Johnson@gmail.com,Male,26,San Antonio,OH,97.82,2023-11-13,Electronics,1
+235,David,Brown,David.Brown@gmail.com,Female,56,Philadelphia,TX,400.29,2023-09-28,Toys & Games,5
+236,David,Garcia,John.Brown@gmail.com,Female,48,Phoenix,CA,126.74,2023-07-12,Toys & Games,4
+237,James,Johnson,John.Jones@gmail.com,Male,38,Austin,AZ,251.31,2023-05-30,Toys & Games,1
+238,Robert,Martinez,John.Jones@gmail.com,Male,64,San Diego,OH,144.71,2023-05-11,Electronics,2
+239,Robert,Hernandez,John.Smith@gmail.com,Male,51,Phoenix,NY,360.31,2023-04-12,Home & Kitchen,3
+240,Michael,Garcia,John.Smith@gmail.com,Female,48,Dallas,MI,444.79,2023-11-06,Home & Kitchen,2
+241,Michael,Garcia,John.Smith@gmail.com,Female,69,Dallas,NC,180.66,2023-09-27,Sports,2
+242,Michael,Jones,Emily.Jones@gmail.com,Male,42,New York,FL,86.9,2023-10-19,Home & Kitchen,2
+243,Sarah,Hernandez,Sarah.Jones@gmail.com,Male,29,Philadelphia,FL,184.32,2023-07-29,Home & Kitchen,3
+244,Linda,Smith,David.Jones@gmail.com,Female,18,San Antonio,TX,352.56,2023-12-27,Toys & Games,3
+245,Anna,Miller,John.Brown@gmail.com,Male,39,Chicago,IL,197.94,2023-12-04,Books,3
+246,Linda,Williams,Emily.Jones@gmail.com,Female,57,San Antonio,NY,175.15,2023-03-08,Clothing,3
+247,John,Williams,Emily.Brown@gmail.com,Male,54,San Antonio,IL,133.0,2023-01-10,Home & Kitchen,2
+248,Linda,Brown,Emily.Smith@gmail.com,Male,64,Los Angeles,CA,273.88,2023-02-18,Home & Kitchen,5
+249,Sarah,Brown,Sarah.Smith@gmail.com,Female,18,San Antonio,NC,174.18,2023-04-21,Electronics,5
+250,John,Williams,David.Smith@gmail.com,Male,18,New York,CA,378.95,2023-11-17,Sports,3
+251,Linda,Smith,Sarah.Johnson@gmail.com,Male,59,Phoenix,AZ,84.48,2023-08-07,Books,4
+252,Sarah,Johnson,Michael.Johnson@gmail.com,Male,59,Dallas,NY,348.81,2023-02-26,Electronics,1
+253,Anna,Lopez,Emily.Williams@gmail.com,Female,38,San Antonio,AZ,156.9,2023-10-10,Toys & Games,4
+254,Linda,Miller,Michael.Williams@gmail.com,Male,32,San Antonio,PA,270.18,2023-04-23,Clothing,4
+255,Sarah,Johnson,John.Williams@gmail.com,Male,34,Los Angeles,OH,178.74,2023-05-13,Sports,4
+256,Michael,Jones,John.Johnson@gmail.com,Male,39,San Diego,FL,375.25,2023-03-12,Electronics,5
+257,Robert,Lopez,Sarah.Johnson@gmail.com,Male,55,Chicago,MI,475.39,2023-03-24,Home & Kitchen,1
+258,Michael,Lopez,David.Williams@gmail.com,Male,52,San Diego,AZ,462.68,2023-02-26,Home & Kitchen,4
+259,Robert,Hernandez,Michael.Williams@gmail.com,Male,62,Chicago,IL,312.54,2023-12-15,Sports,3
+260,Emily,Smith,David.Jones@gmail.com,Female,33,Austin,PA,258.17,2023-09-28,Home & Kitchen,5
+261,Emily,Smith,Sarah.Williams@gmail.com,Female,25,San Antonio,FL,418.24,2023-04-21,Electronics,3
+262,Emily,Lopez,John.Jones@gmail.com,Male,64,Los Angeles,AZ,357.5,2023-12-23,Electronics,3
+263,Anna,Hernandez,David.Brown@gmail.com,Female,34,Houston,PA,132.6,2023-03-17,Home & Kitchen,4
+264,Michael,Miller,David.Johnson@gmail.com,Female,34,Philadelphia,PA,419.41,2023-06-07,Home & Kitchen,3
+265,Robert,Lopez,John.Williams@gmail.com,Male,43,Dallas,NY,243.0,2023-01-20,Toys & Games,1
+266,Sarah,Martinez,Michael.Johnson@gmail.com,Female,30,Phoenix,CA,135.04,2023-05-11,Clothing,3
+267,John,Brown,John.Johnson@gmail.com,Female,34,Dallas,PA,176.81,2023-11-25,Sports,4
+268,Sarah,Brown,David.Johnson@gmail.com,Female,55,Phoenix,TX,170.39,2023-05-02,Electronics,3
+269,John,Johnson,Michael.Brown@gmail.com,Female,34,Austin,CA,283.64,2023-02-10,Sports,5
+270,David,Jones,Michael.Smith@gmail.com,Female,65,San Diego,FL,155.47,2023-06-16,Toys & Games,5
+271,Sarah,Brown,John.Williams@gmail.com,Female,31,New York,FL,105.6,2023-05-10,Electronics,5
+272,Linda,Garcia,David.Smith@gmail.com,Female,62,San Antonio,FL,105.66,2023-01-23,Toys & Games,2
+273,Linda,Johnson,Sarah.Smith@gmail.com,Female,23,Houston,FL,312.47,2023-10-06,Toys & Games,5
+274,James,Brown,David.Smith@gmail.com,Male,52,Phoenix,TX,380.64,2023-09-08,Books,5
+275,Michael,Jones,Emily.Johnson@gmail.com,Male,63,Philadelphia,AZ,194.69,2023-01-09,Home & Kitchen,2
+276,John,Smith,Sarah.Jones@gmail.com,Female,31,Phoenix,NC,65.59,2023-01-13,Books,5
+277,John,Smith,Michael.Johnson@gmail.com,Female,64,New York,PA,107.25,2023-11-03,Sports,4
+278,Michael,Miller,Sarah.Johnson@gmail.com,Male,25,Dallas,FL,461.61,2023-11-16,Sports,5
+279,Anna,Lopez,Michael.Smith@gmail.com,Female,32,Los Angeles,CA,272.09,2023-02-21,Home & Kitchen,5
+280,James,Martinez,Michael.Johnson@gmail.com,Female,44,Dallas,CA,254.11,2023-07-28,Books,2
+281,Anna,Smith,Sarah.Smith@gmail.com,Male,30,Austin,PA,67.12,2023-02-07,Sports,4
+282,Anna,Hernandez,Michael.Jones@gmail.com,Male,66,Los Angeles,AZ,377.89,2023-04-10,Books,3
+283,Anna,Brown,Michael.Williams@gmail.com,Male,48,Dallas,MI,287.63,2023-07-12,Home & Kitchen,1
+284,Michael,Hernandez,Emily.Smith@gmail.com,Female,52,Philadelphia,MI,140.94,2023-07-10,Electronics,4
+285,Anna,Jones,David.Jones@gmail.com,Female,23,Dallas,NC,99.53,2023-02-20,Toys & Games,3
+286,Linda,Smith,David.Williams@gmail.com,Male,22,Philadelphia,AZ,222.52,2023-05-21,Toys & Games,4
+287,Emily,Martinez,Emily.Brown@gmail.com,Male,39,Philadelphia,PA,426.72,2023-06-17,Books,3
+288,David,Jones,Sarah.Smith@gmail.com,Female,66,Los Angeles,MI,439.38,2023-11-07,Sports,3
+289,John,Garcia,John.Smith@gmail.com,Male,40,San Diego,MI,321.28,2023-04-19,Books,4
+290,John,Garcia,John.Brown@gmail.com,Female,42,Chicago,MI,377.39,2023-07-26,Books,2
+291,David,Hernandez,John.Brown@gmail.com,Female,51,San Antonio,IL,101.82,2023-10-27,Clothing,4
+292,Michael,Lopez,Emily.Smith@gmail.com,Male,43,Phoenix,TX,314.66,2023-04-20,Toys & Games,4
+293,Sarah,Johnson,Emily.Brown@gmail.com,Male,64,Chicago,PA,350.13,2023-07-15,Home & Kitchen,3
+294,Michael,Lopez,Michael.Johnson@gmail.com,Female,22,New York,OH,140.32,2023-06-01,Books,1
+295,John,Miller,John.Williams@gmail.com,Male,43,San Diego,NY,446.07,2023-08-31,Clothing,3
+296,John,Lopez,Sarah.Williams@gmail.com,Male,37,Chicago,NY,137.75,2023-05-08,Clothing,5
+297,David,Miller,Sarah.Williams@gmail.com,Male,23,Los Angeles,AZ,191.06,2023-04-15,Toys & Games,4
+298,Anna,Miller,John.Johnson@gmail.com,Male,23,New York,PA,329.25,2023-01-10,Toys & Games,4
+299,Michael,Martinez,John.Brown@gmail.com,Female,67,Houston,PA,337.26,2023-12-22,Toys & Games,2
+300,Robert,Smith,John.Jones@gmail.com,Female,35,San Diego,NY,364.72,2023-05-28,Home & Kitchen,3
+301,David,Martinez,Emily.Brown@gmail.com,Female,21,Chicago,NC,100.41,2023-12-31,Clothing,2
+302,Linda,Miller,Emily.Smith@gmail.com,Female,34,New York,NY,432.26,2023-12-30,Sports,4
+303,John,Jones,Emily.Williams@gmail.com,Male,31,Houston,PA,289.78,2023-05-20,Home & Kitchen,3
+304,David,Garcia,David.Brown@gmail.com,Male,31,Dallas,MI,262.09,2023-07-09,Electronics,3
+305,Michael,Miller,Sarah.Jones@gmail.com,Female,30,New York,NC,491.49,2023-04-04,Books,5
+306,John,Martinez,Sarah.Smith@gmail.com,Female,24,Los Angeles,FL,383.17,2023-08-17,Toys & Games,5
+307,Sarah,Jones,Michael.Johnson@gmail.com,Male,61,Dallas,OH,103.1,2023-03-04,Clothing,1
+308,David,Martinez,Emily.Johnson@gmail.com,Female,32,Los Angeles,IL,390.44,2023-12-06,Books,5
+309,James,Lopez,David.Jones@gmail.com,Female,36,Chicago,TX,92.86,2023-01-25,Home & Kitchen,3
+310,John,Brown,David.Smith@gmail.com,Male,60,San Antonio,FL,62.36,2023-09-25,Electronics,5
+311,Michael,Hernandez,Sarah.Williams@gmail.com,Female,64,Chicago,CA,231.63,2023-10-08,Home & Kitchen,1
+312,Emily,Johnson,Emily.Brown@gmail.com,Male,61,Dallas,NY,497.11,2023-01-11,Home & Kitchen,4
+313,Robert,Martinez,Michael.Smith@gmail.com,Male,52,Philadelphia,OH,128.7,2023-11-16,Sports,5
+314,Sophia,Johnson,Emily.Johnson@gmail.com,Female,34,Chicago,NY,352.69,2023-07-20,Books,3
+315,Anna,Williams,John.Jones@gmail.com,Male,52,Dallas,NY,128.03,2023-05-06,Sports,4
+316,Sophia,Martinez,Emily.Jones@gmail.com,Female,36,New York,FL,376.15,2023-11-02,Home & Kitchen,3
+317,Michael,Brown,John.Brown@gmail.com,Male,37,Austin,MI,277.41,2023-07-09,Electronics,4
+318,Linda,Johnson,John.Jones@gmail.com,Female,53,Chicago,MI,355.99,2023-03-30,Clothing,3
+319,Linda,Miller,Michael.Jones@gmail.com,Female,52,New York,IL,141.29,2023-12-21,Clothing,5
+320,Emily,Martinez,Sarah.Smith@gmail.com,Female,49,Los Angeles,NC,385.53,2023-04-26,Books,5
+321,Anna,Smith,Emily.Williams@gmail.com,Male,65,San Diego,NY,498.03,2023-12-18,Toys & Games,1
+322,James,Hernandez,John.Brown@gmail.com,Male,61,San Antonio,AZ,349.54,2023-06-26,Toys & Games,4
+323,Emily,Brown,Emily.Smith@gmail.com,Female,57,Los Angeles,MI,272.07,2023-01-14,Clothing,1
+324,Sophia,Johnson,Sarah.Williams@gmail.com,Male,41,Los Angeles,PA,465.43,2023-09-14,Home & Kitchen,2
+325,Emily,Brown,Sarah.Smith@gmail.com,Female,34,Dallas,OH,57.13,2023-07-28,Home & Kitchen,5
+326,Sophia,Jones,David.Smith@gmail.com,Female,24,Philadelphia,AZ,378.47,2023-10-08,Sports,4
+327,John,Hernandez,Sarah.Jones@gmail.com,Male,60,Phoenix,FL,449.94,2023-11-24,Books,1
+328,Linda,Miller,Michael.Williams@gmail.com,Female,67,Austin,FL,77.75,2023-11-21,Sports,1
+329,John,Martinez,John.Brown@gmail.com,Male,18,Philadelphia,IL,252.53,2023-04-15,Toys & Games,2
+330,Robert,Martinez,David.Brown@gmail.com,Female,52,Dallas,IL,142.12,2023-05-27,Clothing,1
+331,Anna,Martinez,Michael.Williams@gmail.com,Male,49,San Antonio,NC,304.93,2023-10-06,Home & Kitchen,3
+332,James,Hernandez,Emily.Jones@gmail.com,Female,53,Austin,PA,342.29,2023-01-09,Clothing,5
+333,Sophia,Smith,John.Johnson@gmail.com,Female,30,Austin,OH,186.18,2023-04-28,Electronics,1
+334,James,Williams,Sarah.Smith@gmail.com,Male,23,Dallas,PA,256.99,2023-04-04,Clothing,1
+335,Sophia,Garcia,John.Jones@gmail.com,Female,31,Houston,CA,175.7,2023-05-24,Electronics,2
+336,Michael,Lopez,Emily.Williams@gmail.com,Female,54,Los Angeles,IL,216.23,2023-10-16,Sports,3
+337,Emily,Johnson,David.Smith@gmail.com,Male,65,San Diego,NC,121.79,2023-01-14,Sports,1
+338,Robert,Smith,David.Brown@gmail.com,Female,32,Houston,TX,448.5,2023-09-14,Toys & Games,5
+339,Linda,Miller,David.Johnson@gmail.com,Male,64,Dallas,NY,54.5,2023-12-12,Clothing,5
+340,Sophia,Johnson,Sarah.Brown@gmail.com,Female,21,Houston,NY,447.08,2023-07-05,Clothing,1
+341,James,Martinez,Michael.Williams@gmail.com,Male,57,San Diego,TX,307.26,2023-12-11,Electronics,3
+342,Robert,Brown,Michael.Smith@gmail.com,Female,33,Dallas,MI,199.25,2023-07-26,Sports,5
+343,Sarah,Miller,John.Williams@gmail.com,Female,45,Dallas,PA,375.38,2023-12-12,Electronics,5
+344,Sarah,Johnson,Sarah.Smith@gmail.com,Female,33,Austin,TX,278.49,2023-06-21,Sports,3
+345,John,Martinez,David.Jones@gmail.com,Male,21,Houston,NC,274.6,2023-09-27,Electronics,3
+346,Linda,Johnson,David.Johnson@gmail.com,Male,62,New York,OH,99.56,2023-08-09,Sports,1
+347,Michael,Brown,Emily.Jones@gmail.com,Male,43,Chicago,TX,225.28,2023-06-01,Electronics,4
+348,James,Martinez,Emily.Jones@gmail.com,Male,45,Dallas,NC,158.48,2023-04-21,Sports,2
+349,Emily,Williams,David.Williams@gmail.com,Female,49,Houston,IL,57.06,2023-07-02,Books,4
+350,Emily,Smith,David.Johnson@gmail.com,Female,62,Phoenix,AZ,212.04,2023-12-05,Electronics,4
+351,James,Jones,Sarah.Smith@gmail.com,Male,19,San Antonio,FL,90.42,2023-03-13,Clothing,5
+352,Anna,Lopez,Michael.Smith@gmail.com,Male,48,Phoenix,FL,165.57,2023-10-10,Toys & Games,3
+353,Michael,Hernandez,Emily.Brown@gmail.com,Male,20,Houston,CA,91.63,2023-03-15,Books,5
+354,Robert,Lopez,Michael.Smith@gmail.com,Female,25,Los Angeles,PA,95.42,2023-12-21,Books,2
+355,Sophia,Miller,Sarah.Williams@gmail.com,Male,41,Los Angeles,OH,139.56,2023-08-03,Electronics,1
+356,Anna,Lopez,David.Jones@gmail.com,Male,32,Houston,AZ,499.93,2023-11-24,Toys & Games,2
+357,Sophia,Martinez,Michael.Jones@gmail.com,Female,60,Austin,AZ,50.98,2023-01-23,Clothing,5
+358,Sophia,Williams,David.Jones@gmail.com,Female,48,Austin,IL,337.4,2023-03-09,Books,5
+359,Anna,Jones,David.Johnson@gmail.com,Male,26,Dallas,TX,113.56,2023-12-28,Clothing,5
+360,John,Smith,John.Smith@gmail.com,Female,56,San Diego,PA,464.28,2023-04-03,Sports,5
+361,Sarah,Smith,Michael.Williams@gmail.com,Male,62,Chicago,NY,92.13,2023-11-17,Toys & Games,4
+362,Sophia,Brown,Michael.Johnson@gmail.com,Female,19,Dallas,AZ,479.78,2023-11-20,Home & Kitchen,1
+363,Anna,Hernandez,David.Brown@gmail.com,Male,25,Phoenix,NC,324.92,2023-03-04,Sports,4
+364,Anna,Johnson,Sarah.Williams@gmail.com,Male,24,Chicago,NY,50.57,2023-08-12,Toys & Games,5
+365,David,Williams,John.Williams@gmail.com,Male,61,Phoenix,CA,452.3,2023-08-13,Electronics,3
+366,John,Johnson,David.Williams@gmail.com,Male,68,Austin,TX,284.77,2023-12-12,Electronics,4
+367,Linda,Jones,Emily.Jones@gmail.com,Female,56,Houston,TX,168.2,2023-12-03,Clothing,5
+368,David,Lopez,Emily.Williams@gmail.com,Female,59,San Diego,OH,395.28,2023-04-13,Books,5
+369,David,Smith,John.Smith@gmail.com,Female,33,Phoenix,AZ,467.0,2023-08-03,Home & Kitchen,1
+370,James,Jones,Sarah.Williams@gmail.com,Female,52,Austin,IL,267.66,2023-07-11,Electronics,2
+371,Sarah,Lopez,David.Jones@gmail.com,Male,47,San Diego,MI,192.0,2023-06-09,Toys & Games,4
+372,Anna,Smith,Michael.Williams@gmail.com,Male,27,Dallas,MI,405.03,2023-07-26,Books,4
+373,Sarah,Lopez,John.Brown@gmail.com,Female,55,Houston,FL,356.8,2023-09-26,Books,4
+374,Michael,Hernandez,Sarah.Brown@gmail.com,Female,35,San Antonio,NC,449.94,2023-07-13,Toys & Games,5
+375,James,Williams,Michael.Jones@gmail.com,Female,67,Los Angeles,NY,361.63,2023-06-01,Books,1
+376,Linda,Miller,Emily.Smith@gmail.com,Female,22,Philadelphia,CA,159.59,2023-08-25,Electronics,5
+377,Sarah,Jones,Emily.Smith@gmail.com,Female,46,San Diego,FL,469.25,2023-03-29,Toys & Games,5
+378,Emily,Jones,Michael.Johnson@gmail.com,Male,56,San Antonio,TX,97.18,2023-01-11,Toys & Games,3
+379,Sophia,Garcia,John.Jones@gmail.com,Male,51,San Antonio,NY,170.57,2023-07-06,Clothing,1
+380,Michael,Martinez,Emily.Williams@gmail.com,Male,60,San Diego,PA,284.09,2023-08-02,Home & Kitchen,4
+381,John,Hernandez,David.Jones@gmail.com,Female,62,San Antonio,AZ,304.58,2023-01-15,Clothing,2
+382,Linda,Hernandez,Michael.Johnson@gmail.com,Female,40,Phoenix,CA,56.89,2023-09-23,Home & Kitchen,4
+383,Michael,Johnson,Michael.Jones@gmail.com,Female,22,San Antonio,PA,401.26,2023-10-24,Toys & Games,5
+384,Sophia,Lopez,Emily.Jones@gmail.com,Female,47,Austin,IL,212.72,2023-03-14,Books,1
+385,James,Martinez,John.Johnson@gmail.com,Male,23,Chicago,AZ,232.89,2023-02-21,Home & Kitchen,1
+386,Sophia,Williams,David.Smith@gmail.com,Male,63,Phoenix,NY,414.22,2023-05-08,Toys & Games,1
+387,David,Williams,John.Williams@gmail.com,Female,61,San Antonio,AZ,220.68,2023-01-28,Toys & Games,3
+388,Sophia,Hernandez,Sarah.Johnson@gmail.com,Male,21,Dallas,FL,71.25,2023-03-06,Clothing,4
+389,David,Williams,Sarah.Brown@gmail.com,Male,46,Los Angeles,OH,129.4,2023-01-17,Clothing,3
+390,James,Garcia,Emily.Smith@gmail.com,Female,40,Houston,FL,480.16,2023-12-17,Books,2
+391,Robert,Jones,Emily.Brown@gmail.com,Female,23,San Antonio,IL,81.68,2023-05-18,Sports,5
+392,David,Brown,Emily.Smith@gmail.com,Female,49,New York,NC,209.72,2023-11-15,Electronics,3
+393,John,Miller,Sarah.Williams@gmail.com,Female,59,Los Angeles,PA,276.43,2023-08-17,Sports,3
+394,Sophia,Johnson,John.Williams@gmail.com,Female,35,Dallas,FL,271.98,2023-09-11,Sports,5
+395,Sophia,Lopez,John.Jones@gmail.com,Female,32,Austin,OH,51.78,2023-07-29,Books,1
+396,John,Miller,Emily.Brown@gmail.com,Male,57,San Antonio,NC,275.52,2023-10-21,Home & Kitchen,5
+397,Emily,Lopez,David.Smith@gmail.com,Male,49,Austin,FL,222.7,2023-08-19,Books,4
+398,Anna,Smith,John.Williams@gmail.com,Female,26,San Antonio,TX,487.44,2023-08-29,Books,5
+399,Robert,Miller,Sarah.Johnson@gmail.com,Male,54,Philadelphia,OH,121.62,2023-03-11,Toys & Games,1
+400,Linda,Brown,Michael.Williams@gmail.com,Female,27,Chicago,PA,209.37,2023-04-14,Toys & Games,5
+401,David,Hernandez,Michael.Johnson@gmail.com,Female,37,Austin,CA,238.77,2023-07-23,Toys & Games,3
+402,John,Garcia,Michael.Smith@gmail.com,Female,23,Chicago,MI,225.81,2023-02-22,Electronics,2
+403,James,Jones,David.Williams@gmail.com,Female,65,Los Angeles,NC,349.62,2023-11-26,Home & Kitchen,3
+404,David,Jones,Emily.Williams@gmail.com,Male,20,Philadelphia,TX,146.98,2023-02-23,Home & Kitchen,2
+405,Anna,Garcia,Sarah.Smith@gmail.com,Female,59,Houston,CA,149.48,2023-10-03,Toys & Games,5
+406,James,Martinez,David.Williams@gmail.com,Male,28,Phoenix,NY,378.14,2023-12-01,Sports,4
+407,Michael,Smith,Sarah.Johnson@gmail.com,Female,60,Chicago,OH,275.13,2023-01-31,Electronics,5
+408,Sophia,Lopez,Sarah.Williams@gmail.com,Female,34,Philadelphia,TX,236.82,2023-05-15,Sports,1
+409,Michael,Brown,Emily.Brown@gmail.com,Female,49,Chicago,AZ,126.14,2023-02-27,Clothing,5
+410,David,Williams,Michael.Jones@gmail.com,Male,21,San Diego,NY,134.39,2023-04-15,Home & Kitchen,2
+411,Anna,Miller,Emily.Johnson@gmail.com,Female,21,Dallas,NY,54.75,2023-09-23,Home & Kitchen,3
+412,Robert,Smith,David.Brown@gmail.com,Female,34,Houston,NC,91.14,2023-01-10,Sports,4
+413,David,Miller,David.Smith@gmail.com,Female,58,Dallas,OH,300.58,2023-09-10,Electronics,5
+414,John,Brown,David.Johnson@gmail.com,Male,36,San Antonio,TX,451.34,2023-10-22,Home & Kitchen,5
+415,Sarah,Johnson,Emily.Jones@gmail.com,Male,22,Chicago,IL,179.22,2023-06-05,Sports,3
+416,David,Johnson,Sarah.Jones@gmail.com,Male,49,San Antonio,TX,197.49,2023-06-07,Books,4
+417,Sophia,Smith,Sarah.Smith@gmail.com,Female,39,New York,FL,102.02,2023-02-06,Books,5
+418,Sophia,Hernandez,John.Smith@gmail.com,Male,23,Chicago,NY,224.88,2023-04-29,Electronics,5
+419,David,Brown,David.Johnson@gmail.com,Female,52,Philadelphia,PA,66.75,2023-03-08,Sports,2
+420,James,Brown,Sarah.Williams@gmail.com,Male,39,Houston,NY,462.92,2023-08-30,Books,2
+421,Sarah,Garcia,John.Smith@gmail.com,Male,18,San Antonio,NY,352.9,2023-10-26,Electronics,1
+422,John,Hernandez,Sarah.Williams@gmail.com,Female,37,Chicago,MI,495.84,2023-08-01,Toys & Games,3
+423,David,Lopez,David.Brown@gmail.com,Male,39,New York,AZ,447.27,2023-11-04,Electronics,4
+424,James,Lopez,Michael.Jones@gmail.com,Female,65,Dallas,IL,262.85,2023-04-11,Clothing,5
+425,Sophia,Williams,David.Williams@gmail.com,Female,28,Philadelphia,CA,283.86,2023-02-25,Toys & Games,5
+426,Sophia,Jones,Emily.Jones@gmail.com,Male,30,San Diego,CA,135.76,2023-11-28,Sports,1
+427,Anna,Johnson,Sarah.Williams@gmail.com,Female,59,Chicago,AZ,257.92,2023-11-20,Toys & Games,5
+428,David,Lopez,Sarah.Brown@gmail.com,Female,20,San Diego,NY,456.36,2023-08-27,Toys & Games,3
+429,Sarah,Hernandez,Emily.Smith@gmail.com,Male,26,Los Angeles,CA,72.88,2023-08-19,Sports,1
+430,Emily,Brown,Emily.Brown@gmail.com,Male,29,Houston,OH,438.6,2023-12-28,Sports,3
+431,Sarah,Lopez,Michael.Smith@gmail.com,Female,40,Chicago,IL,203.43,2023-04-02,Books,1
+432,Sophia,Brown,Sarah.Smith@gmail.com,Male,31,Austin,CA,454.78,2023-10-06,Clothing,5
+433,Sophia,Lopez,Sarah.Jones@gmail.com,Female,50,New York,AZ,473.4,2023-04-19,Sports,1
+434,Michael,Johnson,Michael.Brown@gmail.com,Female,35,San Antonio,FL,351.89,2023-11-13,Home & Kitchen,2
+435,Sophia,Miller,John.Williams@gmail.com,Male,66,Austin,CA,348.99,2023-06-17,Home & Kitchen,4
+436,John,Lopez,Michael.Brown@gmail.com,Male,58,Los Angeles,IL,253.74,2023-10-27,Clothing,5
+437,Linda,Hernandez,David.Jones@gmail.com,Male,26,Houston,NC,425.99,2023-08-06,Electronics,4
+438,David,Lopez,Sarah.Smith@gmail.com,Male,40,Dallas,NC,482.73,2023-08-10,Electronics,5
+439,Sarah,Jones,Emily.Jones@gmail.com,Female,27,Philadelphia,OH,398.79,2023-06-10,Home & Kitchen,4
+440,Linda,Johnson,David.Johnson@gmail.com,Female,36,San Diego,TX,329.87,2023-01-16,Sports,2
+441,James,Hernandez,Sarah.Johnson@gmail.com,Male,64,Los Angeles,TX,323.06,2023-10-05,Clothing,4
+442,Emily,Garcia,Michael.Williams@gmail.com,Male,22,San Antonio,CA,432.26,2023-02-26,Electronics,1
+443,John,Hernandez,David.Jones@gmail.com,Female,64,Philadelphia,PA,293.54,2023-03-03,Electronics,4
+444,Sarah,Jones,Sarah.Williams@gmail.com,Female,69,Dallas,FL,411.74,2023-12-29,Toys & Games,5
+445,Linda,Miller,John.Williams@gmail.com,Female,40,San Antonio,AZ,279.0,2023-11-23,Home & Kitchen,3
+446,Emily,Johnson,John.Johnson@gmail.com,Female,47,New York,FL,78.1,2023-08-30,Sports,4
+447,Michael,Garcia,Emily.Williams@gmail.com,Male,42,San Diego,NC,222.78,2023-03-31,Clothing,4
+448,John,Jones,Sarah.Johnson@gmail.com,Female,45,Austin,CA,250.0,2023-03-13,Electronics,4
+449,John,Jones,John.Smith@gmail.com,Female,51,Chicago,IL,113.73,2023-11-22,Toys & Games,5
+450,Michael,Smith,Michael.Jones@gmail.com,Male,62,Los Angeles,AZ,96.12,2023-01-30,Home & Kitchen,4
+451,David,Johnson,Sarah.Williams@gmail.com,Female,65,Chicago,FL,290.96,2023-12-25,Home & Kitchen,5
+452,Michael,Hernandez,Michael.Johnson@gmail.com,Female,64,Philadelphia,IL,88.31,2023-10-15,Clothing,5
+453,John,Brown,Michael.Brown@gmail.com,Male,42,Chicago,AZ,186.33,2023-03-27,Electronics,3
+454,John,Miller,John.Williams@gmail.com,Male,27,Austin,FL,385.07,2023-08-22,Clothing,1
+455,Linda,Brown,Sarah.Smith@gmail.com,Male,31,Phoenix,OH,483.99,2023-08-23,Clothing,5
+456,Sophia,Hernandez,David.Smith@gmail.com,Female,59,Philadelphia,NC,373.04,2023-11-09,Books,2
+457,Emily,Hernandez,John.Brown@gmail.com,Female,63,San Diego,NY,496.68,2023-12-31,Toys & Games,4
+458,Michael,Johnson,John.Johnson@gmail.com,Male,47,San Antonio,AZ,364.25,2023-09-22,Home & Kitchen,2
+459,Emily,Hernandez,Sarah.Williams@gmail.com,Male,58,San Diego,NC,182.21,2023-10-14,Books,4
+460,Michael,Smith,Sarah.Johnson@gmail.com,Female,42,Chicago,MI,352.42,2023-11-23,Sports,3
+461,James,Garcia,Michael.Smith@gmail.com,Male,31,Houston,PA,365.97,2023-09-26,Home & Kitchen,5
+462,John,Hernandez,Sarah.Johnson@gmail.com,Male,52,Philadelphia,CA,217.28,2023-07-05,Home & Kitchen,1
+463,Sophia,Brown,Michael.Smith@gmail.com,Male,69,San Antonio,MI,57.97,2023-05-11,Toys & Games,5
+464,Linda,Hernandez,John.Johnson@gmail.com,Female,65,Dallas,IL,366.44,2023-10-18,Sports,4
+465,Sophia,Smith,Emily.Brown@gmail.com,Female,51,New York,AZ,59.77,2023-10-04,Electronics,1
+466,Sophia,Lopez,David.Jones@gmail.com,Female,27,San Diego,CA,334.03,2023-11-16,Sports,5
+467,Sophia,Lopez,John.Brown@gmail.com,Female,52,San Diego,CA,123.63,2023-12-17,Electronics,1
+468,Emily,Jones,Sarah.Brown@gmail.com,Female,28,Philadelphia,MI,304.52,2023-06-29,Sports,4
+469,Michael,Miller,David.Jones@gmail.com,Female,28,Houston,MI,276.76,2023-10-17,Clothing,3
+470,Robert,Williams,Emily.Jones@gmail.com,Male,38,Chicago,NY,56.08,2023-06-12,Sports,3
+471,James,Garcia,Emily.Williams@gmail.com,Female,38,Chicago,FL,213.29,2023-09-28,Books,5
+472,Sarah,Martinez,Michael.Williams@gmail.com,Female,39,Philadelphia,AZ,320.49,2023-04-06,Books,2
+473,Sophia,Jones,David.Brown@gmail.com,Male,62,San Diego,NC,431.87,2023-09-19,Toys & Games,4
+474,David,Miller,Michael.Brown@gmail.com,Female,24,San Antonio,TX,449.89,2023-12-31,Electronics,5
+475,Emily,Lopez,John.Smith@gmail.com,Female,34,New York,AZ,267.73,2023-12-19,Home & Kitchen,5
+476,Linda,Brown,David.Smith@gmail.com,Male,19,Philadelphia,AZ,377.79,2023-10-15,Toys & Games,3
+477,Sarah,Martinez,John.Williams@gmail.com,Male,29,San Antonio,AZ,192.4,2023-03-24,Books,1
+478,Robert,Miller,Michael.Williams@gmail.com,Male,59,San Antonio,CA,203.98,2023-08-13,Books,4
+479,David,Miller,David.Smith@gmail.com,Female,35,Dallas,IL,137.51,2023-08-11,Electronics,1
+480,Robert,Jones,Michael.Smith@gmail.com,Male,28,Austin,CA,302.88,2023-04-28,Books,4
+481,Sarah,Martinez,David.Johnson@gmail.com,Female,33,Phoenix,IL,191.55,2023-07-11,Books,2
+482,Sophia,Johnson,Michael.Johnson@gmail.com,Female,66,New York,MI,87.97,2023-03-20,Electronics,3
+483,David,Williams,Emily.Smith@gmail.com,Female,68,Los Angeles,TX,358.25,2023-03-19,Books,2
+484,Robert,Johnson,Michael.Johnson@gmail.com,Female,35,Houston,CA,368.49,2023-05-27,Home & Kitchen,5
+485,Linda,Martinez,Emily.Jones@gmail.com,Male,52,Phoenix,IL,212.0,2023-04-17,Clothing,3
+486,Michael,Johnson,Michael.Williams@gmail.com,Male,43,Dallas,CA,84.53,2023-09-28,Toys & Games,5
+487,John,Smith,David.Williams@gmail.com,Female,33,New York,PA,241.83,2023-09-01,Home & Kitchen,2
+488,Michael,Lopez,David.Smith@gmail.com,Male,23,Chicago,CA,249.05,2023-03-14,Home & Kitchen,4
+489,Sarah,Smith,David.Brown@gmail.com,Female,61,Phoenix,TX,350.9,2023-12-23,Clothing,5
+490,Emily,Hernandez,Sarah.Smith@gmail.com,Female,60,Chicago,TX,191.94,2023-12-20,Toys & Games,1
+491,John,Johnson,John.Johnson@gmail.com,Female,64,Houston,IL,357.17,2023-01-26,Home & Kitchen,4
+492,James,Hernandez,David.Brown@gmail.com,Male,64,Chicago,IL,442.17,2023-07-29,Books,4
+493,Linda,Brown,Emily.Johnson@gmail.com,Female,65,Houston,MI,156.87,2023-04-02,Clothing,2
+494,James,Garcia,David.Jones@gmail.com,Female,59,New York,TX,490.51,2023-05-05,Toys & Games,2
+495,David,Brown,Sarah.Johnson@gmail.com,Male,29,San Diego,TX,223.87,2023-03-14,Sports,3
+496,John,Martinez,Emily.Jones@gmail.com,Male,30,Houston,NY,170.27,2023-05-03,Electronics,3
+497,James,Miller,Sarah.Jones@gmail.com,Male,21,San Antonio,AZ,239.68,2023-11-05,Books,1
+498,James,Lopez,Emily.Johnson@gmail.com,Male,56,Los Angeles,OH,92.48,2023-07-03,Clothing,4
+499,Robert,Johnson,Michael.Johnson@gmail.com,Female,19,Los Angeles,CA,106.57,2023-07-06,Electronics,1
+500,Michael,Jones,John.Jones@gmail.com,Male,43,Philadelphia,FL,236.5,2023-07-17,Sports,1
+501,Robert,Garcia,John.Brown@gmail.com,Female,44,Los Angeles,MI,393.1,2023-03-19,Home & Kitchen,2
+502,John,Williams,Sarah.Jones@gmail.com,Male,44,Philadelphia,AZ,455.14,2023-12-14,Home & Kitchen,1
+503,John,Williams,John.Williams@gmail.com,Male,32,Los Angeles,OH,349.17,2023-07-05,Toys & Games,1
+504,Sarah,Williams,Sarah.Jones@gmail.com,Male,25,Houston,NY,97.35,2023-12-10,Clothing,5
+505,Robert,Johnson,Sarah.Brown@gmail.com,Male,24,San Antonio,FL,352.41,2023-09-10,Clothing,3
+506,Anna,Williams,Sarah.Williams@gmail.com,Male,64,San Diego,IL,335.94,2023-01-13,Toys & Games,3
+507,Michael,Smith,John.Smith@gmail.com,Male,63,Chicago,TX,412.59,2023-10-26,Electronics,4
+508,John,Garcia,Sarah.Smith@gmail.com,Female,57,Dallas,PA,421.36,2023-03-17,Home & Kitchen,3
+509,Sarah,Smith,John.Brown@gmail.com,Male,29,Los Angeles,MI,440.69,2023-02-20,Home & Kitchen,4
+510,Robert,Miller,Sarah.Jones@gmail.com,Male,30,San Diego,NC,236.36,2023-10-02,Clothing,5
+511,Michael,Garcia,David.Johnson@gmail.com,Male,60,San Diego,TX,364.04,2023-05-29,Clothing,3
+512,Robert,Smith,Sarah.Brown@gmail.com,Male,34,Houston,PA,170.71,2023-08-07,Toys & Games,5
+513,James,Garcia,Emily.Williams@gmail.com,Female,34,New York,OH,499.7,2023-05-02,Sports,3
+514,Sarah,Miller,Sarah.Williams@gmail.com,Male,53,New York,IL,128.9,2023-07-30,Electronics,3
+515,Michael,Hernandez,Michael.Smith@gmail.com,Male,38,Los Angeles,FL,54.55,2023-10-07,Books,5
+516,Sophia,Johnson,Sarah.Williams@gmail.com,Male,25,Dallas,OH,116.96,2023-01-26,Sports,1
+517,David,Johnson,Emily.Brown@gmail.com,Male,22,Los Angeles,TX,399.14,2023-06-22,Sports,1
+518,David,Williams,Emily.Williams@gmail.com,Female,43,Los Angeles,TX,251.05,2023-06-05,Clothing,1
+519,Michael,Brown,John.Brown@gmail.com,Male,33,Philadelphia,FL,251.38,2023-08-26,Clothing,1
+520,Robert,Williams,David.Johnson@gmail.com,Female,53,San Antonio,NC,479.76,2023-03-23,Clothing,3
+521,Sarah,Martinez,Sarah.Smith@gmail.com,Male,45,San Antonio,PA,463.84,2023-12-22,Sports,2
+522,David,Smith,John.Williams@gmail.com,Female,46,Dallas,OH,190.04,2023-09-30,Electronics,5
+523,Sarah,Garcia,David.Brown@gmail.com,Female,64,Philadelphia,IL,144.08,2023-03-09,Clothing,2
+524,David,Brown,Sarah.Jones@gmail.com,Male,29,San Diego,TX,431.82,2023-02-13,Home & Kitchen,2
+525,James,Miller,Michael.Smith@gmail.com,Male,54,Philadelphia,OH,457.71,2023-03-02,Electronics,4
+526,Robert,Martinez,Sarah.Johnson@gmail.com,Female,47,Los Angeles,NC,293.72,2023-05-03,Home & Kitchen,1
+527,James,Miller,Emily.Brown@gmail.com,Female,40,New York,OH,333.24,2023-12-15,Electronics,3
+528,David,Johnson,Emily.Johnson@gmail.com,Male,33,Phoenix,FL,165.61,2023-07-15,Clothing,1
+529,Sophia,Johnson,Michael.Johnson@gmail.com,Female,31,Dallas,IL,410.36,2023-11-26,Books,1
+530,Sophia,Williams,John.Williams@gmail.com,Female,27,San Diego,NY,334.46,2023-11-19,Toys & Games,2
+531,James,Smith,David.Williams@gmail.com,Female,24,Houston,FL,276.58,2023-04-21,Clothing,4
+532,Sophia,Brown,Sarah.Brown@gmail.com,Male,62,Phoenix,OH,77.05,2023-09-15,Sports,1
+533,David,Lopez,Emily.Jones@gmail.com,Female,69,Phoenix,NY,462.17,2023-03-30,Books,5
+534,Michael,Martinez,John.Brown@gmail.com,Female,54,Philadelphia,TX,326.95,2023-07-17,Sports,5
+535,James,Martinez,Michael.Jones@gmail.com,Female,46,Chicago,NY,136.71,2023-10-09,Electronics,1
+536,Emily,Williams,Emily.Johnson@gmail.com,Male,20,Phoenix,NC,322.87,2023-07-19,Sports,2
+537,Robert,Johnson,Michael.Smith@gmail.com,Male,32,Los Angeles,CA,354.86,2023-04-09,Books,2
+538,Sophia,Williams,Sarah.Brown@gmail.com,Female,53,Austin,NC,286.6,2023-01-27,Books,3
+539,Sophia,Garcia,David.Brown@gmail.com,Male,64,New York,FL,373.15,2023-03-30,Clothing,4
+540,John,Brown,Emily.Jones@gmail.com,Female,63,New York,CA,311.65,2023-05-26,Home & Kitchen,2
+541,Anna,Smith,Emily.Johnson@gmail.com,Male,69,Austin,FL,476.5,2023-07-01,Clothing,3
+542,James,Hernandez,Sarah.Johnson@gmail.com,Male,36,San Antonio,MI,74.16,2023-09-14,Electronics,5
+543,Linda,Jones,John.Jones@gmail.com,Female,30,Los Angeles,IL,97.81,2023-07-08,Sports,5
+544,Sophia,Jones,David.Johnson@gmail.com,Male,59,Houston,AZ,128.15,2023-08-28,Home & Kitchen,5
+545,Robert,Williams,Emily.Williams@gmail.com,Male,38,Phoenix,TX,360.58,2023-12-25,Toys & Games,1
+546,Emily,Garcia,David.Smith@gmail.com,Male,54,San Antonio,TX,340.52,2023-07-15,Books,4
+547,Sophia,Brown,Emily.Brown@gmail.com,Female,44,Los Angeles,MI,451.43,2023-10-24,Home & Kitchen,3
+548,Emily,Lopez,David.Smith@gmail.com,Male,69,Philadelphia,OH,379.79,2023-06-14,Home & Kitchen,4
+549,David,Jones,Michael.Brown@gmail.com,Male,46,New York,PA,278.76,2023-11-03,Clothing,1
+550,David,Brown,Emily.Williams@gmail.com,Female,37,San Antonio,FL,496.32,2023-09-28,Toys & Games,3
+551,Anna,Smith,David.Johnson@gmail.com,Male,42,Dallas,AZ,169.75,2023-01-08,Books,3
+552,Michael,Miller,John.Jones@gmail.com,Male,23,Phoenix,AZ,424.94,2023-02-07,Electronics,2
+553,Linda,Garcia,Michael.Williams@gmail.com,Male,53,Phoenix,NC,242.06,2023-04-24,Electronics,4
+554,John,Johnson,Michael.Smith@gmail.com,Male,19,Houston,NC,341.93,2023-12-05,Home & Kitchen,4
+555,Anna,Brown,John.Jones@gmail.com,Male,39,Chicago,PA,377.27,2023-02-25,Home & Kitchen,2
+556,Sarah,Smith,David.Johnson@gmail.com,Female,49,Dallas,OH,335.19,2023-12-25,Sports,5
+557,John,Lopez,Sarah.Williams@gmail.com,Female,33,Phoenix,MI,113.23,2023-05-18,Toys & Games,1
+558,James,Hernandez,John.Jones@gmail.com,Male,35,San Diego,NY,249.33,2023-04-12,Books,4
+559,Robert,Johnson,David.Williams@gmail.com,Male,22,Dallas,NC,302.65,2023-11-30,Home & Kitchen,2
+560,Sarah,Hernandez,John.Williams@gmail.com,Male,53,Phoenix,OH,432.07,2023-06-26,Sports,3
+561,Sarah,Lopez,John.Johnson@gmail.com,Female,47,Austin,IL,249.64,2023-06-18,Toys & Games,2
+562,Anna,Smith,Emily.Brown@gmail.com,Female,62,Dallas,TX,463.44,2023-12-05,Books,5
+563,Michael,Jones,David.Jones@gmail.com,Male,36,Los Angeles,TX,248.17,2023-10-13,Electronics,1
+564,Anna,Hernandez,Sarah.Johnson@gmail.com,Male,40,Dallas,OH,296.95,2023-09-18,Sports,5
+565,James,Johnson,Emily.Williams@gmail.com,Female,51,Houston,PA,408.33,2023-08-11,Toys & Games,3
+566,Sophia,Williams,John.Johnson@gmail.com,Male,30,Philadelphia,MI,312.38,2023-07-18,Sports,3
+567,Sophia,Martinez,John.Brown@gmail.com,Female,60,Philadelphia,AZ,482.1,2023-07-30,Home & Kitchen,3
+568,Michael,Brown,John.Jones@gmail.com,Female,46,Philadelphia,PA,347.15,2023-10-14,Clothing,3
+569,James,Jones,David.Brown@gmail.com,Male,53,Los Angeles,OH,285.22,2023-06-29,Electronics,2
+570,Michael,Hernandez,David.Smith@gmail.com,Female,39,San Antonio,MI,60.62,2023-09-07,Home & Kitchen,3
+571,Emily,Miller,Emily.Jones@gmail.com,Male,69,Philadelphia,MI,236.18,2023-08-19,Home & Kitchen,3
+572,Sophia,Brown,Sarah.Brown@gmail.com,Male,69,New York,FL,184.66,2023-01-23,Toys & Games,2
+573,Sarah,Williams,Emily.Williams@gmail.com,Male,64,Los Angeles,CA,386.65,2023-02-17,Sports,3
+574,Linda,Lopez,Michael.Jones@gmail.com,Male,53,San Antonio,TX,143.72,2023-04-19,Electronics,5
+575,Robert,Martinez,John.Jones@gmail.com,Male,26,New York,OH,142.35,2023-10-23,Home & Kitchen,5
+576,James,Smith,John.Johnson@gmail.com,Male,56,New York,AZ,135.28,2023-01-06,Toys & Games,4
+577,John,Williams,John.Williams@gmail.com,Female,68,New York,CA,106.53,2023-02-07,Electronics,5
+578,Michael,Williams,Emily.Smith@gmail.com,Female,36,San Diego,IL,189.95,2023-06-18,Sports,1
+579,Robert,Lopez,Emily.Brown@gmail.com,Female,55,Houston,NC,448.66,2023-12-22,Home & Kitchen,1
+580,John,Garcia,John.Johnson@gmail.com,Female,23,Houston,FL,398.72,2023-10-10,Books,1
+581,Robert,Lopez,Emily.Brown@gmail.com,Male,69,Los Angeles,NC,380.86,2023-07-22,Home & Kitchen,2
+582,Linda,Garcia,David.Smith@gmail.com,Female,64,New York,CA,408.8,2023-11-21,Home & Kitchen,5
+583,John,Garcia,David.Smith@gmail.com,Female,32,Austin,CA,171.24,2023-11-09,Electronics,1
+584,Anna,Jones,Emily.Jones@gmail.com,Female,37,Dallas,NC,449.35,2023-09-30,Electronics,4
+585,David,Jones,John.Smith@gmail.com,Male,26,San Antonio,AZ,111.79,2023-09-01,Electronics,2
+586,Anna,Johnson,Emily.Brown@gmail.com,Female,49,Houston,AZ,201.36,2023-11-23,Electronics,4
+587,Sophia,Hernandez,Emily.Williams@gmail.com,Male,21,Philadelphia,NY,314.04,2023-02-16,Toys & Games,5
+588,David,Hernandez,Emily.Williams@gmail.com,Female,67,Los Angeles,IL,96.31,2023-09-06,Clothing,3
+589,Anna,Smith,Michael.Jones@gmail.com,Male,35,San Antonio,AZ,378.56,2023-03-20,Toys & Games,4
+590,David,Hernandez,David.Brown@gmail.com,Male,22,Los Angeles,IL,224.26,2023-04-20,Home & Kitchen,3
+591,David,Jones,Sarah.Brown@gmail.com,Female,37,Austin,IL,402.98,2023-01-13,Toys & Games,2
+592,Sarah,Johnson,Sarah.Smith@gmail.com,Male,40,San Diego,CA,271.8,2023-12-31,Sports,4
+593,Michael,Johnson,Michael.Brown@gmail.com,Male,28,San Diego,IL,131.39,2023-03-31,Books,4
+594,Michael,Garcia,Emily.Johnson@gmail.com,Female,54,New York,FL,380.64,2023-12-08,Electronics,2
+595,Sarah,Lopez,Michael.Smith@gmail.com,Female,39,San Diego,NC,163.46,2023-12-14,Sports,2
+596,Robert,Smith,Michael.Johnson@gmail.com,Female,21,Los Angeles,NY,270.86,2023-10-07,Books,1
+597,Emily,Garcia,John.Jones@gmail.com,Male,46,Philadelphia,OH,83.99,2023-08-09,Sports,5
+598,Robert,Lopez,David.Williams@gmail.com,Male,61,New York,PA,328.04,2023-03-14,Home & Kitchen,4
+599,John,Hernandez,Sarah.Jones@gmail.com,Male,51,Phoenix,NY,349.64,2023-08-22,Electronics,4
+600,John,Garcia,Emily.Williams@gmail.com,Female,30,San Antonio,FL,220.4,2023-09-17,Sports,2
+601,David,Brown,Sarah.Jones@gmail.com,Male,59,Austin,NY,479.49,2023-04-23,Home & Kitchen,2
+602,Anna,Hernandez,Sarah.Brown@gmail.com,Male,26,New York,IL,443.38,2023-02-15,Electronics,5
+603,Anna,Lopez,David.Johnson@gmail.com,Male,59,Los Angeles,CA,368.57,2023-10-01,Clothing,2
+604,Michael,Smith,Sarah.Williams@gmail.com,Male,48,San Antonio,PA,371.14,2023-02-12,Home & Kitchen,3
+605,James,Lopez,Sarah.Smith@gmail.com,Male,24,Philadelphia,AZ,163.58,2023-07-27,Toys & Games,3
+606,Robert,Garcia,Michael.Johnson@gmail.com,Male,21,Chicago,CA,345.57,2023-12-15,Electronics,3
+607,Sophia,Garcia,David.Smith@gmail.com,Male,36,Austin,IL,139.19,2023-04-13,Sports,3
+608,Linda,Williams,John.Johnson@gmail.com,Female,59,Los Angeles,IL,114.8,2023-05-04,Books,5
+609,Anna,Smith,Emily.Johnson@gmail.com,Female,47,Austin,PA,499.76,2023-01-10,Sports,4
+610,Linda,Miller,Sarah.Jones@gmail.com,Female,48,Houston,PA,330.07,2023-11-25,Toys & Games,3
+611,David,Hernandez,Emily.Williams@gmail.com,Male,52,Chicago,TX,243.94,2023-07-06,Toys & Games,2
+612,Linda,Johnson,John.Williams@gmail.com,Male,38,San Antonio,MI,179.67,2023-01-31,Sports,3
+613,Sophia,Smith,Emily.Johnson@gmail.com,Female,48,San Diego,MI,321.76,2023-06-05,Books,5
+614,Sarah,Johnson,John.Brown@gmail.com,Male,36,Los Angeles,CA,72.32,2023-03-01,Electronics,2
+615,Sophia,Smith,Michael.Brown@gmail.com,Female,48,Austin,AZ,92.61,2023-09-06,Home & Kitchen,3
+616,Linda,Smith,Sarah.Smith@gmail.com,Male,49,San Antonio,NY,64.79,2023-09-27,Toys & Games,4
+617,Sophia,Lopez,John.Smith@gmail.com,Male,19,San Diego,IL,274.63,2023-08-05,Toys & Games,2
+618,Emily,Smith,Emily.Jones@gmail.com,Female,69,Philadelphia,IL,320.27,2023-01-02,Toys & Games,2
+619,David,Williams,Sarah.Johnson@gmail.com,Female,27,Philadelphia,TX,78.12,2023-01-24,Books,4
+620,Robert,Miller,Michael.Smith@gmail.com,Female,19,Austin,CA,374.55,2023-07-25,Clothing,2
+621,Sarah,Garcia,Sarah.Smith@gmail.com,Female,19,New York,CA,153.68,2023-11-16,Books,3
+622,Anna,Martinez,John.Johnson@gmail.com,Female,41,Houston,NC,358.34,2023-07-18,Electronics,2
+623,John,Johnson,Michael.Jones@gmail.com,Male,34,New York,PA,491.85,2023-12-22,Electronics,3
+624,Robert,Garcia,Emily.Smith@gmail.com,Male,49,Houston,AZ,361.0,2023-04-24,Electronics,4
+625,John,Martinez,Michael.Jones@gmail.com,Male,33,Los Angeles,PA,447.44,2023-10-07,Electronics,1
+626,David,Miller,Michael.Williams@gmail.com,Female,33,Phoenix,AZ,476.69,2023-06-04,Electronics,4
+627,Sarah,Miller,David.Jones@gmail.com,Female,63,Austin,FL,269.04,2023-06-14,Sports,3
+628,Michael,Johnson,Michael.Brown@gmail.com,Female,56,Dallas,OH,366.05,2023-08-10,Toys & Games,5
+629,Anna,Johnson,Michael.Brown@gmail.com,Female,48,Austin,MI,433.39,2023-04-01,Books,4
+630,Emily,Miller,Sarah.Jones@gmail.com,Female,60,Chicago,MI,210.47,2023-06-16,Sports,5
+631,Michael,Martinez,Emily.Brown@gmail.com,Female,41,San Diego,AZ,167.63,2023-07-26,Books,5
+632,David,Smith,Sarah.Williams@gmail.com,Male,18,Chicago,MI,475.97,2023-10-09,Clothing,3
+633,Robert,Hernandez,Sarah.Johnson@gmail.com,Male,28,Philadelphia,PA,376.84,2023-03-06,Home & Kitchen,3
+634,Emily,Brown,John.Brown@gmail.com,Male,38,Houston,IL,148.86,2023-01-04,Toys & Games,1
+635,Sophia,Garcia,Sarah.Brown@gmail.com,Male,21,San Diego,PA,252.09,2023-06-06,Clothing,2
+636,Linda,Lopez,David.Jones@gmail.com,Male,24,Philadelphia,AZ,408.4,2023-09-06,Sports,4
+637,Emily,Garcia,David.Williams@gmail.com,Female,43,San Diego,CA,296.18,2023-09-14,Home & Kitchen,3
+638,David,Lopez,John.Johnson@gmail.com,Female,64,New York,PA,342.48,2023-08-23,Clothing,4
+639,James,Martinez,Emily.Jones@gmail.com,Female,67,Philadelphia,MI,389.2,2023-11-02,Books,5
+640,Linda,Lopez,Emily.Jones@gmail.com,Female,29,New York,TX,329.9,2024-01-01,Home & Kitchen,2
+641,John,Johnson,Sarah.Williams@gmail.com,Female,48,New York,NC,293.04,2023-03-15,Books,1
+642,Anna,Hernandez,Sarah.Johnson@gmail.com,Female,34,San Diego,IL,387.33,2023-07-06,Clothing,4
+643,John,Hernandez,Sarah.Williams@gmail.com,Male,50,San Antonio,MI,377.4,2023-03-03,Sports,2
+644,Emily,Johnson,Emily.Johnson@gmail.com,Female,28,Chicago,TX,333.44,2023-12-03,Books,1
+645,John,Williams,Michael.Williams@gmail.com,Female,45,Philadelphia,AZ,211.91,2023-06-13,Home & Kitchen,4
+646,David,Martinez,David.Jones@gmail.com,Female,49,Dallas,FL,232.62,2023-02-25,Clothing,2
+647,Sophia,Williams,Michael.Jones@gmail.com,Female,18,San Antonio,TX,486.7,2023-04-21,Books,3
+648,Robert,Williams,Michael.Smith@gmail.com,Male,64,Chicago,OH,100.57,2023-08-06,Sports,4
+649,Anna,Garcia,Emily.Brown@gmail.com,Male,45,Philadelphia,FL,170.83,2023-08-28,Toys & Games,2
+650,John,Miller,Michael.Williams@gmail.com,Female,59,Houston,NY,271.58,2023-01-21,Sports,1
+651,John,Garcia,John.Smith@gmail.com,Male,24,Chicago,IL,426.53,2023-05-21,Sports,2
+652,Emily,Miller,Sarah.Brown@gmail.com,Male,19,Dallas,MI,123.65,2023-09-22,Toys & Games,3
+653,Robert,Brown,John.Williams@gmail.com,Female,59,Austin,NY,174.63,2023-05-19,Sports,4
+654,Michael,Lopez,David.Johnson@gmail.com,Female,41,Los Angeles,PA,79.61,2023-03-11,Toys & Games,4
+655,John,Miller,Sarah.Brown@gmail.com,Female,21,New York,AZ,367.69,2023-04-28,Toys & Games,4
+656,David,Johnson,Michael.Jones@gmail.com,Female,61,Los Angeles,IL,157.19,2023-07-17,Books,3
+657,James,Garcia,David.Smith@gmail.com,Female,36,San Antonio,CA,224.9,2023-07-24,Books,1
+658,Anna,Martinez,Sarah.Brown@gmail.com,Male,43,Austin,FL,249.67,2023-08-02,Toys & Games,4
+659,John,Lopez,Michael.Brown@gmail.com,Female,28,New York,CA,451.09,2023-02-25,Clothing,1
+660,David,Brown,John.Jones@gmail.com,Female,57,Philadelphia,NY,235.1,2023-10-14,Home & Kitchen,2
+661,David,Miller,Sarah.Williams@gmail.com,Female,67,San Antonio,TX,115.35,2023-10-20,Clothing,1
+662,Anna,Brown,Michael.Johnson@gmail.com,Male,60,Dallas,TX,285.94,2023-06-24,Toys & Games,1
+663,Michael,Martinez,John.Jones@gmail.com,Female,28,San Diego,AZ,483.33,2023-12-13,Home & Kitchen,4
+664,David,Williams,David.Johnson@gmail.com,Female,62,Philadelphia,NY,323.46,2023-05-08,Books,5
+665,James,Hernandez,David.Williams@gmail.com,Female,20,Chicago,NC,492.52,2023-11-21,Home & Kitchen,5
+666,David,Martinez,David.Brown@gmail.com,Male,29,San Diego,IL,428.5,2023-10-19,Toys & Games,3
+667,David,Jones,David.Johnson@gmail.com,Female,20,San Antonio,FL,66.18,2023-10-15,Books,3
+668,David,Martinez,Emily.Smith@gmail.com,Female,59,Chicago,TX,346.28,2023-08-14,Home & Kitchen,5
+669,Sophia,Brown,Sarah.Smith@gmail.com,Female,44,Dallas,TX,179.05,2023-03-05,Home & Kitchen,2
+670,Sophia,Johnson,Sarah.Jones@gmail.com,Male,66,Los Angeles,CA,301.83,2023-02-17,Clothing,4
+671,Michael,Garcia,Emily.Williams@gmail.com,Female,19,Chicago,CA,175.71,2023-07-21,Home & Kitchen,4
+672,John,Johnson,Michael.Jones@gmail.com,Female,66,Los Angeles,MI,206.99,2023-12-03,Toys & Games,2
+673,David,Brown,Michael.Jones@gmail.com,Female,33,New York,PA,465.43,2023-03-01,Electronics,2
+674,Robert,Garcia,David.Jones@gmail.com,Male,19,Houston,NC,142.99,2023-09-14,Electronics,5
+675,John,Jones,John.Smith@gmail.com,Female,47,Phoenix,CA,443.35,2023-03-06,Electronics,3
+676,Michael,Hernandez,Michael.Smith@gmail.com,Female,37,Philadelphia,CA,63.71,2023-08-27,Toys & Games,2
+677,Sarah,Lopez,John.Jones@gmail.com,Female,55,Phoenix,IL,90.89,2023-10-16,Electronics,3
+678,John,Brown,Sarah.Smith@gmail.com,Male,45,New York,MI,434.6,2023-02-07,Clothing,1
+679,John,Miller,John.Williams@gmail.com,Male,42,Chicago,CA,333.75,2023-01-25,Toys & Games,4
+680,Linda,Brown,Sarah.Jones@gmail.com,Female,49,New York,FL,386.26,2023-02-28,Books,5
+681,Emily,Brown,Emily.Smith@gmail.com,Male,27,Phoenix,IL,144.24,2023-12-23,Toys & Games,4
+682,Linda,Garcia,Emily.Johnson@gmail.com,Male,59,Phoenix,PA,291.69,2023-10-24,Toys & Games,5
+683,James,Smith,David.Jones@gmail.com,Male,57,Philadelphia,NY,381.75,2023-06-07,Home & Kitchen,1
+684,Sophia,Martinez,Michael.Jones@gmail.com,Female,50,San Diego,IL,332.29,2023-02-26,Home & Kitchen,4
+685,Sophia,Smith,David.Williams@gmail.com,Female,30,Austin,NY,262.26,2023-02-17,Home & Kitchen,1
+686,Emily,Jones,Sarah.Brown@gmail.com,Male,58,New York,TX,481.9,2023-11-24,Sports,5
+687,Anna,Miller,David.Brown@gmail.com,Male,59,Houston,MI,354.27,2023-02-25,Clothing,2
+688,Anna,Hernandez,John.Williams@gmail.com,Male,64,Austin,PA,458.49,2023-03-06,Toys & Games,4
+689,Michael,Williams,Sarah.Williams@gmail.com,Female,54,New York,MI,378.4,2023-09-25,Toys & Games,1
+690,Emily,Jones,Emily.Williams@gmail.com,Female,33,Dallas,PA,380.96,2023-03-10,Home & Kitchen,4
+691,John,Williams,Michael.Brown@gmail.com,Male,62,San Antonio,MI,86.01,2023-08-04,Toys & Games,4
+692,Anna,Williams,Sarah.Williams@gmail.com,Male,39,San Antonio,IL,211.76,2023-03-30,Books,4
+693,David,Hernandez,Sarah.Smith@gmail.com,Male,37,Phoenix,MI,436.27,2023-10-08,Toys & Games,3
+694,Robert,Johnson,John.Jones@gmail.com,Male,67,San Antonio,OH,154.67,2023-09-14,Electronics,1
+695,John,Smith,Michael.Jones@gmail.com,Female,60,Los Angeles,PA,101.98,2023-06-09,Books,1
+696,James,Brown,Emily.Johnson@gmail.com,Male,44,Houston,NY,196.75,2023-08-22,Books,4
+697,David,Lopez,Sarah.Johnson@gmail.com,Female,58,San Antonio,PA,149.2,2023-05-11,Toys & Games,2
+698,David,Williams,Sarah.Jones@gmail.com,Male,33,Chicago,TX,466.38,2023-02-18,Sports,4
+699,Emily,Miller,John.Smith@gmail.com,Male,51,Los Angeles,FL,440.58,2023-05-27,Home & Kitchen,3
+700,Michael,Jones,David.Brown@gmail.com,Male,49,Austin,OH,274.86,2023-11-12,Clothing,5
+701,James,Johnson,Emily.Brown@gmail.com,Male,43,Los Angeles,AZ,77.6,2023-01-02,Clothing,3
+702,Anna,Williams,Michael.Smith@gmail.com,Male,42,New York,PA,371.55,2023-11-25,Electronics,2
+703,Emily,Johnson,Sarah.Brown@gmail.com,Female,19,Phoenix,CA,330.54,2023-05-25,Clothing,4
+704,Anna,Johnson,Sarah.Williams@gmail.com,Male,29,Philadelphia,IL,486.75,2024-01-01,Clothing,1
+705,Emily,Williams,Emily.Jones@gmail.com,Male,57,Philadelphia,IL,301.53,2023-03-02,Home & Kitchen,4
+706,Emily,Garcia,David.Jones@gmail.com,Male,26,Dallas,MI,201.38,2023-09-30,Home & Kitchen,2
+707,Emily,Martinez,Sarah.Smith@gmail.com,Female,29,Houston,MI,283.56,2023-02-18,Sports,1
+708,Michael,Miller,Emily.Brown@gmail.com,Female,43,New York,IL,490.67,2023-11-28,Electronics,3
+709,Emily,Brown,John.Johnson@gmail.com,Female,26,Philadelphia,NC,363.36,2023-05-11,Clothing,5
+710,Sarah,Brown,David.Johnson@gmail.com,Female,27,Phoenix,OH,352.39,2023-02-12,Sports,5
+711,Robert,Miller,Michael.Brown@gmail.com,Male,49,Austin,OH,158.31,2023-02-26,Electronics,4
+712,Anna,Garcia,Sarah.Johnson@gmail.com,Male,51,Philadelphia,NY,384.62,2023-02-19,Books,3
+713,John,Brown,Emily.Smith@gmail.com,Male,65,Chicago,PA,387.62,2023-06-27,Clothing,2
+714,Linda,Johnson,John.Smith@gmail.com,Female,37,Los Angeles,AZ,192.78,2023-10-20,Clothing,5
+715,James,Hernandez,Michael.Brown@gmail.com,Male,56,Philadelphia,IL,267.67,2023-02-15,Home & Kitchen,3
+716,Sophia,Jones,Emily.Johnson@gmail.com,Male,19,New York,PA,182.57,2023-06-19,Toys & Games,4
+717,Michael,Smith,Emily.Smith@gmail.com,Female,18,San Antonio,OH,166.42,2023-09-28,Electronics,1
+718,John,Brown,Michael.Smith@gmail.com,Female,68,San Antonio,TX,61.65,2023-12-02,Clothing,4
+719,David,Miller,John.Williams@gmail.com,Female,53,Austin,IL,178.35,2023-05-19,Electronics,4
+720,Sarah,Hernandez,John.Williams@gmail.com,Male,41,San Antonio,PA,299.29,2023-09-04,Sports,3
+721,Sophia,Williams,David.Smith@gmail.com,Male,44,Austin,OH,50.72,2023-05-28,Sports,5
+722,Linda,Martinez,Sarah.Brown@gmail.com,Female,19,New York,FL,177.45,2023-08-18,Toys & Games,3
+723,John,Miller,Michael.Jones@gmail.com,Male,48,Houston,OH,446.63,2023-10-07,Clothing,1
+724,Sophia,Johnson,Michael.Jones@gmail.com,Female,31,San Antonio,MI,317.14,2023-05-05,Home & Kitchen,3
+725,John,Martinez,Michael.Smith@gmail.com,Female,19,Dallas,CA,323.54,2023-07-11,Clothing,2
+726,Sarah,Jones,John.Smith@gmail.com,Male,46,Phoenix,NC,231.51,2023-03-21,Electronics,4
+727,Linda,Jones,Sarah.Smith@gmail.com,Female,32,Los Angeles,NC,354.41,2023-04-04,Books,5
+728,David,Garcia,David.Brown@gmail.com,Female,29,San Antonio,MI,135.47,2023-08-14,Sports,1
+729,Emily,Lopez,Emily.Williams@gmail.com,Female,54,Austin,MI,418.44,2023-03-06,Electronics,4
+730,Anna,Garcia,Emily.Smith@gmail.com,Male,45,New York,IL,102.51,2023-03-29,Toys & Games,3
+731,David,Hernandez,Michael.Smith@gmail.com,Female,37,San Antonio,FL,345.2,2023-03-29,Sports,2
+732,Emily,Martinez,Sarah.Johnson@gmail.com,Female,56,Philadelphia,FL,203.52,2023-07-20,Home & Kitchen,3
+733,Michael,Lopez,John.Brown@gmail.com,Female,41,San Antonio,IL,386.38,2023-08-02,Sports,4
+734,Robert,Williams,Sarah.Smith@gmail.com,Female,38,Austin,PA,297.39,2023-07-23,Books,1
+735,James,Johnson,Sarah.Johnson@gmail.com,Female,27,Chicago,IL,253.56,2023-03-30,Clothing,5
+736,James,Martinez,John.Jones@gmail.com,Female,63,Chicago,AZ,126.24,2023-03-02,Books,4
+737,Anna,Garcia,Michael.Smith@gmail.com,Female,31,San Antonio,AZ,336.57,2023-09-28,Books,1
+738,Linda,Smith,Sarah.Smith@gmail.com,Male,54,Los Angeles,NC,488.65,2023-04-04,Clothing,4
+739,Sarah,Lopez,Emily.Johnson@gmail.com,Male,35,New York,OH,421.52,2023-11-03,Sports,2
+740,Linda,Lopez,John.Brown@gmail.com,Female,41,Dallas,IL,77.0,2023-01-27,Toys & Games,3
+741,Sarah,Johnson,David.Smith@gmail.com,Male,31,Dallas,IL,219.3,2023-08-02,Clothing,5
+742,Linda,Brown,Michael.Jones@gmail.com,Male,51,San Antonio,PA,466.51,2023-03-15,Clothing,1
+743,Robert,Jones,John.Smith@gmail.com,Female,29,San Antonio,NY,276.37,2023-03-02,Home & Kitchen,5
+744,Michael,Jones,David.Jones@gmail.com,Male,39,Chicago,NC,347.95,2023-07-05,Sports,5
+745,Michael,Smith,David.Williams@gmail.com,Female,23,Austin,NC,460.67,2023-01-31,Clothing,5
+746,Emily,Hernandez,Sarah.Williams@gmail.com,Female,53,Los Angeles,NC,443.21,2023-08-07,Toys & Games,1
+747,Sophia,Hernandez,Sarah.Jones@gmail.com,Female,62,San Antonio,OH,275.82,2023-01-12,Electronics,1
+748,Michael,Williams,Sarah.Brown@gmail.com,Female,53,Dallas,MI,246.94,2023-10-29,Sports,5
+749,Michael,Martinez,John.Smith@gmail.com,Female,39,New York,TX,202.86,2023-02-01,Home & Kitchen,3
+750,David,Miller,John.Smith@gmail.com,Male,31,Houston,NY,373.56,2023-06-09,Books,4
+751,David,Brown,Michael.Williams@gmail.com,Female,33,Philadelphia,OH,179.14,2023-08-25,Clothing,5
+752,Emily,Garcia,Sarah.Jones@gmail.com,Male,53,San Antonio,AZ,162.45,2023-08-15,Toys & Games,2
+753,Sophia,Miller,David.Smith@gmail.com,Female,42,Austin,PA,210.31,2023-06-30,Sports,5
+754,Anna,Miller,Emily.Smith@gmail.com,Female,49,San Antonio,MI,129.75,2023-11-13,Toys & Games,1
+755,David,Lopez,Michael.Brown@gmail.com,Female,50,Austin,AZ,362.8,2023-02-15,Toys & Games,4
+756,Anna,Smith,John.Johnson@gmail.com,Male,62,Los Angeles,MI,327.31,2023-12-07,Books,2
+757,John,Jones,Michael.Williams@gmail.com,Female,53,Houston,FL,267.3,2023-03-21,Home & Kitchen,4
+758,David,Williams,Michael.Williams@gmail.com,Female,37,Phoenix,NC,225.65,2023-05-15,Sports,4
+759,Robert,Hernandez,Michael.Johnson@gmail.com,Female,35,New York,MI,459.08,2023-09-17,Clothing,2
+760,Sophia,Smith,Michael.Smith@gmail.com,Female,55,New York,CA,63.11,2023-11-04,Home & Kitchen,5
+761,Emily,Lopez,Emily.Brown@gmail.com,Male,20,Austin,NC,396.1,2023-09-04,Clothing,5
+762,John,Garcia,Sarah.Brown@gmail.com,Female,40,Chicago,NC,455.86,2023-06-08,Electronics,5
+763,Sophia,Williams,David.Williams@gmail.com,Male,49,Austin,PA,250.86,2023-07-22,Toys & Games,3
+764,Robert,Lopez,Michael.Brown@gmail.com,Female,62,Chicago,NY,297.81,2023-04-22,Electronics,5
+765,Sophia,Jones,Michael.Johnson@gmail.com,Male,33,San Diego,AZ,475.01,2023-10-19,Toys & Games,2
+766,Robert,Jones,Michael.Smith@gmail.com,Male,22,Dallas,MI,145.52,2023-11-06,Books,3
+767,Robert,Jones,Sarah.Johnson@gmail.com,Female,21,New York,MI,284.06,2023-04-29,Home & Kitchen,5
+768,Anna,Smith,John.Jones@gmail.com,Female,38,Los Angeles,FL,263.62,2023-01-17,Clothing,3
+769,Linda,Smith,John.Williams@gmail.com,Male,57,Austin,NC,166.28,2023-11-27,Books,2
+770,John,Hernandez,Emily.Brown@gmail.com,Female,68,Los Angeles,IL,418.37,2023-08-15,Clothing,5
+771,Sophia,Hernandez,John.Jones@gmail.com,Female,31,Houston,TX,454.82,2023-12-27,Home & Kitchen,1
+772,Sarah,Garcia,Michael.Brown@gmail.com,Female,56,Los Angeles,IL,401.87,2023-04-27,Sports,2
+773,John,Williams,Michael.Smith@gmail.com,Male,48,San Antonio,MI,137.91,2023-02-12,Electronics,4
+774,Linda,Johnson,Michael.Smith@gmail.com,Female,31,Dallas,IL,89.04,2023-04-25,Electronics,4
+775,John,Johnson,Emily.Smith@gmail.com,Female,23,San Antonio,PA,322.45,2023-10-10,Clothing,2
+776,Michael,Lopez,Michael.Brown@gmail.com,Female,29,Philadelphia,CA,75.69,2023-02-06,Clothing,4
+777,Sarah,Jones,John.Jones@gmail.com,Male,33,Austin,MI,352.77,2023-10-29,Clothing,2
+778,Linda,Williams,Sarah.Smith@gmail.com,Female,34,New York,MI,288.69,2023-04-23,Home & Kitchen,1
+779,Anna,Miller,Sarah.Jones@gmail.com,Male,62,Austin,CA,348.25,2023-02-04,Sports,2
+780,Sophia,Smith,David.Brown@gmail.com,Female,40,Dallas,AZ,315.58,2023-05-12,Electronics,5
+781,James,Martinez,John.Jones@gmail.com,Male,31,Phoenix,CA,240.22,2023-12-02,Books,5
+782,Linda,Brown,Michael.Brown@gmail.com,Female,24,Phoenix,IL,140.39,2023-12-02,Toys & Games,3
+783,Emily,Garcia,Sarah.Brown@gmail.com,Female,63,Philadelphia,PA,187.57,2023-08-16,Home & Kitchen,4
+784,Sophia,Jones,John.Williams@gmail.com,Male,49,Dallas,FL,286.03,2023-05-27,Electronics,4
+785,Linda,Jones,Sarah.Brown@gmail.com,Male,32,San Diego,AZ,343.34,2023-05-02,Sports,2
+786,Michael,Jones,Michael.Brown@gmail.com,Male,61,San Diego,OH,400.77,2023-03-22,Home & Kitchen,4
+787,James,Smith,Sarah.Johnson@gmail.com,Female,34,San Diego,FL,395.23,2023-06-22,Books,5
+788,Michael,Smith,David.Smith@gmail.com,Female,58,New York,NY,487.71,2023-06-03,Electronics,1
+789,James,Brown,David.Williams@gmail.com,Female,64,New York,NY,178.63,2023-05-30,Home & Kitchen,2
+790,Emily,Miller,Sarah.Williams@gmail.com,Female,61,San Diego,NY,82.0,2023-02-27,Electronics,4
+791,Sophia,Williams,John.Williams@gmail.com,Male,51,Phoenix,NY,205.55,2023-03-04,Electronics,5
+792,Anna,Jones,John.Johnson@gmail.com,Female,22,Dallas,PA,384.48,2023-06-05,Sports,3
+793,Michael,Johnson,John.Brown@gmail.com,Female,62,Los Angeles,FL,247.15,2023-12-22,Toys & Games,4
+794,Michael,Hernandez,Sarah.Smith@gmail.com,Female,44,Dallas,NC,418.0,2023-11-18,Sports,1
+795,Robert,Johnson,John.Jones@gmail.com,Female,69,San Diego,TX,297.2,2023-06-17,Electronics,1
+796,James,Lopez,Michael.Brown@gmail.com,Female,40,Dallas,AZ,468.41,2023-06-15,Home & Kitchen,4
+797,David,Johnson,David.Johnson@gmail.com,Female,57,Houston,OH,476.54,2023-03-26,Books,4
+798,Sophia,Lopez,Michael.Brown@gmail.com,Female,31,New York,IL,81.19,2023-05-17,Sports,5
+799,James,Martinez,John.Brown@gmail.com,Male,32,New York,MI,255.39,2023-07-08,Toys & Games,4
+800,Robert,Hernandez,Michael.Johnson@gmail.com,Female,60,Phoenix,NY,324.36,2023-01-02,Electronics,3
+801,John,Johnson,John.Williams@gmail.com,Female,50,Los Angeles,OH,165.14,2023-04-16,Books,5
+802,James,Martinez,Sarah.Williams@gmail.com,Female,48,San Diego,MI,233.18,2023-12-30,Sports,2
+803,Anna,Garcia,Michael.Smith@gmail.com,Female,52,Austin,TX,354.96,2023-03-13,Sports,3
+804,Sophia,Williams,Sarah.Smith@gmail.com,Male,34,Phoenix,OH,152.03,2023-05-06,Sports,5
+805,Robert,Martinez,Sarah.Williams@gmail.com,Male,45,Phoenix,FL,320.89,2023-06-19,Sports,5
+806,John,Williams,Emily.Jones@gmail.com,Male,36,Los Angeles,OH,363.85,2023-07-24,Books,1
+807,Sarah,Johnson,John.Brown@gmail.com,Male,63,San Antonio,NY,90.72,2023-11-09,Home & Kitchen,5
+808,Robert,Miller,David.Jones@gmail.com,Male,40,San Diego,TX,273.89,2023-12-03,Toys & Games,3
+809,Sarah,Martinez,John.Brown@gmail.com,Male,49,Austin,IL,168.39,2023-07-14,Toys & Games,4
+810,Sophia,Hernandez,David.Williams@gmail.com,Female,57,New York,NC,375.97,2023-06-07,Electronics,3
+811,Michael,Johnson,John.Smith@gmail.com,Male,30,Los Angeles,CA,135.3,2023-05-21,Clothing,2
+812,Robert,Jones,Sarah.Smith@gmail.com,Male,37,Austin,NY,451.51,2023-10-02,Home & Kitchen,5
+813,Emily,Smith,Michael.Jones@gmail.com,Female,52,Houston,MI,243.92,2023-01-07,Electronics,5
+814,Sarah,Martinez,Michael.Smith@gmail.com,Male,22,Phoenix,TX,139.1,2023-02-23,Electronics,5
+815,Anna,Hernandez,Emily.Williams@gmail.com,Female,26,Los Angeles,FL,247.11,2023-04-14,Sports,5
+816,Emily,Garcia,David.Jones@gmail.com,Female,46,New York,PA,233.93,2023-12-08,Clothing,1
+817,Linda,Jones,David.Brown@gmail.com,Male,23,Dallas,TX,243.01,2023-12-04,Clothing,1
+818,Linda,Garcia,David.Smith@gmail.com,Female,42,New York,MI,313.5,2023-03-02,Home & Kitchen,4
+819,John,Johnson,Sarah.Johnson@gmail.com,Male,48,Houston,CA,284.53,2023-03-28,Clothing,5
+820,Michael,Smith,David.Smith@gmail.com,Male,39,Los Angeles,CA,117.4,2023-09-15,Electronics,2
+821,Sophia,Martinez,Michael.Brown@gmail.com,Female,19,Houston,AZ,79.51,2023-06-27,Clothing,4
+822,Robert,Martinez,Sarah.Jones@gmail.com,Female,62,San Diego,NC,378.24,2023-08-30,Clothing,5
+823,David,Miller,John.Brown@gmail.com,Male,22,San Diego,MI,301.87,2023-07-22,Toys & Games,1
+824,Anna,Miller,David.Johnson@gmail.com,Female,44,Dallas,CA,211.55,2023-01-31,Electronics,2
+825,Sarah,Johnson,David.Williams@gmail.com,Female,42,Phoenix,AZ,413.76,2023-10-16,Books,4
+826,Sophia,Johnson,John.Smith@gmail.com,Male,25,San Antonio,AZ,224.63,2023-03-21,Clothing,2
+827,Emily,Smith,David.Jones@gmail.com,Male,18,Chicago,AZ,408.18,2023-01-11,Clothing,5
+828,Linda,Miller,John.Williams@gmail.com,Female,37,Austin,TX,187.59,2023-09-11,Sports,3
+829,Anna,Hernandez,Sarah.Brown@gmail.com,Male,61,Houston,AZ,82.78,2023-10-14,Clothing,2
+830,David,Hernandez,Michael.Jones@gmail.com,Male,40,Austin,NY,469.69,2023-06-25,Clothing,2
+831,Robert,Smith,John.Williams@gmail.com,Male,49,Dallas,MI,227.55,2023-05-06,Toys & Games,1
+832,John,Hernandez,Emily.Jones@gmail.com,Male,28,Austin,NY,406.71,2023-02-16,Electronics,5
+833,David,Lopez,John.Johnson@gmail.com,Male,56,Austin,PA,175.61,2023-07-25,Home & Kitchen,2
+834,Anna,Williams,David.Johnson@gmail.com,Male,64,New York,CA,340.86,2023-04-17,Electronics,5
+835,David,Smith,Sarah.Smith@gmail.com,Male,41,Los Angeles,NC,442.99,2023-10-02,Sports,1
+836,Anna,Smith,Sarah.Smith@gmail.com,Female,28,Phoenix,AZ,68.74,2023-12-03,Electronics,5
+837,Anna,Brown,John.Johnson@gmail.com,Male,46,Chicago,FL,423.79,2023-05-03,Clothing,1
+838,James,Jones,Michael.Jones@gmail.com,Female,43,Los Angeles,FL,307.1,2023-05-14,Sports,1
+839,Sarah,Jones,Emily.Johnson@gmail.com,Female,33,New York,CA,323.36,2023-04-17,Electronics,4
+840,Linda,Lopez,Sarah.Smith@gmail.com,Female,52,Austin,PA,285.42,2023-11-01,Sports,5
+841,James,Miller,David.Johnson@gmail.com,Male,37,Chicago,FL,443.51,2023-11-25,Home & Kitchen,3
+842,Robert,Johnson,David.Johnson@gmail.com,Male,63,New York,NY,69.55,2023-02-19,Electronics,4
+843,James,Johnson,Michael.Jones@gmail.com,Female,20,New York,OH,167.46,2023-12-03,Books,1
+844,Michael,Garcia,Sarah.Williams@gmail.com,Male,18,New York,TX,444.09,2023-04-05,Clothing,3
+845,Michael,Lopez,John.Smith@gmail.com,Female,64,San Diego,IL,388.56,2023-09-25,Sports,2
+846,Linda,Smith,David.Jones@gmail.com,Male,18,Chicago,FL,57.94,2023-01-23,Books,2
+847,David,Lopez,Michael.Johnson@gmail.com,Male,34,New York,NC,282.65,2023-02-23,Books,4
+848,Sarah,Lopez,Sarah.Johnson@gmail.com,Female,19,San Antonio,AZ,288.31,2023-09-11,Toys & Games,3
+849,Linda,Lopez,Sarah.Williams@gmail.com,Female,46,Austin,NC,230.4,2023-08-23,Sports,5
+850,Anna,Jones,Sarah.Smith@gmail.com,Female,37,Chicago,MI,183.83,2023-02-28,Books,3
+851,Emily,Lopez,Sarah.Smith@gmail.com,Male,23,San Diego,TX,356.78,2023-06-13,Toys & Games,4
+852,Sarah,Williams,Sarah.Brown@gmail.com,Female,25,Houston,NY,143.51,2023-09-16,Books,5
+853,Sarah,Johnson,David.Smith@gmail.com,Male,46,Houston,PA,409.53,2023-11-10,Clothing,5
+854,Anna,Garcia,Michael.Williams@gmail.com,Male,65,Phoenix,TX,411.37,2023-08-04,Home & Kitchen,2
+855,Anna,Williams,Sarah.Brown@gmail.com,Male,68,Philadelphia,IL,236.87,2023-07-02,Toys & Games,3
+856,John,Garcia,Emily.Brown@gmail.com,Female,50,San Antonio,OH,177.6,2023-02-26,Home & Kitchen,5
+857,Linda,Brown,Emily.Johnson@gmail.com,Female,20,Houston,FL,177.75,2023-05-25,Sports,4
+858,Anna,Garcia,Michael.Johnson@gmail.com,Female,52,San Diego,PA,267.03,2023-03-31,Clothing,2
+859,Michael,Johnson,John.Smith@gmail.com,Male,22,Philadelphia,PA,373.81,2023-11-07,Toys & Games,5
+860,Robert,Johnson,John.Brown@gmail.com,Male,44,New York,FL,211.49,2023-02-14,Sports,3
+861,Emily,Lopez,John.Johnson@gmail.com,Female,61,New York,FL,324.52,2023-09-14,Books,2
+862,Linda,Martinez,Emily.Williams@gmail.com,Male,29,Dallas,FL,222.12,2023-01-21,Electronics,3
+863,Sophia,Brown,John.Johnson@gmail.com,Male,37,Austin,FL,187.04,2023-01-21,Sports,3
+864,Michael,Smith,David.Johnson@gmail.com,Female,62,Philadelphia,FL,61.19,2023-02-21,Home & Kitchen,3
+865,David,Hernandez,Sarah.Brown@gmail.com,Female,37,Austin,PA,51.76,2023-12-04,Clothing,2
+866,Anna,Garcia,Emily.Brown@gmail.com,Female,26,San Diego,CA,152.24,2023-06-20,Clothing,5
+867,Sophia,Martinez,Michael.Jones@gmail.com,Male,56,San Antonio,CA,232.88,2023-03-08,Sports,1
+868,Anna,Lopez,Michael.Williams@gmail.com,Male,21,Philadelphia,NC,433.07,2023-04-23,Books,5
+869,Sarah,Jones,Sarah.Brown@gmail.com,Male,68,Houston,CA,409.32,2023-10-27,Electronics,2
+870,Michael,Smith,Emily.Smith@gmail.com,Male,36,San Antonio,IL,170.22,2023-06-09,Home & Kitchen,1
+871,Sarah,Miller,John.Williams@gmail.com,Male,55,Dallas,CA,160.04,2023-09-23,Sports,1
+872,John,Martinez,John.Williams@gmail.com,Female,44,Austin,PA,152.29,2023-11-16,Sports,1
+873,Sarah,Jones,David.Brown@gmail.com,Male,62,Austin,FL,202.66,2023-08-20,Clothing,4
+874,John,Brown,David.Williams@gmail.com,Male,60,San Antonio,AZ,274.19,2023-11-21,Home & Kitchen,2
+875,John,Lopez,John.Brown@gmail.com,Male,30,New York,AZ,247.4,2023-03-09,Electronics,4
+876,Sophia,Smith,Michael.Johnson@gmail.com,Female,30,Austin,IL,148.22,2023-01-28,Clothing,1
+877,Anna,Smith,Michael.Jones@gmail.com,Female,39,Dallas,MI,108.7,2023-04-26,Sports,4
+878,David,Smith,David.Johnson@gmail.com,Female,45,Houston,PA,55.66,2023-02-20,Clothing,4
+879,Sarah,Brown,Sarah.Brown@gmail.com,Male,69,Chicago,NY,119.28,2023-06-30,Clothing,2
+880,Michael,Garcia,John.Brown@gmail.com,Female,64,Houston,TX,367.41,2023-09-17,Toys & Games,3
+881,John,Miller,David.Johnson@gmail.com,Female,62,Houston,NC,159.64,2023-03-20,Clothing,4
+882,Anna,Brown,David.Smith@gmail.com,Female,39,Austin,NY,260.87,2023-09-30,Books,4
+883,Emily,Hernandez,John.Smith@gmail.com,Male,60,Los Angeles,PA,316.09,2023-04-18,Clothing,1
+884,Linda,Miller,John.Smith@gmail.com,Female,36,New York,CA,449.08,2023-03-15,Books,1
+885,Sophia,Johnson,Michael.Brown@gmail.com,Male,25,Austin,FL,449.98,2023-06-24,Home & Kitchen,1
+886,David,Lopez,Sarah.Williams@gmail.com,Male,69,New York,NY,385.58,2023-07-03,Clothing,5
+887,James,Brown,Sarah.Brown@gmail.com,Female,25,San Diego,TX,65.82,2023-01-23,Electronics,4
+888,Sophia,Jones,John.Williams@gmail.com,Male,59,Los Angeles,MI,308.78,2023-10-01,Books,1
+889,Emily,Miller,Emily.Johnson@gmail.com,Female,43,Austin,AZ,403.96,2023-05-09,Books,2
+890,Linda,Hernandez,David.Jones@gmail.com,Male,65,Phoenix,MI,57.78,2023-10-18,Sports,5
+891,Emily,Johnson,David.Williams@gmail.com,Female,68,Houston,TX,297.36,2023-11-16,Home & Kitchen,3
+892,Sarah,Garcia,John.Smith@gmail.com,Female,43,San Diego,FL,435.99,2023-07-05,Clothing,4
+893,John,Jones,Emily.Brown@gmail.com,Female,40,Los Angeles,CA,263.35,2023-02-28,Electronics,4
+894,David,Miller,Michael.Johnson@gmail.com,Male,60,Austin,TX,51.85,2023-01-01,Sports,2
+895,Robert,Lopez,John.Smith@gmail.com,Female,30,Dallas,NC,54.96,2023-05-11,Home & Kitchen,3
+896,John,Jones,John.Johnson@gmail.com,Male,45,San Antonio,TX,237.49,2023-03-08,Books,3
+897,Robert,Johnson,David.Jones@gmail.com,Female,26,San Antonio,PA,119.75,2023-10-20,Electronics,5
+898,Linda,Jones,John.Brown@gmail.com,Male,37,New York,CA,349.0,2023-10-12,Clothing,4
+899,Anna,Williams,John.Brown@gmail.com,Male,36,Los Angeles,FL,368.96,2023-03-30,Toys & Games,1
+900,James,Martinez,John.Jones@gmail.com,Female,65,Houston,AZ,130.05,2023-04-10,Toys & Games,2
+901,Michael,Garcia,David.Brown@gmail.com,Female,56,Houston,AZ,449.84,2023-07-08,Home & Kitchen,2
+902,John,Johnson,Michael.Williams@gmail.com,Female,68,Chicago,TX,248.86,2023-12-12,Electronics,2
+903,David,Jones,Michael.Johnson@gmail.com,Female,29,San Antonio,PA,114.28,2023-08-29,Sports,2
+904,Emily,Martinez,John.Smith@gmail.com,Female,32,San Diego,NY,393.91,2023-09-27,Electronics,1
+905,David,Martinez,David.Jones@gmail.com,Male,48,Los Angeles,MI,405.49,2023-08-07,Books,1
+906,Linda,Jones,Michael.Williams@gmail.com,Female,31,Houston,MI,337.68,2023-06-25,Toys & Games,5
+907,Robert,Lopez,Michael.Smith@gmail.com,Female,28,Chicago,MI,434.06,2023-12-07,Home & Kitchen,4
+908,Emily,Williams,Michael.Smith@gmail.com,Male,43,Los Angeles,NY,381.82,2023-08-21,Clothing,1
+909,Michael,Brown,David.Jones@gmail.com,Female,59,Philadelphia,PA,446.99,2023-05-31,Electronics,5
+910,Michael,Williams,David.Williams@gmail.com,Female,44,Houston,MI,245.25,2023-10-04,Toys & Games,3
+911,John,Jones,John.Smith@gmail.com,Male,28,Philadelphia,NC,386.42,2023-08-17,Sports,4
+912,Linda,Garcia,Sarah.Smith@gmail.com,Female,55,Los Angeles,NY,499.89,2023-06-20,Home & Kitchen,1
+913,Anna,Brown,Michael.Williams@gmail.com,Female,51,Houston,NY,376.22,2023-08-11,Clothing,3
+914,Linda,Johnson,Sarah.Brown@gmail.com,Female,60,Philadelphia,FL,101.38,2023-08-01,Electronics,5
+915,Robert,Williams,David.Smith@gmail.com,Male,36,Phoenix,FL,283.24,2023-10-09,Sports,1
+916,David,Jones,David.Johnson@gmail.com,Female,23,Chicago,CA,314.31,2023-02-10,Clothing,1
+917,Michael,Williams,David.Williams@gmail.com,Male,63,San Diego,NC,128.39,2023-05-02,Books,3
+918,David,Brown,Sarah.Smith@gmail.com,Female,69,San Antonio,NC,483.3,2023-08-15,Toys & Games,1
+919,David,Hernandez,David.Jones@gmail.com,Male,55,Chicago,CA,129.01,2023-10-21,Books,2
+920,David,Miller,John.Johnson@gmail.com,Female,66,Philadelphia,NC,129.9,2023-03-29,Toys & Games,1
+921,Michael,Williams,David.Smith@gmail.com,Male,59,Houston,IL,461.83,2023-09-24,Sports,4
+922,Sophia,Johnson,Emily.Johnson@gmail.com,Male,45,Phoenix,OH,259.34,2023-01-29,Books,3
+923,Sarah,Johnson,Sarah.Johnson@gmail.com,Male,18,Phoenix,MI,78.43,2023-09-04,Toys & Games,4
+924,Robert,Smith,Emily.Brown@gmail.com,Male,52,San Antonio,FL,319.18,2023-11-12,Home & Kitchen,5
+925,Sophia,Williams,David.Johnson@gmail.com,Male,57,Phoenix,CA,320.82,2023-09-01,Sports,4
+926,Robert,Miller,John.Brown@gmail.com,Male,25,Chicago,CA,79.03,2023-03-02,Toys & Games,2
+927,Emily,Lopez,Michael.Williams@gmail.com,Female,69,Austin,NC,487.64,2023-05-27,Electronics,2
+928,Linda,Martinez,David.Brown@gmail.com,Female,64,Phoenix,NY,294.81,2023-06-23,Toys & Games,4
+929,Linda,Miller,John.Jones@gmail.com,Male,24,San Antonio,AZ,301.91,2023-10-05,Books,5
+930,James,Martinez,Sarah.Smith@gmail.com,Male,28,Phoenix,TX,284.05,2023-11-30,Home & Kitchen,1
+931,Linda,Martinez,Emily.Williams@gmail.com,Male,56,Phoenix,TX,324.83,2023-05-22,Clothing,2
+932,Michael,Hernandez,Emily.Williams@gmail.com,Male,21,Dallas,CA,168.93,2023-02-13,Clothing,4
+933,Anna,Smith,Emily.Jones@gmail.com,Female,42,Chicago,MI,179.26,2023-05-24,Toys & Games,4
+934,John,Miller,Sarah.Brown@gmail.com,Male,29,Philadelphia,IL,280.1,2023-12-19,Clothing,4
+935,James,Miller,John.Smith@gmail.com,Female,43,New York,MI,413.01,2023-11-29,Toys & Games,1
+936,John,Hernandez,Sarah.Brown@gmail.com,Female,55,Austin,CA,72.44,2023-02-24,Home & Kitchen,3
+937,Robert,Williams,Emily.Johnson@gmail.com,Male,63,Phoenix,MI,321.53,2023-11-03,Clothing,5
+938,John,Williams,David.Brown@gmail.com,Male,29,San Diego,FL,413.05,2023-12-24,Books,3
+939,John,Williams,Michael.Williams@gmail.com,Female,60,Phoenix,MI,120.61,2023-06-10,Books,5
+940,James,Garcia,Sarah.Smith@gmail.com,Female,68,Dallas,NC,56.76,2023-10-12,Electronics,5
+941,Emily,Martinez,Sarah.Brown@gmail.com,Male,54,Philadelphia,NC,190.72,2023-11-21,Toys & Games,4
+942,David,Garcia,John.Smith@gmail.com,Male,63,San Diego,IL,314.66,2023-07-17,Clothing,2
+943,Linda,Smith,John.Smith@gmail.com,Male,41,Austin,FL,112.23,2023-06-08,Books,4
+944,Linda,Hernandez,Sarah.Johnson@gmail.com,Female,33,San Diego,AZ,241.76,2023-03-21,Home & Kitchen,1
+945,Michael,Miller,Emily.Johnson@gmail.com,Female,30,Chicago,NY,298.54,2023-01-31,Home & Kitchen,5
+946,James,Martinez,Michael.Williams@gmail.com,Male,42,San Antonio,FL,319.5,2023-04-22,Electronics,2
+947,Michael,Garcia,John.Jones@gmail.com,Female,69,San Antonio,PA,173.49,2023-02-15,Home & Kitchen,5
+948,Anna,Garcia,Emily.Smith@gmail.com,Female,21,Austin,OH,230.01,2023-12-19,Home & Kitchen,5
+949,Anna,Jones,David.Jones@gmail.com,Male,28,Philadelphia,CA,400.25,2023-07-24,Clothing,4
+950,Michael,Garcia,John.Williams@gmail.com,Male,49,San Antonio,PA,473.55,2023-02-21,Toys & Games,2
+951,James,Lopez,Emily.Smith@gmail.com,Female,66,Los Angeles,IL,437.85,2023-05-18,Sports,2
+952,Michael,Miller,Emily.Smith@gmail.com,Female,24,Dallas,PA,303.93,2023-03-15,Home & Kitchen,5
+953,Linda,Lopez,Michael.Jones@gmail.com,Male,63,Austin,NC,234.63,2023-02-10,Home & Kitchen,2
+954,Sophia,Miller,Michael.Brown@gmail.com,Male,28,Austin,MI,199.83,2023-03-18,Sports,2
+955,Sarah,Hernandez,David.Johnson@gmail.com,Male,45,New York,NY,106.23,2023-07-06,Home & Kitchen,4
+956,John,Miller,Emily.Brown@gmail.com,Male,58,New York,TX,97.95,2023-02-21,Clothing,3
+957,Sarah,Lopez,Emily.Jones@gmail.com,Male,40,Chicago,CA,359.76,2023-03-28,Clothing,1
+958,James,Miller,Michael.Johnson@gmail.com,Female,62,Chicago,TX,166.91,2023-04-19,Sports,3
+959,Sarah,Hernandez,John.Brown@gmail.com,Female,40,New York,MI,164.6,2023-08-13,Books,2
+960,Anna,Hernandez,John.Johnson@gmail.com,Female,67,San Antonio,NC,499.19,2023-09-05,Home & Kitchen,5
+961,Robert,Smith,Sarah.Smith@gmail.com,Female,45,Houston,NC,134.57,2023-03-10,Books,1
+962,John,Miller,Michael.Brown@gmail.com,Male,60,Austin,MI,116.63,2023-04-30,Home & Kitchen,1
+963,David,Jones,Sarah.Johnson@gmail.com,Male,64,Los Angeles,CA,94.41,2023-03-08,Toys & Games,5
+964,James,Williams,Michael.Johnson@gmail.com,Male,43,Austin,TX,310.91,2023-03-02,Home & Kitchen,1
+965,John,Johnson,David.Johnson@gmail.com,Female,42,Phoenix,FL,332.54,2023-11-23,Clothing,5
+966,Sarah,Hernandez,Emily.Brown@gmail.com,Female,46,Philadelphia,NC,214.35,2023-07-10,Electronics,1
+967,Anna,Brown,David.Williams@gmail.com,Female,36,Dallas,TX,290.94,2023-07-08,Electronics,3
+968,Emily,Williams,Michael.Brown@gmail.com,Male,50,Houston,AZ,404.78,2023-05-31,Electronics,1
+969,Sophia,Martinez,Emily.Jones@gmail.com,Female,53,Los Angeles,TX,418.15,2023-10-13,Electronics,4
+970,David,Miller,John.Brown@gmail.com,Male,31,Phoenix,AZ,481.06,2023-04-06,Books,5
+971,Sophia,Lopez,John.Johnson@gmail.com,Male,31,Chicago,AZ,420.92,2023-11-08,Books,1
+972,John,Johnson,Sarah.Smith@gmail.com,Male,52,Los Angeles,NC,304.18,2023-11-05,Home & Kitchen,5
+973,Anna,Brown,Michael.Brown@gmail.com,Male,47,New York,CA,130.85,2023-09-20,Books,4
+974,Anna,Williams,Michael.Brown@gmail.com,Male,45,Austin,IL,94.89,2023-04-07,Home & Kitchen,1
+975,Sarah,Miller,John.Johnson@gmail.com,Male,34,Los Angeles,NC,74.53,2023-04-23,Toys & Games,1
+976,Linda,Smith,David.Smith@gmail.com,Female,20,Philadelphia,CA,349.94,2023-05-05,Home & Kitchen,4
+977,Sarah,Martinez,Emily.Smith@gmail.com,Male,33,San Diego,CA,413.39,2023-05-12,Electronics,4
+978,Linda,Johnson,David.Jones@gmail.com,Male,63,Chicago,PA,278.91,2023-05-01,Sports,4
+979,Linda,Jones,David.Brown@gmail.com,Female,47,Dallas,MI,74.62,2023-07-16,Sports,5
+980,David,Smith,John.Smith@gmail.com,Male,69,Dallas,MI,290.96,2023-10-21,Clothing,4
+981,Sarah,Brown,John.Smith@gmail.com,Female,46,Los Angeles,MI,471.09,2023-05-02,Clothing,5
+982,Emily,Johnson,John.Williams@gmail.com,Female,62,San Diego,OH,318.93,2023-10-09,Home & Kitchen,3
+983,Michael,Smith,Sarah.Williams@gmail.com,Female,32,Austin,NC,414.24,2023-09-17,Sports,1
+984,Michael,Martinez,David.Smith@gmail.com,Male,63,Phoenix,CA,410.07,2023-02-08,Electronics,1
+985,Sarah,Jones,Michael.Jones@gmail.com,Male,42,Houston,PA,469.46,2023-02-23,Books,2
+986,Sarah,Smith,Emily.Smith@gmail.com,Female,68,Austin,AZ,396.6,2023-06-10,Electronics,3
+987,Sophia,Garcia,Sarah.Johnson@gmail.com,Male,55,Phoenix,IL,386.47,2023-10-16,Electronics,4
+988,David,Jones,Michael.Brown@gmail.com,Male,59,Houston,IL,155.35,2023-07-19,Home & Kitchen,4
+989,Sarah,Brown,David.Jones@gmail.com,Female,64,San Diego,AZ,76.97,2023-10-03,Home & Kitchen,3
+990,Sophia,Martinez,John.Johnson@gmail.com,Female,69,Houston,TX,282.92,2023-01-16,Toys & Games,4
+991,Linda,Miller,David.Jones@gmail.com,Male,55,Austin,TX,106.0,2023-06-22,Electronics,2
+992,Anna,Lopez,Emily.Johnson@gmail.com,Female,40,Philadelphia,MI,482.99,2023-09-05,Electronics,5
+993,Anna,Lopez,Sarah.Brown@gmail.com,Female,42,Los Angeles,NC,180.47,2023-08-06,Home & Kitchen,1
+994,Linda,Lopez,Sarah.Brown@gmail.com,Female,59,Phoenix,OH,433.82,2023-03-28,Home & Kitchen,3
+995,James,Johnson,Emily.Williams@gmail.com,Male,24,Philadelphia,PA,224.43,2023-03-23,Toys & Games,1
+996,Sophia,Brown,Michael.Johnson@gmail.com,Male,39,Phoenix,IL,195.44,2023-03-03,Toys & Games,5
+997,Sophia,Martinez,Michael.Williams@gmail.com,Male,34,Los Angeles,MI,470.82,2023-10-14,Clothing,3
+998,Linda,Jones,Sarah.Johnson@gmail.com,Female,35,San Antonio,NY,213.5,2023-02-11,Sports,5
+999,Emily,Johnson,Sarah.Williams@gmail.com,Male,66,Houston,MI,225.63,2023-01-12,Electronics,4
+1000,Robert,Brown,John.Brown@gmail.com,Female,58,San Diego,NY,97.74,2023-11-17,Electronics,4
