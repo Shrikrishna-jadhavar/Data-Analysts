@@ -1,0 +1,2401 @@
+Year,Month,Category,Product,Units Sold,Revenue
+2023,1,Clothing,Jeans,163,28813.27
+2023,1,Books,Science,417,22350.09
+2023,1,Home & Kitchen,Blender,492,237710.33
+2023,1,Sports,Cricket Bat,227,19669.76
+2023,1,Clothing,Shoes,145,28035.42
+2023,1,Toys,Action Figure,84,793.22
+2023,1,Books,Comics,241,102620.9
+2023,1,Beauty & Personal Care,Shampoo,23,277.74
+2023,1,Toys,Doll,334,52180.91
+2023,1,Home & Kitchen,Air Purifier,35,616.35
+2023,1,Toys,Puzzle,328,111304.78
+2023,1,Clothing,Shoes,63,7925.66
+2023,1,Electronics,Smartwatch,157,36144.86
+2023,1,Home & Kitchen,Air Purifier,389,20904.29
+2023,1,Home & Kitchen,Cookware,148,38087.88
+2023,1,Home & Kitchen,Vacuum Cleaner,98,46781.61
+2023,1,Clothing,Shoes,37,15213.59
+2023,1,Electronics,Headphones,308,118513.6
+2023,1,Home & Kitchen,Vacuum Cleaner,347,104324.48
+2023,1,Sports,Football,318,68516.14
+2023,1,Electronics,Camera,11,961.82
+2023,1,Clothing,T-Shirt,394,170073.15
+2023,1,Sports,Cricket Bat,258,111770.07
+2023,1,Home & Kitchen,Cookware,15,2887.92
+2023,1,Clothing,Jacket,178,56248.05
+2023,1,Electronics,Camera,45,8218.5
+2023,1,Electronics,Laptop,265,102697.23
+2023,1,Books,Science,308,8896.17
+2023,1,Toys,Remote Car,474,35760.9
+2023,1,Sports,Yoga Mat,248,118542.74
+2023,1,Beauty & Personal Care,Body Wash,126,51262.78
+2023,1,Books,Science,383,79556.49
+2023,1,Clothing,Jeans,261,4770.05
+2023,1,Clothing,Shoes,299,31912.9
+2023,1,Sports,Dumbbells,339,93225.96
+2023,1,Sports,Yoga Mat,451,7972.96
+2023,1,Books,Biography,140,64895.14
+2023,1,Electronics,Camera,184,33356.75
+2023,1,Books,Science,56,13263.64
+2023,1,Clothing,Shoes,361,95821.45
+2023,1,Electronics,Smartphone,149,61659.57
+2023,1,Clothing,Shoes,235,80707.94
+2023,1,Toys,Puzzle,474,103416.47
+2023,1,Books,Science,364,4647.12
+2023,1,Beauty & Personal Care,Perfume,377,77580.08
+2023,1,Sports,Football,359,26048.65
+2023,1,Clothing,Jeans,482,192777.86
+2023,1,Sports,Football,24,9501.53
+2023,1,Electronics,Laptop,108,34145.3
+2023,1,Clothing,Jeans,67,32710.03
+2023,1,Sports,Football,483,55775.48
+2023,1,Clothing,Shoes,128,34201.46
+2023,1,Toys,Board Game,128,36918.64
+2023,1,Toys,Doll,250,74124.93
+2023,1,Home & Kitchen,Cookware,236,60884.16
+2023,1,Home & Kitchen,Furniture,450,148799.78
+2023,1,Books,Biography,354,85594.52
+2023,1,Toys,Doll,416,81124.41
+2023,1,Toys,Doll,255,20147.6
+2023,1,Home & Kitchen,Cookware,28,457.28
+2023,1,Clothing,Hat,321,112496.41
+2023,1,Home & Kitchen,Furniture,151,70648.3
+2023,1,Home & Kitchen,Air Purifier,165,13773.23
+2023,1,Sports,Tennis Racket,91,28771.42
+2023,1,Clothing,Jacket,385,151183.19
+2023,1,Electronics,Smartwatch,45,11446.56
+2023,1,Electronics,Laptop,434,54460.26
+2023,1,Toys,Action Figure,285,118568.09
+2023,1,Toys,Remote Car,411,83121.02
+2023,1,Clothing,Hat,373,69144.43
+2023,1,Home & Kitchen,Vacuum Cleaner,337,154711.96
+2023,1,Clothing,Hat,121,34422.72
+2023,1,Toys,Board Game,92,31004.38
+2023,1,Electronics,Headphones,425,80932.09
+2023,1,Books,Non-Fiction,295,26592.7
+2023,1,Books,Fiction,290,135449.8
+2023,1,Sports,Tennis Racket,431,98230.76
+2023,1,Beauty & Personal Care,Face Cream,422,140611.4
+2023,1,Beauty & Personal Care,Lipstick,54,8663.63
+2023,1,Beauty & Personal Care,Perfume,311,125798.08
+2023,1,Clothing,Jacket,188,21448.27
+2023,1,Home & Kitchen,Air Purifier,364,82956.38
+2023,1,Home & Kitchen,Air Purifier,130,30151.55
+2023,1,Sports,Tennis Racket,368,86282.23
+2023,1,Toys,Action Figure,271,123607.99
+2023,1,Beauty & Personal Care,Face Cream,247,44192.89
+2023,1,Books,Science,387,43081.68
+2023,1,Toys,Action Figure,113,48705.78
+2023,1,Home & Kitchen,Blender,71,34281.0
+2023,1,Beauty & Personal Care,Shampoo,160,70264.08
+2023,1,Beauty & Personal Care,Shampoo,422,101447.1
+2023,1,Toys,Puzzle,166,28459.43
+2023,1,Clothing,Jacket,314,87881.96
+2023,1,Sports,Football,152,3598.61
+2023,1,Beauty & Personal Care,Lipstick,91,40127.39
+2023,1,Toys,Puzzle,485,35694.1
+2023,1,Books,Science,76,36057.71
+2023,1,Home & Kitchen,Air Purifier,364,145998.06
+2023,1,Clothing,Hat,46,16597.95
+2023,1,Books,Non-Fiction,13,2433.29
+2023,2,Clothing,T-Shirt,151,56352.96
+2023,2,Clothing,T-Shirt,266,102871.01
+2023,2,Beauty & Personal Care,Shampoo,18,5376.35
+2023,2,Clothing,T-Shirt,415,29387.12
+2023,2,Sports,Tennis Racket,76,31582.75
+2023,2,Electronics,Camera,147,25898.29
+2023,2,Sports,Dumbbells,491,187095.39
+2023,2,Books,Biography,255,27336.27
+2023,2,Clothing,Jeans,358,7337.8
+2023,2,Electronics,Laptop,113,18016.5
+2023,2,Home & Kitchen,Cookware,482,17828.18
+2023,2,Toys,Action Figure,371,60017.21
+2023,2,Home & Kitchen,Blender,169,6851.62
+2023,2,Beauty & Personal Care,Lipstick,322,102702.62
+2023,2,Toys,Remote Car,218,45432.06
+2023,2,Toys,Board Game,311,96277.56
+2023,2,Sports,Dumbbells,381,28858.5
+2023,2,Beauty & Personal Care,Lipstick,209,16583.96
+2023,2,Electronics,Camera,67,22987.8
+2023,2,Electronics,Headphones,116,34468.35
+2023,2,Toys,Remote Car,297,104812.8
+2023,2,Beauty & Personal Care,Lipstick,179,20226.85
+2023,2,Clothing,Jacket,288,121360.39
+2023,2,Sports,Cricket Bat,106,784.68
+2023,2,Home & Kitchen,Cookware,147,11027.85
+2023,2,Sports,Football,309,139014.7
+2023,2,Sports,Yoga Mat,310,66130.85
+2023,2,Home & Kitchen,Cookware,376,102964.33
+2023,2,Beauty & Personal Care,Perfume,446,73523.78
+2023,2,Books,Fiction,121,30585.69
+2023,2,Home & Kitchen,Furniture,67,25640.19
+2023,2,Beauty & Personal Care,Shampoo,348,10001.3
+2023,2,Clothing,Hat,369,140395.05
+2023,2,Home & Kitchen,Cookware,36,7023.62
+2023,2,Sports,Tennis Racket,13,4732.55
+2023,2,Home & Kitchen,Blender,209,24261.06
+2023,2,Sports,Yoga Mat,301,13588.8
+2023,2,Toys,Doll,115,3345.85
+2023,2,Home & Kitchen,Cookware,413,35570.99
+2023,2,Clothing,Jeans,482,171696.8
+2023,2,Toys,Doll,315,21172.73
+2023,2,Beauty & Personal Care,Face Cream,462,78927.37
+2023,2,Home & Kitchen,Blender,265,35309.83
+2023,2,Beauty & Personal Care,Lipstick,15,4619.01
+2023,2,Home & Kitchen,Air Purifier,293,95965.25
+2023,2,Books,Comics,417,162269.19
+2023,2,Electronics,Headphones,407,7681.88
+2023,2,Electronics,Headphones,432,77567.39
+2023,2,Home & Kitchen,Blender,106,1100.35
+2023,2,Toys,Doll,345,53544.45
+2023,2,Beauty & Personal Care,Face Cream,230,31704.74
+2023,2,Home & Kitchen,Air Purifier,232,24109.47
+2023,2,Beauty & Personal Care,Body Wash,206,34862.96
+2023,2,Toys,Puzzle,149,45607.19
+2023,2,Sports,Yoga Mat,495,136990.68
+2023,2,Beauty & Personal Care,Lipstick,85,11648.98
+2023,2,Home & Kitchen,Air Purifier,180,43384.78
+2023,2,Toys,Doll,232,28730.52
+2023,2,Sports,Cricket Bat,366,87335.9
+2023,2,Electronics,Smartphone,498,93374.94
+2023,2,Home & Kitchen,Furniture,378,159601.06
+2023,2,Electronics,Camera,271,111647.37
+2023,2,Electronics,Smartwatch,29,11940.74
+2023,2,Electronics,Laptop,408,167309.53
+2023,2,Home & Kitchen,Vacuum Cleaner,333,37462.64
+2023,2,Toys,Board Game,92,26012.95
+2023,2,Sports,Football,269,118440.96
+2023,2,Electronics,Smartphone,113,33228.43
+2023,2,Beauty & Personal Care,Lipstick,347,64050.21
+2023,2,Home & Kitchen,Cookware,443,134499.11
+2023,2,Electronics,Laptop,467,182479.18
+2023,2,Electronics,Smartphone,471,16109.32
+2023,2,Books,Biography,306,123912.29
+2023,2,Electronics,Headphones,29,4737.77
+2023,2,Toys,Remote Car,212,33350.83
+2023,2,Toys,Remote Car,36,6961.5
+2023,2,Clothing,T-Shirt,34,15835.36
+2023,2,Home & Kitchen,Furniture,226,3569.08
+2023,2,Home & Kitchen,Air Purifier,67,1239.47
+2023,2,Electronics,Headphones,44,12559.78
+2023,2,Clothing,Jacket,380,7006.48
+2023,2,Clothing,Shoes,161,23305.55
+2023,2,Toys,Puzzle,145,9658.14
+2023,2,Books,Science,21,7124.69
+2023,2,Books,Fiction,12,3415.11
+2023,2,Home & Kitchen,Cookware,228,81878.24
+2023,2,Beauty & Personal Care,Perfume,314,100180.17
+2023,2,Home & Kitchen,Vacuum Cleaner,413,113301.94
+2023,2,Electronics,Smartwatch,182,13196.2
+2023,2,Books,Comics,240,2917.64
+2023,2,Electronics,Smartwatch,167,25045.06
+2023,2,Clothing,Shoes,145,51408.64
+2023,2,Books,Non-Fiction,329,29127.99
+2023,2,Clothing,Jacket,135,63020.35
+2023,2,Electronics,Smartphone,487,198662.33
+2023,2,Books,Science,293,8990.31
+2023,2,Books,Non-Fiction,26,3472.35
+2023,2,Books,Biography,98,28942.21
+2023,2,Electronics,Smartphone,464,146717.91
+2023,2,Electronics,Camera,460,118009.38
+2023,3,Clothing,Shoes,386,5589.97
+2023,3,Home & Kitchen,Cookware,113,46269.33
+2023,3,Clothing,Jeans,344,101851.55
+2023,3,Home & Kitchen,Blender,89,20473.22
+2023,3,Home & Kitchen,Blender,216,4119.26
+2023,3,Electronics,Headphones,234,111381.29
+2023,3,Sports,Yoga Mat,141,7482.81
+2023,3,Sports,Football,286,130710.39
+2023,3,Electronics,Smartwatch,143,7620.01
+2023,3,Books,Non-Fiction,45,14836.88
+2023,3,Electronics,Smartphone,468,163628.93
+2023,3,Home & Kitchen,Blender,358,24488.68
+2023,3,Books,Biography,479,131456.09
+2023,3,Clothing,Shoes,303,93170.78
+2023,3,Home & Kitchen,Air Purifier,485,108849.95
+2023,3,Books,Biography,177,26805.14
+2023,3,Electronics,Camera,374,21013.11
+2023,3,Home & Kitchen,Blender,335,102428.05
+2023,3,Books,Fiction,434,198354.22
+2023,3,Beauty & Personal Care,Body Wash,456,161755.67
+2023,3,Books,Biography,108,11456.5
+2023,3,Home & Kitchen,Blender,432,34964.52
+2023,3,Toys,Remote Car,336,160617.89
+2023,3,Books,Comics,50,18558.13
+2023,3,Books,Fiction,144,50869.97
+2023,3,Sports,Dumbbells,470,52216.28
+2023,3,Toys,Board Game,428,86000.34
+2023,3,Sports,Dumbbells,228,110821.27
+2023,3,Books,Non-Fiction,378,163963.79
+2023,3,Toys,Board Game,233,109501.2
+2023,3,Books,Biography,89,9197.28
+2023,3,Beauty & Personal Care,Body Wash,191,44791.74
+2023,3,Toys,Remote Car,21,8750.24
+2023,3,Beauty & Personal Care,Face Cream,415,12544.09
+2023,3,Home & Kitchen,Cookware,190,81767.45
+2023,3,Beauty & Personal Care,Perfume,375,24059.05
+2023,3,Home & Kitchen,Furniture,296,129653.67
+2023,3,Books,Biography,497,96005.47
+2023,3,Books,Science,42,13337.69
+2023,3,Home & Kitchen,Cookware,373,103085.01
+2023,3,Clothing,Hat,98,5406.81
+2023,3,Electronics,Camera,36,6187.75
+2023,3,Beauty & Personal Care,Face Cream,294,119847.13
+2023,3,Toys,Action Figure,224,29394.4
+2023,3,Home & Kitchen,Furniture,115,32319.19
+2023,3,Toys,Remote Car,85,35172.63
+2023,3,Sports,Football,151,73346.82
+2023,3,Electronics,Headphones,231,38859.01
+2023,3,Home & Kitchen,Vacuum Cleaner,158,32462.55
+2023,3,Toys,Doll,430,204938.14
+2023,3,Electronics,Laptop,346,139925.1
+2023,3,Beauty & Personal Care,Body Wash,362,84420.28
+2023,3,Clothing,Jacket,389,41474.73
+2023,3,Beauty & Personal Care,Face Cream,304,93339.39
+2023,3,Beauty & Personal Care,Lipstick,67,30591.25
+2023,3,Electronics,Headphones,297,29615.76
+2023,3,Toys,Action Figure,485,238307.2
+2023,3,Home & Kitchen,Furniture,287,7343.11
+2023,3,Sports,Yoga Mat,465,128183.53
+2023,3,Toys,Puzzle,300,22609.39
+2023,3,Home & Kitchen,Air Purifier,172,2058.7
+2023,3,Beauty & Personal Care,Lipstick,467,47640.96
+2023,3,Beauty & Personal Care,Perfume,270,26648.66
+2023,3,Beauty & Personal Care,Face Cream,25,8579.49
+2023,3,Clothing,Jacket,154,59175.19
+2023,3,Sports,Cricket Bat,300,114429.16
+2023,3,Toys,Board Game,274,126780.6
+2023,3,Electronics,Smartphone,462,151229.07
+2023,3,Clothing,Jeans,89,18933.81
+2023,3,Beauty & Personal Care,Perfume,326,84994.32
+2023,3,Sports,Yoga Mat,422,12311.83
+2023,3,Clothing,Jeans,433,107062.74
+2023,3,Sports,Tennis Racket,42,14716.05
+2023,3,Sports,Yoga Mat,11,820.5
+2023,3,Clothing,Jacket,292,50611.09
+2023,3,Beauty & Personal Care,Body Wash,314,67118.9
+2023,3,Sports,Cricket Bat,320,152811.76
+2023,3,Home & Kitchen,Furniture,182,73013.94
+2023,3,Books,Biography,180,63000.09
+2023,3,Sports,Tennis Racket,304,47629.56
+2023,3,Clothing,Jeans,352,156915.42
+2023,3,Beauty & Personal Care,Lipstick,294,127383.57
+2023,3,Electronics,Headphones,400,46949.86
+2023,3,Clothing,Jacket,161,40063.67
+2023,3,Beauty & Personal Care,Perfume,417,13165.19
+2023,3,Sports,Tennis Racket,25,2016.75
+2023,3,Clothing,Jeans,395,73628.51
+2023,3,Electronics,Smartwatch,44,8345.11
+2023,3,Toys,Doll,442,67140.83
+2023,3,Electronics,Laptop,245,77402.97
+2023,3,Electronics,Camera,213,59088.14
+2023,3,Toys,Board Game,356,8208.17
+2023,3,Beauty & Personal Care,Shampoo,78,10375.18
+2023,3,Beauty & Personal Care,Face Cream,103,44303.31
+2023,3,Clothing,Hat,419,192247.09
+2023,3,Books,Biography,72,20595.14
+2023,3,Electronics,Laptop,318,77088.31
+2023,3,Sports,Tennis Racket,356,85661.67
+2023,3,Books,Biography,476,151106.31
+2023,3,Electronics,Laptop,157,12404.83
+2023,4,Toys,Action Figure,87,6664.38
+2023,4,Books,Biography,110,45965.92
+2023,4,Toys,Puzzle,434,216285.0
+2023,4,Clothing,Jacket,198,54565.7
+2023,4,Books,Biography,383,92756.71
+2023,4,Home & Kitchen,Blender,235,107731.32
+2023,4,Beauty & Personal Care,Lipstick,92,13201.59
+2023,4,Beauty & Personal Care,Shampoo,63,14313.23
+2023,4,Sports,Yoga Mat,256,67228.29
+2023,4,Electronics,Smartwatch,194,70160.76
+2023,4,Books,Non-Fiction,470,209850.4
+2023,4,Beauty & Personal Care,Shampoo,49,1470.54
+2023,4,Books,Comics,76,19860.07
+2023,4,Clothing,Jacket,275,133186.75
+2023,4,Sports,Tennis Racket,427,190912.94
+2023,4,Clothing,Shoes,92,25296.64
+2023,4,Beauty & Personal Care,Body Wash,179,58164.12
+2023,4,Toys,Board Game,262,64284.05
+2023,4,Home & Kitchen,Vacuum Cleaner,177,71102.18
+2023,4,Home & Kitchen,Vacuum Cleaner,47,2114.64
+2023,4,Toys,Remote Car,291,42299.51
+2023,4,Books,Biography,49,23171.65
+2023,4,Books,Comics,12,4122.21
+2023,4,Electronics,Camera,131,61131.26
+2023,4,Beauty & Personal Care,Shampoo,146,8336.55
+2023,4,Toys,Action Figure,73,32452.5
+2023,4,Clothing,Shoes,494,110485.15
+2023,4,Beauty & Personal Care,Shampoo,436,167397.48
+2023,4,Home & Kitchen,Vacuum Cleaner,220,96856.31
+2023,4,Beauty & Personal Care,Face Cream,432,130948.8
+2023,4,Sports,Tennis Racket,441,58508.13
+2023,4,Toys,Doll,64,27531.45
+2023,4,Books,Comics,405,189783.15
+2023,4,Toys,Doll,358,20836.33
+2023,4,Books,Science,447,8607.74
+2023,4,Books,Fiction,418,188922.65
+2023,4,Toys,Puzzle,88,42607.09
+2023,4,Home & Kitchen,Furniture,156,76832.93
+2023,4,Beauty & Personal Care,Shampoo,423,144418.31
+2023,4,Sports,Dumbbells,202,38431.09
+2023,4,Books,Biography,45,12567.56
+2023,4,Home & Kitchen,Vacuum Cleaner,407,121956.5
+2023,4,Clothing,Shoes,93,35078.03
+2023,4,Home & Kitchen,Furniture,434,99868.77
+2023,4,Sports,Tennis Racket,332,145637.21
+2023,4,Sports,Tennis Racket,142,32561.61
+2023,4,Sports,Tennis Racket,492,205156.87
+2023,4,Books,Comics,128,46331.5
+2023,4,Clothing,Jeans,473,93124.24
+2023,4,Clothing,Jacket,301,107630.7
+2023,4,Electronics,Headphones,246,50819.07
+2023,4,Home & Kitchen,Vacuum Cleaner,87,10301.26
+2023,4,Clothing,Jacket,75,13442.64
+2023,4,Beauty & Personal Care,Body Wash,78,1341.85
+2023,4,Clothing,Shoes,306,89979.27
+2023,4,Home & Kitchen,Blender,432,83993.88
+2023,4,Books,Science,148,21601.46
+2023,4,Clothing,Jeans,229,15823.48
+2023,4,Home & Kitchen,Vacuum Cleaner,290,97271.1
+2023,4,Beauty & Personal Care,Body Wash,54,910.85
+2023,4,Sports,Football,191,76557.9
+2023,4,Home & Kitchen,Air Purifier,54,10593.03
+2023,4,Sports,Yoga Mat,378,182433.15
+2023,4,Beauty & Personal Care,Lipstick,349,60767.11
+2023,4,Toys,Puzzle,413,183846.72
+2023,4,Sports,Yoga Mat,330,105321.41
+2023,4,Toys,Action Figure,358,120156.44
+2023,4,Toys,Action Figure,215,38325.96
+2023,4,Electronics,Smartphone,325,33671.27
+2023,4,Beauty & Personal Care,Lipstick,363,48826.45
+2023,4,Beauty & Personal Care,Perfume,157,76460.79
+2023,4,Books,Biography,385,73958.91
+2023,4,Home & Kitchen,Cookware,369,53195.28
+2023,4,Clothing,Shoes,237,41223.71
+2023,4,Books,Science,407,42740.0
+2023,4,Toys,Action Figure,33,3874.31
+2023,4,Clothing,Hat,34,3248.2
+2023,4,Toys,Board Game,330,99179.63
+2023,4,Sports,Football,224,24691.41
+2023,4,Books,Science,273,53470.53
+2023,4,Clothing,Hat,110,14588.94
+2023,4,Clothing,Jeans,271,99481.93
+2023,4,Books,Biography,143,1903.44
+2023,4,Books,Non-Fiction,57,3102.09
+2023,4,Books,Non-Fiction,216,80346.58
+2023,4,Toys,Doll,423,117948.99
+2023,4,Home & Kitchen,Cookware,409,127004.75
+2023,4,Clothing,Shoes,224,29884.44
+2023,4,Home & Kitchen,Cookware,424,154263.42
+2023,4,Beauty & Personal Care,Shampoo,344,100600.58
+2023,4,Home & Kitchen,Furniture,272,134497.66
+2023,4,Books,Comics,142,67313.02
+2023,4,Electronics,Laptop,456,214587.29
+2023,4,Toys,Board Game,471,191745.73
+2023,4,Clothing,Jacket,339,19649.75
+2023,4,Toys,Action Figure,258,72645.84
+2023,4,Electronics,Smartphone,434,117641.25
+2023,4,Electronics,Smartwatch,292,18229.78
+2023,4,Books,Fiction,329,58627.64
+2023,4,Toys,Doll,396,83904.98
+2023,5,Electronics,Headphones,482,175660.84
+2023,5,Electronics,Smartwatch,205,54180.71
+2023,5,Sports,Cricket Bat,251,30575.82
+2023,5,Clothing,Shoes,119,38816.17
+2023,5,Electronics,Laptop,425,126084.16
+2023,5,Beauty & Personal Care,Lipstick,425,43168.09
+2023,5,Electronics,Camera,491,207419.34
+2023,5,Sports,Tennis Racket,203,12531.47
+2023,5,Electronics,Smartwatch,428,37758.22
+2023,5,Sports,Football,92,38807.87
+2023,5,Home & Kitchen,Furniture,78,11412.43
+2023,5,Electronics,Headphones,389,24096.37
+2023,5,Home & Kitchen,Vacuum Cleaner,106,31225.57
+2023,5,Books,Fiction,428,10221.08
+2023,5,Beauty & Personal Care,Perfume,301,4223.41
+2023,5,Sports,Football,106,44708.57
+2023,5,Books,Science,409,60974.7
+2023,5,Clothing,Jeans,377,135202.48
+2023,5,Clothing,Jacket,281,71018.13
+2023,5,Sports,Dumbbells,192,71195.67
+2023,5,Beauty & Personal Care,Perfume,347,65183.32
+2023,5,Toys,Puzzle,453,185445.45
+2023,5,Toys,Puzzle,432,199251.05
+2023,5,Books,Non-Fiction,179,81768.39
+2023,5,Electronics,Laptop,136,18671.32
+2023,5,Beauty & Personal Care,Face Cream,187,4514.33
+2023,5,Books,Non-Fiction,118,29120.65
+2023,5,Electronics,Headphones,474,174454.9
+2023,5,Sports,Tennis Racket,382,43400.07
+2023,5,Toys,Board Game,53,9578.1
+2023,5,Electronics,Headphones,249,62314.37
+2023,5,Electronics,Camera,51,19891.48
+2023,5,Books,Biography,410,37641.11
+2023,5,Home & Kitchen,Cookware,417,87658.56
+2023,5,Beauty & Personal Care,Shampoo,348,58654.25
+2023,5,Electronics,Headphones,258,91399.32
+2023,5,Home & Kitchen,Air Purifier,178,19847.58
+2023,5,Beauty & Personal Care,Body Wash,349,128614.4
+2023,5,Electronics,Smartwatch,62,3411.4
+2023,5,Books,Comics,192,63861.23
+2023,5,Sports,Football,99,19352.4
+2023,5,Clothing,Hat,177,29890.93
+2023,5,Beauty & Personal Care,Perfume,21,10142.35
+2023,5,Books,Biography,147,23222.01
+2023,5,Toys,Doll,151,2087.86
+2023,5,Books,Science,163,72490.38
+2023,5,Books,Fiction,90,21759.99
+2023,5,Electronics,Smartwatch,465,196429.58
+2023,5,Books,Fiction,299,148122.57
+2023,5,Home & Kitchen,Furniture,217,65800.34
+2023,5,Electronics,Smartwatch,197,64369.14
+2023,5,Electronics,Smartphone,153,52674.17
+2023,5,Toys,Doll,191,72048.92
+2023,5,Sports,Yoga Mat,138,22050.77
+2023,5,Sports,Dumbbells,463,82057.5
+2023,5,Electronics,Headphones,403,32191.56
+2023,5,Home & Kitchen,Vacuum Cleaner,330,69419.35
+2023,5,Sports,Cricket Bat,17,7074.5
+2023,5,Books,Science,335,48467.68
+2023,5,Sports,Dumbbells,227,24126.44
+2023,5,Electronics,Smartwatch,199,3059.91
+2023,5,Home & Kitchen,Vacuum Cleaner,480,190271.95
+2023,5,Toys,Action Figure,325,121513.39
+2023,5,Sports,Yoga Mat,289,72979.46
+2023,5,Toys,Remote Car,59,16008.49
+2023,5,Toys,Action Figure,99,12427.56
+2023,5,Electronics,Laptop,198,27100.54
+2023,5,Clothing,T-Shirt,353,49059.36
+2023,5,Toys,Board Game,396,30500.92
+2023,5,Home & Kitchen,Cookware,229,49519.17
+2023,5,Beauty & Personal Care,Shampoo,399,147553.86
+2023,5,Books,Biography,198,52999.63
+2023,5,Toys,Action Figure,167,40962.22
+2023,5,Books,Science,231,44932.09
+2023,5,Home & Kitchen,Blender,309,125532.06
+2023,5,Sports,Football,269,64734.46
+2023,5,Beauty & Personal Care,Face Cream,343,158640.01
+2023,5,Sports,Football,328,73352.21
+2023,5,Books,Biography,107,39687.21
+2023,5,Beauty & Personal Care,Shampoo,207,5621.47
+2023,5,Books,Biography,390,143952.83
+2023,5,Clothing,Hat,197,28448.97
+2023,5,Clothing,Hat,351,124693.9
+2023,5,Electronics,Laptop,402,114050.92
+2023,5,Toys,Doll,64,13085.62
+2023,5,Home & Kitchen,Furniture,344,91690.07
+2023,5,Electronics,Smartwatch,420,135382.01
+2023,5,Clothing,Shoes,216,4068.93
+2023,5,Home & Kitchen,Air Purifier,331,163179.51
+2023,5,Beauty & Personal Care,Face Cream,370,155773.82
+2023,5,Electronics,Smartphone,358,129228.55
+2023,5,Beauty & Personal Care,Shampoo,244,108629.63
+2023,5,Beauty & Personal Care,Lipstick,13,4185.11
+2023,5,Books,Comics,376,55575.25
+2023,5,Electronics,Camera,249,84763.83
+2023,5,Home & Kitchen,Furniture,73,25970.53
+2023,5,Home & Kitchen,Air Purifier,185,16963.51
+2023,5,Clothing,Jeans,294,48850.54
+2023,5,Electronics,Camera,397,37205.92
+2023,5,Home & Kitchen,Furniture,240,104820.77
+2023,6,Clothing,T-Shirt,292,111715.22
+2023,6,Books,Non-Fiction,178,75819.71
+2023,6,Beauty & Personal Care,Body Wash,305,58414.12
+2023,6,Sports,Dumbbells,132,49971.1
+2023,6,Beauty & Personal Care,Shampoo,295,10802.32
+2023,6,Toys,Puzzle,86,14954.05
+2023,6,Clothing,Jacket,183,39383.39
+2023,6,Sports,Yoga Mat,97,5786.33
+2023,6,Books,Science,438,32920.23
+2023,6,Clothing,Shoes,120,33842.96
+2023,6,Sports,Tennis Racket,224,27618.4
+2023,6,Toys,Action Figure,239,106751.62
+2023,6,Sports,Dumbbells,445,148365.53
+2023,6,Toys,Doll,326,47379.25
+2023,6,Sports,Tennis Racket,335,135894.04
+2023,6,Clothing,Jacket,230,108467.19
+2023,6,Toys,Puzzle,418,61249.71
+2023,6,Sports,Football,117,10905.04
+2023,6,Home & Kitchen,Air Purifier,457,43055.16
+2023,6,Clothing,T-Shirt,285,107321.64
+2023,6,Toys,Remote Car,417,140645.65
+2023,6,Home & Kitchen,Cookware,473,78200.81
+2023,6,Toys,Puzzle,124,28024.57
+2023,6,Electronics,Camera,170,40450.75
+2023,6,Beauty & Personal Care,Body Wash,68,28094.08
+2023,6,Electronics,Smartwatch,268,48391.14
+2023,6,Home & Kitchen,Air Purifier,136,39574.62
+2023,6,Electronics,Headphones,172,7835.06
+2023,6,Beauty & Personal Care,Perfume,55,6074.0
+2023,6,Toys,Puzzle,429,61307.82
+2023,6,Beauty & Personal Care,Face Cream,75,19614.42
+2023,6,Toys,Puzzle,131,26322.88
+2023,6,Toys,Action Figure,477,41159.7
+2023,6,Electronics,Smartphone,340,69650.43
+2023,6,Toys,Remote Car,85,24782.15
+2023,6,Clothing,Jacket,152,51614.71
+2023,6,Electronics,Smartwatch,424,89011.23
+2023,6,Sports,Football,254,122324.38
+2023,6,Clothing,T-Shirt,341,155236.8
+2023,6,Books,Science,231,30543.33
+2023,6,Books,Biography,301,35090.58
+2023,6,Toys,Remote Car,497,169740.05
+2023,6,Electronics,Smartphone,368,8461.15
+2023,6,Home & Kitchen,Cookware,398,190359.72
+2023,6,Electronics,Headphones,242,77471.36
+2023,6,Home & Kitchen,Blender,69,4215.27
+2023,6,Home & Kitchen,Vacuum Cleaner,95,6407.25
+2023,6,Sports,Football,350,101831.01
+2023,6,Electronics,Camera,327,121344.7
+2023,6,Toys,Remote Car,155,66697.2
+2023,6,Toys,Board Game,468,131144.99
+2023,6,Beauty & Personal Care,Perfume,346,69704.04
+2023,6,Electronics,Smartphone,390,106468.37
+2023,6,Electronics,Laptop,237,79500.86
+2023,6,Beauty & Personal Care,Lipstick,228,16069.7
+2023,6,Electronics,Camera,159,23882.83
+2023,6,Sports,Dumbbells,213,92652.08
+2023,6,Beauty & Personal Care,Face Cream,130,23915.27
+2023,6,Beauty & Personal Care,Body Wash,429,89339.21
+2023,6,Beauty & Personal Care,Face Cream,466,90753.96
+2023,6,Sports,Yoga Mat,11,343.03
+2023,6,Clothing,Jeans,60,17092.69
+2023,6,Electronics,Camera,137,37877.02
+2023,6,Electronics,Smartphone,143,65797.41
+2023,6,Beauty & Personal Care,Face Cream,246,8356.79
+2023,6,Clothing,Hat,332,114277.37
+2023,6,Home & Kitchen,Cookware,417,16102.06
+2023,6,Toys,Doll,427,167983.55
+2023,6,Sports,Dumbbells,136,51253.34
+2023,6,Toys,Puzzle,355,55400.94
+2023,6,Books,Biography,348,153991.33
+2023,6,Beauty & Personal Care,Shampoo,271,47056.6
+2023,6,Toys,Action Figure,299,127780.54
+2023,6,Toys,Puzzle,360,112233.8
+2023,6,Beauty & Personal Care,Face Cream,128,24830.23
+2023,6,Toys,Action Figure,446,204760.44
+2023,6,Books,Fiction,491,241370.9
+2023,6,Electronics,Headphones,235,88084.2
+2023,6,Books,Science,454,191189.41
+2023,6,Books,Comics,358,41978.83
+2023,6,Sports,Cricket Bat,362,88263.84
+2023,6,Books,Comics,45,19227.79
+2023,6,Home & Kitchen,Cookware,391,140000.57
+2023,6,Home & Kitchen,Furniture,122,49855.05
+2023,6,Home & Kitchen,Furniture,147,11449.6
+2023,6,Toys,Puzzle,40,277.32
+2023,6,Books,Comics,447,87149.71
+2023,6,Beauty & Personal Care,Shampoo,113,4089.53
+2023,6,Home & Kitchen,Vacuum Cleaner,230,111237.67
+2023,6,Books,Science,500,24010.37
+2023,6,Toys,Doll,13,3263.02
+2023,6,Sports,Dumbbells,96,2171.43
+2023,6,Toys,Action Figure,54,7675.7
+2023,6,Toys,Action Figure,308,78639.48
+2023,6,Books,Biography,16,6566.37
+2023,6,Toys,Board Game,448,72956.76
+2023,6,Electronics,Camera,370,167073.53
+2023,6,Books,Fiction,496,59867.09
+2023,6,Beauty & Personal Care,Shampoo,389,191617.78
+2023,6,Toys,Remote Car,310,122926.75
+2023,7,Home & Kitchen,Vacuum Cleaner,326,77933.89
+2023,7,Beauty & Personal Care,Perfume,148,39605.84
+2023,7,Home & Kitchen,Blender,88,40688.75
+2023,7,Sports,Tennis Racket,423,205434.69
+2023,7,Electronics,Smartphone,21,8926.86
+2023,7,Electronics,Headphones,403,199607.11
+2023,7,Beauty & Personal Care,Shampoo,191,1137.82
+2023,7,Electronics,Laptop,423,25170.42
+2023,7,Clothing,T-Shirt,221,108293.52
+2023,7,Toys,Action Figure,91,13682.98
+2023,7,Clothing,Hat,77,14813.88
+2023,7,Clothing,T-Shirt,84,36937.31
+2023,7,Home & Kitchen,Vacuum Cleaner,205,55027.59
+2023,7,Home & Kitchen,Blender,234,39359.17
+2023,7,Home & Kitchen,Vacuum Cleaner,354,108792.77
+2023,7,Home & Kitchen,Air Purifier,453,192497.88
+2023,7,Home & Kitchen,Blender,319,91592.21
+2023,7,Home & Kitchen,Cookware,28,10861.9
+2023,7,Beauty & Personal Care,Lipstick,13,1387.21
+2023,7,Clothing,T-Shirt,199,12932.41
+2023,7,Books,Comics,455,203320.61
+2023,7,Beauty & Personal Care,Shampoo,158,73504.13
+2023,7,Books,Biography,278,21837.02
+2023,7,Clothing,T-Shirt,391,78629.81
+2023,7,Clothing,Shoes,425,134177.59
+2023,7,Clothing,T-Shirt,254,98354.7
+2023,7,Books,Science,34,13690.23
+2023,7,Toys,Board Game,187,9036.81
+2023,7,Clothing,Jeans,257,66779.74
+2023,7,Toys,Board Game,318,47843.04
+2023,7,Clothing,Hat,46,14978.04
+2023,7,Books,Comics,500,86498.71
+2023,7,Books,Science,399,65791.78
+2023,7,Toys,Puzzle,354,154097.16
+2023,7,Electronics,Laptop,97,41752.18
+2023,7,Electronics,Smartphone,258,69507.47
+2023,7,Home & Kitchen,Blender,82,28293.66
+2023,7,Home & Kitchen,Air Purifier,381,83161.85
+2023,7,Home & Kitchen,Cookware,251,46098.7
+2023,7,Sports,Football,315,144514.53
+2023,7,Home & Kitchen,Furniture,500,131962.89
+2023,7,Electronics,Smartphone,47,8901.2
+2023,7,Books,Comics,283,115516.87
+2023,7,Clothing,T-Shirt,30,1653.95
+2023,7,Beauty & Personal Care,Body Wash,289,99452.67
+2023,7,Home & Kitchen,Vacuum Cleaner,343,11900.58
+2023,7,Clothing,T-Shirt,164,19064.52
+2023,7,Books,Non-Fiction,253,119494.87
+2023,7,Clothing,Jacket,103,32993.73
+2023,7,Toys,Remote Car,147,67611.38
+2023,7,Clothing,Hat,99,18233.2
+2023,7,Beauty & Personal Care,Shampoo,148,11742.95
+2023,7,Toys,Doll,479,110841.69
+2023,7,Electronics,Smartwatch,180,33832.57
+2023,7,Books,Science,224,103647.25
+2023,7,Toys,Board Game,140,55630.43
+2023,7,Electronics,Laptop,433,160445.36
+2023,7,Clothing,Shoes,402,125252.41
+2023,7,Beauty & Personal Care,Face Cream,361,29704.5
+2023,7,Sports,Football,107,4384.7
+2023,7,Home & Kitchen,Air Purifier,269,49647.13
+2023,7,Books,Science,172,70138.28
+2023,7,Sports,Dumbbells,111,8364.34
+2023,7,Sports,Dumbbells,484,64975.93
+2023,7,Toys,Doll,440,163358.67
+2023,7,Home & Kitchen,Furniture,283,46579.98
+2023,7,Books,Fiction,236,25651.83
+2023,7,Home & Kitchen,Air Purifier,74,16379.3
+2023,7,Clothing,Hat,54,16075.82
+2023,7,Clothing,Jacket,302,24926.73
+2023,7,Clothing,Jeans,355,105211.54
+2023,7,Toys,Action Figure,319,139943.96
+2023,7,Sports,Tennis Racket,455,173234.39
+2023,7,Home & Kitchen,Furniture,221,65190.88
+2023,7,Clothing,Jeans,289,67632.01
+2023,7,Books,Fiction,62,18782.8
+2023,7,Beauty & Personal Care,Perfume,411,74373.4
+2023,7,Clothing,Shoes,48,16630.53
+2023,7,Electronics,Smartwatch,426,20089.23
+2023,7,Books,Non-Fiction,330,123246.62
+2023,7,Beauty & Personal Care,Body Wash,29,3082.78
+2023,7,Toys,Remote Car,188,25925.48
+2023,7,Beauty & Personal Care,Shampoo,369,8696.45
+2023,7,Beauty & Personal Care,Perfume,406,32705.38
+2023,7,Clothing,T-Shirt,103,7972.5
+2023,7,Books,Comics,158,18969.7
+2023,7,Books,Fiction,363,4884.98
+2023,7,Home & Kitchen,Vacuum Cleaner,57,5905.56
+2023,7,Clothing,Jacket,190,13332.32
+2023,7,Toys,Puzzle,316,128212.9
+2023,7,Toys,Action Figure,18,5984.7
+2023,7,Books,Biography,185,45699.48
+2023,7,Sports,Tennis Racket,467,233260.13
+2023,7,Electronics,Camera,417,82446.5
+2023,7,Beauty & Personal Care,Face Cream,141,34167.28
+2023,7,Home & Kitchen,Vacuum Cleaner,282,129382.64
+2023,7,Sports,Football,330,102046.83
+2023,7,Beauty & Personal Care,Shampoo,102,24303.53
+2023,7,Sports,Yoga Mat,287,26878.45
+2023,7,Clothing,Jacket,145,55868.75
+2023,8,Books,Fiction,170,16270.38
+2023,8,Clothing,Hat,477,129317.45
+2023,8,Beauty & Personal Care,Shampoo,89,8592.49
+2023,8,Books,Biography,16,769.39
+2023,8,Toys,Board Game,25,11783.95
+2023,8,Electronics,Smartwatch,115,51943.58
+2023,8,Home & Kitchen,Cookware,36,17952.88
+2023,8,Clothing,Jacket,331,40454.6
+2023,8,Books,Science,413,6604.13
+2023,8,Home & Kitchen,Furniture,283,44642.42
+2023,8,Toys,Board Game,439,162657.11
+2023,8,Clothing,Shoes,214,19786.29
+2023,8,Electronics,Smartphone,474,48800.83
+2023,8,Toys,Board Game,67,8275.86
+2023,8,Toys,Board Game,155,4823.79
+2023,8,Home & Kitchen,Furniture,72,20438.27
+2023,8,Electronics,Smartphone,60,19084.49
+2023,8,Electronics,Smartwatch,364,161101.64
+2023,8,Toys,Action Figure,238,68106.77
+2023,8,Beauty & Personal Care,Shampoo,197,11080.08
+2023,8,Beauty & Personal Care,Shampoo,340,52511.7
+2023,8,Home & Kitchen,Vacuum Cleaner,309,18293.15
+2023,8,Sports,Cricket Bat,38,7769.18
+2023,8,Electronics,Headphones,325,108738.73
+2023,8,Electronics,Camera,470,234136.07
+2023,8,Sports,Football,381,77891.61
+2023,8,Toys,Doll,145,60496.46
+2023,8,Electronics,Laptop,253,105694.62
+2023,8,Toys,Doll,477,206837.78
+2023,8,Toys,Puzzle,91,19575.61
+2023,8,Toys,Doll,187,46534.3
+2023,8,Books,Comics,450,208067.03
+2023,8,Toys,Doll,298,74202.98
+2023,8,Beauty & Personal Care,Body Wash,258,34805.22
+2023,8,Electronics,Headphones,147,18189.23
+2023,8,Electronics,Camera,15,4195.18
+2023,8,Sports,Yoga Mat,352,62986.05
+2023,8,Sports,Cricket Bat,10,782.74
+2023,8,Home & Kitchen,Vacuum Cleaner,268,60742.8
+2023,8,Electronics,Laptop,18,2091.44
+2023,8,Beauty & Personal Care,Perfume,412,145934.04
+2023,8,Sports,Tennis Racket,405,125046.3
+2023,8,Beauty & Personal Care,Perfume,460,191891.23
+2023,8,Sports,Football,173,24088.52
+2023,8,Sports,Dumbbells,252,22683.48
+2023,8,Toys,Puzzle,289,109177.27
+2023,8,Books,Science,119,24499.47
+2023,8,Books,Fiction,493,198905.36
+2023,8,Home & Kitchen,Vacuum Cleaner,148,68692.05
+2023,8,Toys,Board Game,160,49298.81
+2023,8,Books,Science,46,5957.0
+2023,8,Toys,Puzzle,167,65463.16
+2023,8,Electronics,Camera,242,59786.26
+2023,8,Home & Kitchen,Vacuum Cleaner,352,132220.68
+2023,8,Beauty & Personal Care,Body Wash,326,22017.06
+2023,8,Clothing,T-Shirt,258,54908.19
+2023,8,Home & Kitchen,Vacuum Cleaner,161,41899.81
+2023,8,Beauty & Personal Care,Body Wash,187,41027.55
+2023,8,Electronics,Smartphone,272,83067.37
+2023,8,Home & Kitchen,Blender,486,12653.67
+2023,8,Electronics,Smartphone,439,179145.34
+2023,8,Home & Kitchen,Air Purifier,399,106336.22
+2023,8,Books,Comics,251,82084.77
+2023,8,Toys,Board Game,21,7060.17
+2023,8,Books,Non-Fiction,204,80058.46
+2023,8,Books,Science,213,30372.6
+2023,8,Sports,Football,267,74471.1
+2023,8,Beauty & Personal Care,Body Wash,494,238292.09
+2023,8,Electronics,Laptop,40,2535.59
+2023,8,Home & Kitchen,Cookware,287,140072.37
+2023,8,Electronics,Headphones,171,56459.57
+2023,8,Home & Kitchen,Air Purifier,15,3494.58
+2023,8,Electronics,Laptop,240,68078.78
+2023,8,Beauty & Personal Care,Perfume,239,117885.68
+2023,8,Sports,Dumbbells,310,143156.12
+2023,8,Home & Kitchen,Blender,124,24969.83
+2023,8,Electronics,Smartphone,112,31561.15
+2023,8,Home & Kitchen,Furniture,344,51060.12
+2023,8,Toys,Remote Car,107,49209.1
+2023,8,Books,Non-Fiction,347,90725.0
+2023,8,Home & Kitchen,Furniture,176,12359.24
+2023,8,Beauty & Personal Care,Face Cream,12,391.9
+2023,8,Toys,Action Figure,67,23399.75
+2023,8,Sports,Tennis Racket,220,43025.03
+2023,8,Electronics,Laptop,243,50104.86
+2023,8,Clothing,T-Shirt,339,120088.51
+2023,8,Clothing,T-Shirt,201,52192.87
+2023,8,Sports,Cricket Bat,200,31774.48
+2023,8,Toys,Action Figure,355,92341.88
+2023,8,Sports,Dumbbells,242,65695.94
+2023,8,Books,Non-Fiction,322,92522.2
+2023,8,Electronics,Laptop,159,63279.26
+2023,8,Home & Kitchen,Vacuum Cleaner,284,94022.76
+2023,8,Books,Non-Fiction,210,70494.49
+2023,8,Home & Kitchen,Furniture,338,164807.75
+2023,8,Books,Non-Fiction,477,121754.15
+2023,8,Clothing,Hat,174,85449.53
+2023,8,Home & Kitchen,Vacuum Cleaner,323,88827.24
+2023,8,Books,Fiction,204,81320.12
+2023,8,Sports,Yoga Mat,150,29608.12
+2023,9,Beauty & Personal Care,Body Wash,71,14408.22
+2023,9,Electronics,Camera,100,15074.69
+2023,9,Electronics,Camera,430,81256.87
+2023,9,Home & Kitchen,Vacuum Cleaner,431,105605.11
+2023,9,Beauty & Personal Care,Face Cream,39,12152.55
+2023,9,Toys,Action Figure,100,45208.73
+2023,9,Home & Kitchen,Vacuum Cleaner,471,222997.65
+2023,9,Electronics,Camera,169,80901.86
+2023,9,Home & Kitchen,Furniture,292,120191.85
+2023,9,Home & Kitchen,Blender,123,4670.25
+2023,9,Electronics,Smartwatch,436,17355.6
+2023,9,Beauty & Personal Care,Face Cream,195,39496.79
+2023,9,Home & Kitchen,Air Purifier,497,27939.94
+2023,9,Electronics,Laptop,166,46266.12
+2023,9,Clothing,Jeans,113,44306.38
+2023,9,Toys,Board Game,389,124737.2
+2023,9,Electronics,Smartphone,341,129118.27
+2023,9,Home & Kitchen,Air Purifier,89,8868.08
+2023,9,Home & Kitchen,Vacuum Cleaner,159,29815.92
+2023,9,Toys,Puzzle,101,4517.81
+2023,9,Beauty & Personal Care,Shampoo,424,145632.04
+2023,9,Clothing,Hat,475,78607.59
+2023,9,Home & Kitchen,Air Purifier,147,19680.07
+2023,9,Sports,Dumbbells,458,222117.13
+2023,9,Books,Science,126,54588.64
+2023,9,Toys,Remote Car,236,18946.8
+2023,9,Home & Kitchen,Air Purifier,18,4253.14
+2023,9,Home & Kitchen,Air Purifier,62,25104.53
+2023,9,Beauty & Personal Care,Perfume,374,6438.36
+2023,9,Beauty & Personal Care,Perfume,94,37148.81
+2023,9,Clothing,Shoes,182,27098.29
+2023,9,Electronics,Camera,32,10603.99
+2023,9,Books,Science,140,66799.66
+2023,9,Electronics,Camera,318,57307.41
+2023,9,Toys,Puzzle,342,104704.47
+2023,9,Clothing,Shoes,307,38764.93
+2023,9,Beauty & Personal Care,Shampoo,260,24104.28
+2023,9,Toys,Remote Car,476,4184.7
+2023,9,Electronics,Headphones,137,37000.58
+2023,9,Books,Non-Fiction,267,118862.0
+2023,9,Books,Biography,220,38086.95
+2023,9,Electronics,Smartwatch,497,208447.55
+2023,9,Toys,Board Game,168,73438.5
+2023,9,Sports,Tennis Racket,170,80156.06
+2023,9,Books,Fiction,395,3120.64
+2023,9,Home & Kitchen,Cookware,436,71862.99
+2023,9,Sports,Football,310,87475.16
+2023,9,Toys,Remote Car,275,31823.06
+2023,9,Home & Kitchen,Blender,265,31627.88
+2023,9,Toys,Puzzle,259,67886.05
+2023,9,Sports,Dumbbells,157,17192.32
+2023,9,Books,Non-Fiction,129,41707.11
+2023,9,Books,Non-Fiction,160,4322.0
+2023,9,Electronics,Smartphone,152,28116.11
+2023,9,Sports,Tennis Racket,143,16216.06
+2023,9,Home & Kitchen,Vacuum Cleaner,113,38786.08
+2023,9,Beauty & Personal Care,Perfume,144,61656.33
+2023,9,Toys,Board Game,260,120259.02
+2023,9,Books,Biography,397,5359.3
+2023,9,Sports,Tennis Racket,67,26747.47
+2023,9,Home & Kitchen,Furniture,349,166185.27
+2023,9,Electronics,Smartphone,182,90763.32
+2023,9,Beauty & Personal Care,Shampoo,212,13129.94
+2023,9,Books,Science,73,34874.48
+2023,9,Beauty & Personal Care,Shampoo,271,77962.58
+2023,9,Clothing,Jeans,121,23951.74
+2023,9,Beauty & Personal Care,Perfume,126,19576.22
+2023,9,Beauty & Personal Care,Shampoo,406,14269.4
+2023,9,Books,Science,315,71079.68
+2023,9,Clothing,Jacket,103,44783.61
+2023,9,Clothing,Shoes,107,4372.83
+2023,9,Toys,Board Game,73,11906.14
+2023,9,Electronics,Smartwatch,14,6585.35
+2023,9,Electronics,Smartphone,245,103120.03
+2023,9,Beauty & Personal Care,Body Wash,218,100375.14
+2023,9,Clothing,Hat,72,7469.58
+2023,9,Beauty & Personal Care,Perfume,323,100582.19
+2023,9,Clothing,Hat,67,16191.8
+2023,9,Electronics,Smartwatch,315,37230.4
+2023,9,Books,Comics,452,202184.6
+2023,9,Beauty & Personal Care,Lipstick,40,4470.47
+2023,9,Toys,Remote Car,168,56168.88
+2023,9,Home & Kitchen,Air Purifier,198,59630.21
+2023,9,Books,Non-Fiction,158,21692.29
+2023,9,Beauty & Personal Care,Shampoo,252,6270.21
+2023,9,Sports,Cricket Bat,275,114683.35
+2023,9,Clothing,Jacket,97,21726.41
+2023,9,Sports,Cricket Bat,212,49626.54
+2023,9,Toys,Doll,298,53577.6
+2023,9,Toys,Doll,489,83417.95
+2023,9,Clothing,T-Shirt,196,46806.03
+2023,9,Electronics,Camera,345,42805.96
+2023,9,Electronics,Headphones,439,102088.02
+2023,9,Beauty & Personal Care,Face Cream,304,111212.47
+2023,9,Books,Science,140,42899.85
+2023,9,Sports,Dumbbells,235,81460.26
+2023,9,Beauty & Personal Care,Face Cream,28,12066.54
+2023,9,Sports,Yoga Mat,246,53787.01
+2023,9,Beauty & Personal Care,Perfume,115,24043.32
+2023,9,Beauty & Personal Care,Shampoo,87,1399.75
+2023,10,Toys,Doll,435,82074.88
+2023,10,Electronics,Smartwatch,82,30097.19
+2023,10,Electronics,Laptop,463,208109.09
+2023,10,Home & Kitchen,Air Purifier,203,87787.23
+2023,10,Toys,Doll,379,69908.39
+2023,10,Toys,Remote Car,192,89821.35
+2023,10,Books,Fiction,499,133177.37
+2023,10,Books,Biography,429,180772.21
+2023,10,Clothing,T-Shirt,496,17026.56
+2023,10,Books,Biography,85,28722.21
+2023,10,Toys,Puzzle,283,36711.96
+2023,10,Sports,Tennis Racket,250,122071.93
+2023,10,Electronics,Laptop,468,158777.66
+2023,10,Toys,Remote Car,398,132669.39
+2023,10,Sports,Cricket Bat,107,37504.5
+2023,10,Beauty & Personal Care,Face Cream,481,31418.49
+2023,10,Books,Non-Fiction,99,1115.11
+2023,10,Beauty & Personal Care,Perfume,106,41980.58
+2023,10,Clothing,Jeans,370,140628.32
+2023,10,Home & Kitchen,Cookware,449,57536.48
+2023,10,Books,Science,479,86320.45
+2023,10,Electronics,Laptop,484,92848.15
+2023,10,Beauty & Personal Care,Face Cream,415,187393.68
+2023,10,Home & Kitchen,Cookware,197,96038.09
+2023,10,Beauty & Personal Care,Perfume,377,53625.12
+2023,10,Electronics,Laptop,481,213851.63
+2023,10,Books,Biography,215,44263.8
+2023,10,Sports,Yoga Mat,307,22202.03
+2023,10,Books,Science,36,8489.78
+2023,10,Clothing,Jacket,332,81512.75
+2023,10,Beauty & Personal Care,Perfume,413,204518.05
+2023,10,Electronics,Headphones,391,41686.44
+2023,10,Clothing,Jacket,370,72375.96
+2023,10,Books,Science,292,18678.53
+2023,10,Clothing,Hat,175,52547.22
+2023,10,Sports,Cricket Bat,447,215568.08
+2023,10,Toys,Action Figure,373,97658.62
+2023,10,Toys,Doll,468,4562.32
+2023,10,Toys,Doll,183,12193.05
+2023,10,Home & Kitchen,Furniture,395,155788.93
+2023,10,Sports,Football,140,69869.94
+2023,10,Books,Science,461,7633.8
+2023,10,Toys,Doll,495,202569.29
+2023,10,Home & Kitchen,Air Purifier,292,7649.97
+2023,10,Toys,Doll,463,101346.72
+2023,10,Clothing,T-Shirt,360,141346.99
+2023,10,Books,Fiction,330,38896.49
+2023,10,Books,Fiction,446,65435.97
+2023,10,Beauty & Personal Care,Lipstick,252,43559.2
+2023,10,Electronics,Camera,187,55625.82
+2023,10,Clothing,T-Shirt,373,160472.31
+2023,10,Home & Kitchen,Air Purifier,379,110874.5
+2023,10,Books,Science,464,13419.49
+2023,10,Toys,Doll,126,20699.78
+2023,10,Beauty & Personal Care,Lipstick,372,47284.88
+2023,10,Toys,Remote Car,259,44223.12
+2023,10,Toys,Puzzle,279,28991.02
+2023,10,Electronics,Smartphone,418,132116.35
+2023,10,Clothing,Jeans,385,142827.13
+2023,10,Electronics,Laptop,421,196477.8
+2023,10,Sports,Dumbbells,119,6118.91
+2023,10,Beauty & Personal Care,Lipstick,340,110699.98
+2023,10,Home & Kitchen,Vacuum Cleaner,111,28904.34
+2023,10,Beauty & Personal Care,Shampoo,160,47706.46
+2023,10,Electronics,Smartphone,410,186679.97
+2023,10,Sports,Cricket Bat,238,117155.78
+2023,10,Toys,Board Game,182,36216.66
+2023,10,Toys,Remote Car,110,46734.46
+2023,10,Clothing,T-Shirt,76,36299.03
+2023,10,Clothing,Jeans,398,64584.08
+2023,10,Beauty & Personal Care,Body Wash,418,156538.31
+2023,10,Beauty & Personal Care,Face Cream,239,119438.5
+2023,10,Books,Biography,462,222208.36
+2023,10,Home & Kitchen,Blender,390,129192.84
+2023,10,Toys,Action Figure,391,6495.19
+2023,10,Beauty & Personal Care,Face Cream,304,36352.93
+2023,10,Sports,Cricket Bat,291,20121.6
+2023,10,Books,Biography,459,155530.78
+2023,10,Beauty & Personal Care,Perfume,345,127374.65
+2023,10,Beauty & Personal Care,Lipstick,81,10718.31
+2023,10,Books,Fiction,97,14391.54
+2023,10,Books,Non-Fiction,53,7084.87
+2023,10,Books,Fiction,279,33917.4
+2023,10,Toys,Doll,466,129540.68
+2023,10,Clothing,Shoes,404,173200.86
+2023,10,Home & Kitchen,Blender,273,52814.58
+2023,10,Books,Comics,266,48490.48
+2023,10,Toys,Doll,243,60175.36
+2023,10,Beauty & Personal Care,Body Wash,465,23257.59
+2023,10,Electronics,Camera,212,58467.65
+2023,10,Home & Kitchen,Furniture,155,54781.06
+2023,10,Beauty & Personal Care,Body Wash,323,98021.81
+2023,10,Home & Kitchen,Cookware,473,201097.01
+2023,10,Electronics,Laptop,294,143937.0
+2023,10,Electronics,Laptop,207,97527.13
+2023,10,Home & Kitchen,Blender,20,3407.65
+2023,10,Toys,Puzzle,83,34240.13
+2023,10,Beauty & Personal Care,Body Wash,494,229989.99
+2023,10,Toys,Remote Car,84,6750.52
+2023,10,Clothing,Hat,384,37413.27
+2023,11,Toys,Board Game,234,33376.58
+2023,11,Sports,Tennis Racket,134,49305.15
+2023,11,Electronics,Laptop,84,33222.37
+2023,11,Sports,Tennis Racket,85,22575.99
+2023,11,Electronics,Laptop,64,1083.48
+2023,11,Clothing,T-Shirt,362,95949.17
+2023,11,Electronics,Camera,262,121546.78
+2023,11,Toys,Puzzle,116,45734.85
+2023,11,Clothing,Jacket,221,87317.61
+2023,11,Home & Kitchen,Air Purifier,352,145004.12
+2023,11,Sports,Dumbbells,332,104208.67
+2023,11,Beauty & Personal Care,Lipstick,246,99623.48
+2023,11,Beauty & Personal Care,Lipstick,46,17274.82
+2023,11,Books,Biography,312,99538.59
+2023,11,Sports,Cricket Bat,154,28652.48
+2023,11,Clothing,Jacket,128,6205.42
+2023,11,Beauty & Personal Care,Lipstick,384,150689.21
+2023,11,Clothing,Shoes,389,138940.82
+2023,11,Sports,Tennis Racket,161,61794.09
+2023,11,Books,Fiction,474,148268.97
+2023,11,Books,Biography,307,39628.61
+2023,11,Home & Kitchen,Furniture,287,113794.79
+2023,11,Books,Science,402,123969.56
+2023,11,Electronics,Laptop,258,41174.24
+2023,11,Toys,Board Game,134,28235.31
+2023,11,Home & Kitchen,Air Purifier,282,126865.38
+2023,11,Sports,Dumbbells,56,25967.51
+2023,11,Sports,Dumbbells,184,41546.63
+2023,11,Toys,Doll,484,14486.88
+2023,11,Sports,Cricket Bat,274,75499.22
+2023,11,Clothing,Jeans,176,3912.59
+2023,11,Clothing,Hat,21,5855.88
+2023,11,Electronics,Smartphone,449,78839.76
+2023,11,Toys,Puzzle,291,14770.81
+2023,11,Sports,Yoga Mat,448,50644.76
+2023,11,Toys,Doll,368,16080.66
+2023,11,Electronics,Laptop,297,100671.62
+2023,11,Electronics,Smartwatch,80,17613.79
+2023,11,Electronics,Camera,288,51994.11
+2023,11,Books,Non-Fiction,353,26163.5
+2023,11,Toys,Puzzle,151,70209.88
+2023,11,Clothing,Jacket,447,205214.5
+2023,11,Toys,Remote Car,239,93585.43
+2023,11,Beauty & Personal Care,Lipstick,262,83026.06
+2023,11,Electronics,Headphones,95,43673.33
+2023,11,Clothing,Hat,461,108966.29
+2023,11,Home & Kitchen,Cookware,457,39774.03
+2023,11,Home & Kitchen,Air Purifier,289,98034.67
+2023,11,Electronics,Laptop,224,68389.07
+2023,11,Sports,Yoga Mat,55,14077.06
+2023,11,Clothing,T-Shirt,340,109741.22
+2023,11,Beauty & Personal Care,Body Wash,94,22156.38
+2023,11,Electronics,Laptop,373,52875.51
+2023,11,Books,Non-Fiction,489,35821.82
+2023,11,Sports,Dumbbells,190,69225.23
+2023,11,Electronics,Camera,79,9953.63
+2023,11,Beauty & Personal Care,Lipstick,250,34480.18
+2023,11,Home & Kitchen,Cookware,404,142385.31
+2023,11,Clothing,T-Shirt,75,1324.61
+2023,11,Toys,Action Figure,240,118006.78
+2023,11,Home & Kitchen,Air Purifier,65,26662.95
+2023,11,Toys,Remote Car,101,8510.58
+2023,11,Toys,Doll,49,15461.29
+2023,11,Books,Fiction,33,13586.93
+2023,11,Beauty & Personal Care,Body Wash,490,185995.58
+2023,11,Books,Biography,171,24871.09
+2023,11,Beauty & Personal Care,Perfume,47,11764.89
+2023,11,Toys,Action Figure,174,17812.55
+2023,11,Sports,Yoga Mat,35,11938.35
+2023,11,Clothing,Jacket,206,57000.03
+2023,11,Home & Kitchen,Furniture,61,27351.52
+2023,11,Toys,Doll,433,214221.96
+2023,11,Home & Kitchen,Vacuum Cleaner,46,2576.24
+2023,11,Beauty & Personal Care,Lipstick,118,58835.73
+2023,11,Electronics,Smartphone,354,142223.24
+2023,11,Books,Non-Fiction,13,6309.44
+2023,11,Home & Kitchen,Air Purifier,261,6428.4
+2023,11,Toys,Action Figure,305,73353.54
+2023,11,Books,Comics,245,65848.24
+2023,11,Clothing,Hat,477,112485.76
+2023,11,Sports,Yoga Mat,52,13854.09
+2023,11,Books,Non-Fiction,500,158719.28
+2023,11,Books,Comics,341,126672.52
+2023,11,Home & Kitchen,Cookware,347,70012.38
+2023,11,Books,Non-Fiction,409,19521.15
+2023,11,Sports,Cricket Bat,375,10549.17
+2023,11,Books,Fiction,191,9087.28
+2023,11,Home & Kitchen,Cookware,350,14473.9
+2023,11,Toys,Board Game,483,170002.24
+2023,11,Beauty & Personal Care,Lipstick,294,112871.93
+2023,11,Books,Comics,356,67862.83
+2023,11,Electronics,Smartwatch,245,36532.5
+2023,11,Toys,Action Figure,100,22577.1
+2023,11,Toys,Remote Car,15,7195.0
+2023,11,Toys,Board Game,113,815.48
+2023,11,Toys,Doll,252,125090.25
+2023,11,Sports,Dumbbells,296,73447.12
+2023,11,Clothing,Jacket,349,122040.25
+2023,11,Electronics,Headphones,274,3261.43
+2023,11,Home & Kitchen,Air Purifier,146,12932.04
+2023,12,Clothing,Hat,80,31864.31
+2023,12,Clothing,Shoes,10,1866.94
+2023,12,Sports,Tennis Racket,339,88516.86
+2023,12,Beauty & Personal Care,Shampoo,294,45086.99
+2023,12,Books,Comics,363,57631.87
+2023,12,Books,Fiction,29,4341.77
+2023,12,Beauty & Personal Care,Perfume,263,121571.37
+2023,12,Books,Non-Fiction,453,179903.92
+2023,12,Books,Biography,29,5762.41
+2023,12,Beauty & Personal Care,Body Wash,155,24531.51
+2023,12,Books,Fiction,380,15653.05
+2023,12,Clothing,Hat,16,6140.78
+2023,12,Toys,Puzzle,279,80327.19
+2023,12,Sports,Yoga Mat,37,5477.72
+2023,12,Toys,Board Game,235,116279.4
+2023,12,Clothing,Jeans,420,147540.45
+2023,12,Clothing,Shoes,408,59690.08
+2023,12,Clothing,Shoes,332,118862.51
+2023,12,Toys,Action Figure,204,78571.43
+2023,12,Toys,Doll,114,12269.4
+2023,12,Sports,Yoga Mat,159,4348.58
+2023,12,Books,Comics,427,133982.29
+2023,12,Toys,Doll,427,156212.86
+2023,12,Home & Kitchen,Blender,22,10551.96
+2023,12,Books,Biography,233,86413.94
+2023,12,Electronics,Laptop,215,29048.49
+2023,12,Home & Kitchen,Furniture,19,6976.03
+2023,12,Electronics,Smartwatch,44,16120.24
+2023,12,Sports,Football,370,86058.37
+2023,12,Clothing,Hat,268,87826.76
+2023,12,Sports,Yoga Mat,137,46006.96
+2023,12,Home & Kitchen,Vacuum Cleaner,196,47802.14
+2023,12,Electronics,Camera,415,183885.56
+2023,12,Clothing,T-Shirt,448,116134.91
+2023,12,Beauty & Personal Care,Shampoo,266,85788.74
+2023,12,Beauty & Personal Care,Lipstick,32,746.37
+2023,12,Clothing,Jeans,448,11899.5
+2023,12,Electronics,Smartwatch,252,13068.67
+2023,12,Toys,Puzzle,260,90380.56
+2023,12,Books,Comics,355,89923.81
+2023,12,Clothing,Shoes,335,166762.93
+2023,12,Electronics,Headphones,353,10109.12
+2023,12,Toys,Board Game,386,96313.17
+2023,12,Clothing,Hat,376,88495.36
+2023,12,Books,Non-Fiction,150,72657.67
+2023,12,Toys,Puzzle,33,2325.47
+2023,12,Books,Fiction,347,81130.4
+2023,12,Sports,Yoga Mat,102,41979.77
+2023,12,Home & Kitchen,Furniture,235,13517.52
+2023,12,Toys,Board Game,49,23769.9
+2023,12,Home & Kitchen,Vacuum Cleaner,75,3073.75
+2023,12,Electronics,Smartwatch,210,60344.09
+2023,12,Toys,Puzzle,172,34651.91
+2023,12,Electronics,Smartwatch,239,3382.39
+2023,12,Beauty & Personal Care,Body Wash,231,94319.34
+2023,12,Clothing,Jacket,198,98812.61
+2023,12,Toys,Remote Car,84,27474.31
+2023,12,Toys,Puzzle,165,60630.04
+2023,12,Beauty & Personal Care,Lipstick,36,14836.2
+2023,12,Clothing,Jeans,257,58178.3
+2023,12,Sports,Tennis Racket,467,23277.75
+2023,12,Clothing,Hat,118,42622.46
+2023,12,Clothing,T-Shirt,106,14322.64
+2023,12,Books,Non-Fiction,482,238587.61
+2023,12,Sports,Yoga Mat,261,48282.01
+2023,12,Clothing,Shoes,370,30103.46
+2023,12,Books,Science,261,77275.21
+2023,12,Beauty & Personal Care,Lipstick,171,56992.41
+2023,12,Home & Kitchen,Vacuum Cleaner,385,15453.03
+2023,12,Toys,Action Figure,258,3982.16
+2023,12,Clothing,Shoes,440,190549.53
+2023,12,Clothing,Shoes,204,9361.91
+2023,12,Home & Kitchen,Cookware,396,38208.99
+2023,12,Sports,Yoga Mat,97,28824.91
+2023,12,Toys,Board Game,210,45015.28
+2023,12,Electronics,Laptop,161,25866.41
+2023,12,Sports,Football,250,42893.78
+2023,12,Toys,Remote Car,184,37776.96
+2023,12,Toys,Remote Car,295,35453.99
+2023,12,Electronics,Smartphone,230,33877.25
+2023,12,Home & Kitchen,Cookware,416,166196.57
+2023,12,Sports,Dumbbells,256,113709.39
+2023,12,Sports,Tennis Racket,49,23813.75
+2023,12,Home & Kitchen,Blender,398,2356.92
+2023,12,Clothing,Shoes,304,42488.38
+2023,12,Toys,Board Game,427,68604.34
+2023,12,Books,Science,229,6665.06
+2023,12,Home & Kitchen,Blender,384,34788.52
+2023,12,Home & Kitchen,Vacuum Cleaner,402,194637.26
+2023,12,Sports,Tennis Racket,165,43706.04
+2023,12,Sports,Football,277,39045.07
+2023,12,Books,Comics,293,88513.73
+2023,12,Books,Science,395,81109.86
+2023,12,Beauty & Personal Care,Lipstick,273,31687.46
+2023,12,Home & Kitchen,Blender,194,53970.36
+2023,12,Sports,Tennis Racket,228,21864.07
+2023,12,Electronics,Headphones,439,154328.88
+2023,12,Home & Kitchen,Furniture,480,107598.05
+2023,12,Books,Comics,223,3919.36
+2023,12,Toys,Puzzle,420,112589.04
+2024,1,Toys,Remote Car,244,95704.42
+2024,1,Books,Fiction,488,7909.47
+2024,1,Electronics,Laptop,411,64116.67
+2024,1,Electronics,Headphones,251,53368.51
+2024,1,Clothing,Jacket,79,25295.54
+2024,1,Electronics,Smartphone,325,9398.39
+2024,1,Home & Kitchen,Cookware,102,14443.11
+2024,1,Books,Comics,460,225164.93
+2024,1,Books,Comics,417,136074.08
+2024,1,Books,Comics,371,153643.92
+2024,1,Electronics,Laptop,140,33513.67
+2024,1,Sports,Tennis Racket,156,36517.71
+2024,1,Beauty & Personal Care,Face Cream,199,82085.59
+2024,1,Electronics,Camera,136,8063.04
+2024,1,Home & Kitchen,Blender,198,30324.26
+2024,1,Sports,Football,347,64273.51
+2024,1,Books,Fiction,233,114687.5
+2024,1,Home & Kitchen,Blender,438,41844.48
+2024,1,Home & Kitchen,Blender,261,11857.82
+2024,1,Clothing,T-Shirt,192,63367.19
+2024,1,Electronics,Camera,100,30850.92
+2024,1,Electronics,Smartwatch,398,49994.72
+2024,1,Books,Fiction,263,87933.72
+2024,1,Beauty & Personal Care,Body Wash,418,84035.9
+2024,1,Books,Science,228,59734.88
+2024,1,Books,Non-Fiction,244,63364.53
+2024,1,Beauty & Personal Care,Perfume,266,46311.6
+2024,1,Books,Biography,86,9383.74
+2024,1,Sports,Cricket Bat,26,7772.12
+2024,1,Toys,Doll,88,5466.63
+2024,1,Toys,Board Game,132,64717.79
+2024,1,Home & Kitchen,Furniture,41,13471.11
+2024,1,Sports,Football,411,98381.94
+2024,1,Books,Science,12,1766.6
+2024,1,Sports,Tennis Racket,453,93696.54
+2024,1,Beauty & Personal Care,Lipstick,66,25259.5
+2024,1,Electronics,Laptop,393,28620.87
+2024,1,Beauty & Personal Care,Lipstick,335,68775.63
+2024,1,Sports,Yoga Mat,447,129473.15
+2024,1,Toys,Action Figure,208,25931.65
+2024,1,Clothing,Jacket,267,78353.84
+2024,1,Sports,Cricket Bat,350,31321.03
+2024,1,Home & Kitchen,Furniture,37,16321.82
+2024,1,Beauty & Personal Care,Face Cream,268,111189.32
+2024,1,Electronics,Camera,493,85693.55
+2024,1,Electronics,Headphones,117,31371.49
+2024,1,Sports,Football,362,30256.07
+2024,1,Electronics,Smartphone,296,76914.75
+2024,1,Sports,Dumbbells,105,47285.24
+2024,1,Toys,Puzzle,10,4214.27
+2024,1,Toys,Board Game,132,51701.1
+2024,1,Electronics,Camera,55,2018.59
+2024,1,Toys,Action Figure,330,45073.22
+2024,1,Toys,Doll,346,141612.54
+2024,1,Electronics,Headphones,448,5853.45
+2024,1,Sports,Yoga Mat,439,95730.15
+2024,1,Beauty & Personal Care,Body Wash,428,14553.75
+2024,1,Books,Science,201,73243.47
+2024,1,Beauty & Personal Care,Perfume,190,52870.39
+2024,1,Clothing,Jeans,81,2934.1
+2024,1,Electronics,Headphones,442,82235.84
+2024,1,Books,Biography,450,78568.35
+2024,1,Books,Comics,110,43897.14
+2024,1,Electronics,Laptop,309,141246.17
+2024,1,Books,Comics,16,4221.44
+2024,1,Books,Non-Fiction,146,50503.2
+2024,1,Home & Kitchen,Blender,18,2592.34
+2024,1,Toys,Remote Car,58,2520.8
+2024,1,Beauty & Personal Care,Lipstick,12,1848.96
+2024,1,Clothing,Jeans,216,79580.67
+2024,1,Sports,Football,139,64348.93
+2024,1,Beauty & Personal Care,Perfume,152,13250.84
+2024,1,Sports,Cricket Bat,464,71780.26
+2024,1,Sports,Cricket Bat,42,6968.4
+2024,1,Sports,Football,14,5234.44
+2024,1,Sports,Football,238,102109.61
+2024,1,Beauty & Personal Care,Body Wash,430,52372.77
+2024,1,Home & Kitchen,Blender,385,174131.28
+2024,1,Beauty & Personal Care,Face Cream,195,57470.24
+2024,1,Clothing,Hat,212,74961.12
+2024,1,Home & Kitchen,Air Purifier,436,66685.64
+2024,1,Books,Science,375,59875.79
+2024,1,Electronics,Smartphone,420,192223.28
+2024,1,Home & Kitchen,Cookware,234,17273.91
+2024,1,Toys,Board Game,393,191595.95
+2024,1,Electronics,Laptop,465,62286.48
+2024,1,Sports,Dumbbells,263,60124.77
+2024,1,Beauty & Personal Care,Shampoo,355,115549.73
+2024,1,Home & Kitchen,Air Purifier,54,2567.66
+2024,1,Clothing,T-Shirt,476,225835.13
+2024,1,Electronics,Smartwatch,129,21983.17
+2024,1,Toys,Remote Car,261,85756.41
+2024,1,Beauty & Personal Care,Shampoo,65,16231.58
+2024,1,Clothing,T-Shirt,477,31644.35
+2024,1,Beauty & Personal Care,Body Wash,271,71905.47
+2024,1,Toys,Board Game,33,14558.26
+2024,1,Sports,Cricket Bat,43,18893.82
+2024,1,Books,Comics,308,153719.06
+2024,1,Toys,Puzzle,390,19969.81
+2024,1,Sports,Cricket Bat,472,40320.64
+2024,2,Beauty & Personal Care,Lipstick,333,128469.22
+2024,2,Books,Non-Fiction,161,15885.77
+2024,2,Home & Kitchen,Cookware,252,40314.04
+2024,2,Beauty & Personal Care,Shampoo,431,58864.26
+2024,2,Electronics,Laptop,15,6173.63
+2024,2,Beauty & Personal Care,Lipstick,12,3395.16
+2024,2,Books,Comics,57,17902.23
+2024,2,Books,Non-Fiction,248,121839.56
+2024,2,Beauty & Personal Care,Body Wash,424,131274.79
+2024,2,Clothing,T-Shirt,194,12548.5
+2024,2,Clothing,Shoes,258,90687.65
+2024,2,Electronics,Camera,356,119166.79
+2024,2,Clothing,Shoes,171,12412.53
+2024,2,Sports,Dumbbells,455,217456.11
+2024,2,Sports,Tennis Racket,128,60659.42
+2024,2,Beauty & Personal Care,Shampoo,372,20521.49
+2024,2,Electronics,Smartwatch,326,43668.39
+2024,2,Beauty & Personal Care,Perfume,380,146956.56
+2024,2,Clothing,Jacket,443,6017.21
+2024,2,Beauty & Personal Care,Lipstick,208,7056.84
+2024,2,Clothing,Hat,47,16357.71
+2024,2,Books,Non-Fiction,230,37172.87
+2024,2,Beauty & Personal Care,Perfume,350,142503.36
+2024,2,Electronics,Laptop,374,110309.87
+2024,2,Sports,Dumbbells,115,29529.11
+2024,2,Beauty & Personal Care,Body Wash,69,12315.58
+2024,2,Toys,Board Game,194,57929.51
+2024,2,Home & Kitchen,Cookware,174,10827.43
+2024,2,Toys,Board Game,15,2764.07
+2024,2,Books,Non-Fiction,128,32378.77
+2024,2,Books,Non-Fiction,462,103085.52
+2024,2,Home & Kitchen,Cookware,207,48856.83
+2024,2,Electronics,Smartwatch,109,7718.48
+2024,2,Beauty & Personal Care,Lipstick,471,2936.68
+2024,2,Clothing,Hat,116,43060.17
+2024,2,Books,Biography,175,83078.86
+2024,2,Books,Fiction,315,85359.26
+2024,2,Sports,Dumbbells,434,12721.51
+2024,2,Home & Kitchen,Vacuum Cleaner,172,10486.55
+2024,2,Sports,Tennis Racket,265,69435.89
+2024,2,Toys,Remote Car,194,27423.43
+2024,2,Clothing,Shoes,238,118189.91
+2024,2,Sports,Football,152,11545.94
+2024,2,Electronics,Smartphone,106,14388.05
+2024,2,Sports,Football,489,151393.69
+2024,2,Sports,Football,200,70251.89
+2024,2,Home & Kitchen,Air Purifier,113,23386.21
+2024,2,Books,Science,488,171225.93
+2024,2,Electronics,Camera,283,55637.4
+2024,2,Sports,Yoga Mat,264,53173.75
+2024,2,Books,Fiction,253,3734.5
+2024,2,Clothing,Jeans,336,31454.44
+2024,2,Clothing,T-Shirt,306,110583.3
+2024,2,Electronics,Smartphone,284,140237.49
+2024,2,Beauty & Personal Care,Lipstick,355,50591.66
+2024,2,Electronics,Headphones,397,82945.33
+2024,2,Toys,Action Figure,332,52227.68
+2024,2,Toys,Doll,437,41798.45
+2024,2,Electronics,Smartwatch,158,22882.93
+2024,2,Toys,Action Figure,95,32143.4
+2024,2,Home & Kitchen,Blender,383,150526.97
+2024,2,Sports,Dumbbells,244,86975.53
+2024,2,Beauty & Personal Care,Face Cream,290,21558.22
+2024,2,Beauty & Personal Care,Lipstick,413,173934.02
+2024,2,Electronics,Smartwatch,434,124427.09
+2024,2,Sports,Dumbbells,429,106991.63
+2024,2,Books,Comics,193,41673.73
+2024,2,Electronics,Laptop,21,7619.97
+2024,2,Clothing,Hat,98,42748.88
+2024,2,Sports,Tennis Racket,15,3563.55
+2024,2,Electronics,Headphones,99,5949.56
+2024,2,Electronics,Headphones,57,19787.65
+2024,2,Beauty & Personal Care,Face Cream,426,84141.76
+2024,2,Sports,Tennis Racket,231,28259.15
+2024,2,Sports,Yoga Mat,87,11973.14
+2024,2,Clothing,Hat,393,51472.92
+2024,2,Home & Kitchen,Cookware,142,48705.26
+2024,2,Books,Biography,78,8060.05
+2024,2,Clothing,Jacket,416,23725.69
+2024,2,Electronics,Laptop,307,45222.35
+2024,2,Beauty & Personal Care,Body Wash,353,20615.31
+2024,2,Books,Comics,454,70597.0
+2024,2,Beauty & Personal Care,Perfume,414,123313.1
+2024,2,Beauty & Personal Care,Shampoo,217,9848.1
+2024,2,Electronics,Smartwatch,94,19030.58
+2024,2,Electronics,Headphones,18,6226.08
+2024,2,Electronics,Smartwatch,253,33058.08
+2024,2,Clothing,T-Shirt,227,10996.98
+2024,2,Electronics,Headphones,388,29178.89
+2024,2,Toys,Board Game,67,21358.0
+2024,2,Books,Science,374,88073.36
+2024,2,Toys,Doll,454,145583.34
+2024,2,Books,Fiction,138,53551.28
+2024,2,Books,Biography,366,105369.56
+2024,2,Toys,Action Figure,93,36410.08
+2024,2,Books,Science,238,72407.74
+2024,2,Clothing,Hat,422,5956.52
+2024,2,Electronics,Headphones,344,160115.17
+2024,2,Electronics,Camera,361,157034.1
+2024,2,Beauty & Personal Care,Face Cream,157,73584.39
+2024,3,Clothing,Jacket,293,95206.7
+2024,3,Sports,Cricket Bat,72,24287.71
+2024,3,Beauty & Personal Care,Shampoo,197,32239.66
+2024,3,Clothing,Shoes,198,24304.92
+2024,3,Clothing,Jeans,376,164434.7
+2024,3,Sports,Cricket Bat,84,619.35
+2024,3,Beauty & Personal Care,Lipstick,22,3049.83
+2024,3,Electronics,Headphones,218,76601.55
+2024,3,Electronics,Smartphone,206,37238.94
+2024,3,Sports,Yoga Mat,134,14765.9
+2024,3,Toys,Doll,479,160596.34
+2024,3,Sports,Dumbbells,86,32501.67
+2024,3,Sports,Yoga Mat,409,152215.4
+2024,3,Beauty & Personal Care,Perfume,300,144798.03
+2024,3,Books,Comics,264,88611.0
+2024,3,Books,Fiction,460,218603.91
+2024,3,Books,Science,353,75041.64
+2024,3,Beauty & Personal Care,Shampoo,104,34352.5
+2024,3,Sports,Football,447,115386.22
+2024,3,Sports,Football,403,5437.92
+2024,3,Electronics,Smartphone,161,38740.21
+2024,3,Home & Kitchen,Air Purifier,233,74826.29
+2024,3,Home & Kitchen,Blender,471,62327.97
+2024,3,Home & Kitchen,Air Purifier,464,139716.61
+2024,3,Clothing,T-Shirt,49,15236.75
+2024,3,Books,Biography,161,27481.44
+2024,3,Beauty & Personal Care,Perfume,201,54563.81
+2024,3,Sports,Dumbbells,250,122266.36
+2024,3,Electronics,Camera,107,2726.02
+2024,3,Home & Kitchen,Furniture,469,61986.68
+2024,3,Electronics,Camera,226,81541.34
+2024,3,Beauty & Personal Care,Lipstick,158,6411.08
+2024,3,Toys,Doll,411,67048.98
+2024,3,Beauty & Personal Care,Face Cream,164,54315.01
+2024,3,Beauty & Personal Care,Lipstick,490,167451.38
+2024,3,Electronics,Smartphone,118,2583.44
+2024,3,Toys,Doll,271,14710.19
+2024,3,Sports,Yoga Mat,111,35824.84
+2024,3,Beauty & Personal Care,Body Wash,360,97569.47
+2024,3,Clothing,Jacket,284,68669.37
+2024,3,Clothing,Shoes,341,58249.43
+2024,3,Beauty & Personal Care,Perfume,168,57486.88
+2024,3,Books,Comics,262,106973.93
+2024,3,Books,Science,296,127322.8
+2024,3,Beauty & Personal Care,Perfume,241,113320.85
+2024,3,Sports,Dumbbells,259,33659.59
+2024,3,Clothing,Shoes,114,12677.71
+2024,3,Sports,Dumbbells,329,50777.15
+2024,3,Toys,Action Figure,38,14957.28
+2024,3,Home & Kitchen,Vacuum Cleaner,117,39487.03
+2024,3,Books,Science,83,24938.61
+2024,3,Clothing,Jacket,403,66757.91
+2024,3,Books,Fiction,337,162385.25
+2024,3,Home & Kitchen,Cookware,215,7679.16
+2024,3,Books,Comics,117,6481.67
+2024,3,Beauty & Personal Care,Face Cream,120,42242.38
+2024,3,Sports,Tennis Racket,371,53215.38
+2024,3,Books,Comics,412,151737.44
+2024,3,Books,Fiction,358,23078.42
+2024,3,Beauty & Personal Care,Lipstick,317,19343.28
+2024,3,Clothing,T-Shirt,22,2551.31
+2024,3,Beauty & Personal Care,Body Wash,171,49766.05
+2024,3,Beauty & Personal Care,Face Cream,138,20169.91
+2024,3,Electronics,Laptop,49,17082.92
+2024,3,Electronics,Headphones,134,25174.41
+2024,3,Electronics,Camera,112,4896.0
+2024,3,Sports,Football,145,39950.56
+2024,3,Sports,Yoga Mat,318,108066.89
+2024,3,Toys,Puzzle,12,5541.12
+2024,3,Toys,Remote Car,18,7265.95
+2024,3,Electronics,Smartwatch,311,85962.23
+2024,3,Books,Fiction,483,180466.53
+2024,3,Toys,Action Figure,14,5116.94
+2024,3,Beauty & Personal Care,Lipstick,63,5767.94
+2024,3,Sports,Tennis Racket,449,167994.07
+2024,3,Home & Kitchen,Cookware,76,6659.53
+2024,3,Toys,Doll,80,24751.02
+2024,3,Electronics,Smartphone,395,176380.14
+2024,3,Toys,Doll,383,29411.9
+2024,3,Beauty & Personal Care,Shampoo,495,89976.38
+2024,3,Electronics,Headphones,43,17753.54
+2024,3,Books,Biography,255,86392.34
+2024,3,Electronics,Smartwatch,158,40542.04
+2024,3,Toys,Action Figure,388,60292.94
+2024,3,Sports,Football,317,151448.19
+2024,3,Toys,Doll,22,2882.06
+2024,3,Toys,Action Figure,36,12511.33
+2024,3,Home & Kitchen,Vacuum Cleaner,206,84706.59
+2024,3,Home & Kitchen,Vacuum Cleaner,364,45659.61
+2024,3,Home & Kitchen,Cookware,284,14187.29
+2024,3,Clothing,Hat,288,96892.05
+2024,3,Home & Kitchen,Vacuum Cleaner,50,3689.3
+2024,3,Toys,Remote Car,79,31749.23
+2024,3,Beauty & Personal Care,Body Wash,20,5951.98
+2024,3,Beauty & Personal Care,Face Cream,111,45539.12
+2024,3,Beauty & Personal Care,Shampoo,257,104340.98
+2024,3,Clothing,T-Shirt,173,82963.46
+2024,3,Books,Comics,49,12124.72
+2024,3,Books,Non-Fiction,51,16657.5
+2024,3,Books,Biography,51,12046.43
+2024,4,Beauty & Personal Care,Face Cream,158,26537.28
+2024,4,Home & Kitchen,Vacuum Cleaner,342,8179.9
+2024,4,Beauty & Personal Care,Perfume,130,916.95
+2024,4,Electronics,Laptop,410,91081.4
+2024,4,Beauty & Personal Care,Lipstick,38,18160.7
+2024,4,Sports,Dumbbells,344,131280.8
+2024,4,Electronics,Headphones,129,63826.09
+2024,4,Clothing,Hat,84,2141.78
+2024,4,Electronics,Headphones,382,172022.88
+2024,4,Sports,Football,321,109025.62
+2024,4,Books,Fiction,132,6074.67
+2024,4,Books,Biography,242,102585.04
+2024,4,Clothing,Jeans,110,46345.44
+2024,4,Electronics,Headphones,350,108725.3
+2024,4,Home & Kitchen,Cookware,56,10200.84
+2024,4,Clothing,Jacket,309,71485.45
+2024,4,Books,Biography,305,151757.5
+2024,4,Sports,Cricket Bat,468,115539.66
+2024,4,Home & Kitchen,Air Purifier,63,8224.57
+2024,4,Clothing,Jacket,69,18822.54
+2024,4,Toys,Doll,281,46945.85
+2024,4,Clothing,Shoes,74,15233.99
+2024,4,Books,Fiction,498,191533.4
+2024,4,Books,Science,379,113671.99
+2024,4,Electronics,Camera,462,90501.94
+2024,4,Books,Non-Fiction,477,194981.33
+2024,4,Books,Science,104,50800.56
+2024,4,Books,Biography,312,124901.88
+2024,4,Electronics,Laptop,344,98166.39
+2024,4,Electronics,Camera,392,55003.65
+2024,4,Home & Kitchen,Cookware,311,43681.06
+2024,4,Clothing,Jacket,370,111216.73
+2024,4,Electronics,Smartwatch,385,191138.22
+2024,4,Electronics,Smartwatch,358,85282.83
+2024,4,Books,Biography,339,145514.65
+2024,4,Toys,Action Figure,96,32329.2
+2024,4,Books,Biography,112,51080.01
+2024,4,Sports,Tennis Racket,142,45916.34
+2024,4,Clothing,Shoes,439,73465.67
+2024,4,Toys,Action Figure,114,39574.98
+2024,4,Electronics,Smartphone,420,178616.03
+2024,4,Toys,Board Game,137,3533.27
+2024,4,Beauty & Personal Care,Face Cream,265,124616.86
+2024,4,Electronics,Smartphone,191,75585.75
+2024,4,Electronics,Smartwatch,25,10958.75
+2024,4,Electronics,Smartphone,260,47731.95
+2024,4,Sports,Yoga Mat,298,62027.98
+2024,4,Electronics,Smartwatch,110,36518.65
+2024,4,Electronics,Camera,329,151069.65
+2024,4,Sports,Yoga Mat,193,7524.45
+2024,4,Toys,Board Game,375,105989.68
+2024,4,Sports,Tennis Racket,318,71598.13
+2024,4,Home & Kitchen,Furniture,139,8968.79
+2024,4,Electronics,Laptop,17,1853.34
+2024,4,Sports,Yoga Mat,102,8094.54
+2024,4,Books,Comics,292,109400.58
+2024,4,Books,Non-Fiction,95,2995.18
+2024,4,Clothing,Jacket,108,21653.42
+2024,4,Clothing,Shoes,18,1127.33
+2024,4,Beauty & Personal Care,Shampoo,46,17043.83
+2024,4,Home & Kitchen,Air Purifier,238,70918.87
+2024,4,Electronics,Headphones,117,42108.66
+2024,4,Beauty & Personal Care,Shampoo,448,177389.16
+2024,4,Clothing,Shoes,472,152917.55
+2024,4,Books,Comics,98,35410.75
+2024,4,Toys,Board Game,343,84573.21
+2024,4,Sports,Cricket Bat,401,35064.56
+2024,4,Clothing,Jacket,188,8442.48
+2024,4,Home & Kitchen,Vacuum Cleaner,434,196733.77
+2024,4,Books,Fiction,67,31008.47
+2024,4,Electronics,Headphones,130,39992.36
+2024,4,Beauty & Personal Care,Body Wash,313,92314.56
+2024,4,Clothing,T-Shirt,161,30301.43
+2024,4,Toys,Puzzle,322,113326.58
+2024,4,Beauty & Personal Care,Face Cream,147,11015.95
+2024,4,Home & Kitchen,Cookware,334,143518.53
+2024,4,Home & Kitchen,Blender,412,109044.95
+2024,4,Sports,Cricket Bat,367,167190.04
+2024,4,Electronics,Camera,466,111299.43
+2024,4,Toys,Board Game,338,130811.95
+2024,4,Books,Biography,314,77343.5
+2024,4,Home & Kitchen,Blender,408,47325.16
+2024,4,Beauty & Personal Care,Perfume,179,77237.55
+2024,4,Toys,Board Game,268,75242.07
+2024,4,Toys,Doll,217,16456.63
+2024,4,Home & Kitchen,Blender,249,120616.87
+2024,4,Books,Non-Fiction,354,155071.84
+2024,4,Clothing,Hat,451,156850.66
+2024,4,Toys,Action Figure,194,72155.6
+2024,4,Beauty & Personal Care,Perfume,64,3578.72
+2024,4,Sports,Dumbbells,397,169300.48
+2024,4,Toys,Remote Car,252,119978.56
+2024,4,Home & Kitchen,Furniture,102,49760.89
+2024,4,Books,Science,215,80833.68
+2024,4,Beauty & Personal Care,Face Cream,408,144446.69
+2024,4,Toys,Board Game,84,41665.34
+2024,4,Beauty & Personal Care,Face Cream,107,609.74
+2024,4,Books,Comics,380,7862.23
+2024,4,Books,Comics,345,124607.64
+2024,4,Sports,Yoga Mat,288,136625.19
+2024,5,Beauty & Personal Care,Perfume,217,63732.3
+2024,5,Home & Kitchen,Furniture,336,83948.57
+2024,5,Home & Kitchen,Blender,132,30613.03
+2024,5,Beauty & Personal Care,Face Cream,154,69485.84
+2024,5,Books,Fiction,219,67549.2
+2024,5,Sports,Tennis Racket,57,16304.98
+2024,5,Books,Fiction,350,114651.56
+2024,5,Books,Non-Fiction,222,95720.93
+2024,5,Sports,Dumbbells,23,8831.19
+2024,5,Books,Science,157,14966.36
+2024,5,Beauty & Personal Care,Body Wash,391,48764.46
+2024,5,Clothing,Hat,489,241075.05
+2024,5,Beauty & Personal Care,Lipstick,97,41218.33
+2024,5,Sports,Dumbbells,186,91379.66
+2024,5,Beauty & Personal Care,Shampoo,245,50309.05
+2024,5,Electronics,Camera,165,56962.66
+2024,5,Books,Science,257,109131.76
+2024,5,Beauty & Personal Care,Lipstick,15,6881.31
+2024,5,Toys,Remote Car,246,120790.63
+2024,5,Clothing,Jeans,411,25830.09
+2024,5,Beauty & Personal Care,Lipstick,144,24978.79
+2024,5,Books,Comics,15,4563.48
+2024,5,Sports,Tennis Racket,314,124337.72
+2024,5,Sports,Yoga Mat,389,73663.1
+2024,5,Electronics,Headphones,442,115037.45
+2024,5,Clothing,T-Shirt,373,80285.98
+2024,5,Books,Science,415,106922.98
+2024,5,Clothing,Jeans,436,53659.58
+2024,5,Home & Kitchen,Air Purifier,65,22485.46
+2024,5,Home & Kitchen,Furniture,406,69178.64
+2024,5,Books,Fiction,258,101166.75
+2024,5,Home & Kitchen,Air Purifier,96,25690.0
+2024,5,Toys,Puzzle,181,84503.56
+2024,5,Beauty & Personal Care,Lipstick,262,126304.86
+2024,5,Books,Comics,215,54141.15
+2024,5,Clothing,Jeans,28,9521.99
+2024,5,Electronics,Smartphone,378,38639.93
+2024,5,Home & Kitchen,Furniture,220,35456.73
+2024,5,Books,Biography,46,12638.1
+2024,5,Electronics,Laptop,433,215491.82
+2024,5,Clothing,Jeans,452,150599.11
+2024,5,Home & Kitchen,Blender,351,79462.84
+2024,5,Books,Non-Fiction,172,46531.81
+2024,5,Toys,Action Figure,60,22013.12
+2024,5,Clothing,T-Shirt,12,1425.42
+2024,5,Toys,Board Game,443,220803.5
+2024,5,Sports,Yoga Mat,35,5497.94
+2024,5,Sports,Cricket Bat,232,9517.98
+2024,5,Books,Biography,486,141829.9
+2024,5,Electronics,Headphones,399,158084.49
+2024,5,Electronics,Headphones,422,83713.84
+2024,5,Clothing,Jeans,174,33368.76
+2024,5,Books,Science,330,110471.79
+2024,5,Toys,Action Figure,296,63272.34
+2024,5,Beauty & Personal Care,Body Wash,195,33439.54
+2024,5,Beauty & Personal Care,Shampoo,303,2998.06
+2024,5,Toys,Board Game,405,194009.06
+2024,5,Beauty & Personal Care,Face Cream,448,123472.23
+2024,5,Electronics,Smartphone,147,46397.49
+2024,5,Clothing,Hat,25,8272.93
+2024,5,Home & Kitchen,Vacuum Cleaner,407,24867.26
+2024,5,Books,Comics,325,35131.68
+2024,5,Books,Science,135,36169.97
+2024,5,Beauty & Personal Care,Perfume,173,41484.19
+2024,5,Electronics,Laptop,458,134617.76
+2024,5,Beauty & Personal Care,Perfume,386,139941.81
+2024,5,Electronics,Smartwatch,474,230908.65
+2024,5,Home & Kitchen,Furniture,490,54636.54
+2024,5,Home & Kitchen,Blender,260,115407.82
+2024,5,Books,Biography,388,89449.01
+2024,5,Clothing,Jeans,38,16546.24
+2024,5,Electronics,Laptop,421,136053.49
+2024,5,Clothing,Jacket,368,113329.93
+2024,5,Home & Kitchen,Furniture,142,2256.44
+2024,5,Toys,Board Game,123,4960.02
+2024,5,Toys,Puzzle,161,47561.72
+2024,5,Books,Biography,367,130677.29
+2024,5,Beauty & Personal Care,Face Cream,141,16260.99
+2024,5,Home & Kitchen,Furniture,399,94211.56
+2024,5,Toys,Board Game,151,46521.16
+2024,5,Toys,Remote Car,461,184737.5
+2024,5,Books,Science,295,70682.64
+2024,5,Beauty & Personal Care,Body Wash,219,94827.02
+2024,5,Electronics,Headphones,254,1869.32
+2024,5,Beauty & Personal Care,Lipstick,301,86052.17
+2024,5,Beauty & Personal Care,Shampoo,463,168819.22
+2024,5,Clothing,Jacket,431,3111.18
+2024,5,Toys,Action Figure,417,170395.48
+2024,5,Beauty & Personal Care,Shampoo,225,20896.62
+2024,5,Home & Kitchen,Blender,209,68247.84
+2024,5,Sports,Football,496,172562.17
+2024,5,Home & Kitchen,Air Purifier,308,32422.25
+2024,5,Sports,Football,495,220787.84
+2024,5,Home & Kitchen,Air Purifier,466,183877.84
+2024,5,Toys,Board Game,449,188795.85
+2024,5,Electronics,Headphones,391,19090.54
+2024,5,Electronics,Smartwatch,410,175051.16
+2024,5,Beauty & Personal Care,Perfume,164,75178.13
+2024,5,Electronics,Camera,173,50430.41
+2024,5,Beauty & Personal Care,Shampoo,471,110350.68
+2024,6,Toys,Board Game,289,94615.95
+2024,6,Home & Kitchen,Vacuum Cleaner,434,189395.82
+2024,6,Books,Biography,200,27346.04
+2024,6,Books,Biography,253,48833.11
+2024,6,Electronics,Smartwatch,419,58417.81
+2024,6,Home & Kitchen,Blender,94,35912.19
+2024,6,Electronics,Smartphone,71,20863.48
+2024,6,Sports,Yoga Mat,395,145151.34
+2024,6,Beauty & Personal Care,Body Wash,487,120072.27
+2024,6,Toys,Puzzle,364,83834.81
+2024,6,Beauty & Personal Care,Face Cream,56,18660.87
+2024,6,Books,Comics,428,185046.54
+2024,6,Home & Kitchen,Vacuum Cleaner,178,32995.48
+2024,6,Sports,Tennis Racket,391,146021.09
+2024,6,Books,Comics,458,43761.87
+2024,6,Home & Kitchen,Air Purifier,166,3111.09
+2024,6,Sports,Football,65,31162.39
+2024,6,Sports,Cricket Bat,490,52246.26
+2024,6,Home & Kitchen,Air Purifier,112,11244.27
+2024,6,Clothing,Jacket,192,12207.03
+2024,6,Toys,Remote Car,213,60558.33
+2024,6,Electronics,Headphones,289,57932.81
+2024,6,Toys,Puzzle,329,107780.76
+2024,6,Books,Comics,188,67234.17
+2024,6,Sports,Cricket Bat,135,6657.83
+2024,6,Sports,Yoga Mat,241,68705.18
+2024,6,Sports,Football,109,23115.85
+2024,6,Books,Science,34,9589.32
+2024,6,Sports,Cricket Bat,46,10260.41
+2024,6,Electronics,Headphones,77,17507.64
+2024,6,Toys,Board Game,370,134947.76
+2024,6,Toys,Puzzle,23,537.28
+2024,6,Home & Kitchen,Blender,367,110877.68
+2024,6,Clothing,Shoes,93,29047.02
+2024,6,Home & Kitchen,Blender,253,7749.07
+2024,6,Sports,Football,186,46690.53
+2024,6,Books,Fiction,120,9999.92
+2024,6,Clothing,Jacket,399,24804.63
+2024,6,Electronics,Smartwatch,409,133029.73
+2024,6,Clothing,Hat,24,3201.48
+2024,6,Clothing,Jacket,374,105170.47
+2024,6,Sports,Tennis Racket,378,32650.35
+2024,6,Electronics,Headphones,249,61600.64
+2024,6,Home & Kitchen,Vacuum Cleaner,56,8902.01
+2024,6,Toys,Remote Car,21,6916.47
+2024,6,Sports,Football,258,34823.39
+2024,6,Electronics,Smartwatch,205,13445.9
+2024,6,Clothing,Shoes,186,43771.55
+2024,6,Home & Kitchen,Vacuum Cleaner,66,16556.6
+2024,6,Home & Kitchen,Cookware,303,3720.2
+2024,6,Electronics,Smartwatch,106,19086.7
+2024,6,Clothing,Shoes,372,98693.87
+2024,6,Clothing,Jacket,13,1010.19
+2024,6,Toys,Board Game,113,53540.71
+2024,6,Sports,Tennis Racket,38,4961.36
+2024,6,Toys,Remote Car,375,39923.33
+2024,6,Beauty & Personal Care,Face Cream,383,3037.36
+2024,6,Toys,Remote Car,360,105222.92
+2024,6,Beauty & Personal Care,Body Wash,100,16296.33
+2024,6,Home & Kitchen,Furniture,493,167757.24
+2024,6,Home & Kitchen,Vacuum Cleaner,131,5803.73
+2024,6,Electronics,Camera,231,51821.89
+2024,6,Books,Comics,364,25677.22
+2024,6,Beauty & Personal Care,Lipstick,381,113020.04
+2024,6,Clothing,Shoes,15,6959.7
+2024,6,Beauty & Personal Care,Perfume,178,46422.23
+2024,6,Electronics,Laptop,449,186438.7
+2024,6,Home & Kitchen,Blender,16,813.35
+2024,6,Beauty & Personal Care,Body Wash,451,104654.2
+2024,6,Toys,Board Game,14,4370.06
+2024,6,Toys,Puzzle,183,46737.04
+2024,6,Beauty & Personal Care,Body Wash,414,205408.99
+2024,6,Beauty & Personal Care,Body Wash,231,4661.15
+2024,6,Beauty & Personal Care,Body Wash,248,104567.67
+2024,6,Home & Kitchen,Blender,318,12545.29
+2024,6,Sports,Yoga Mat,162,67595.39
+2024,6,Books,Non-Fiction,144,17659.56
+2024,6,Electronics,Laptop,432,85931.93
+2024,6,Books,Fiction,328,75209.37
+2024,6,Sports,Cricket Bat,136,30799.86
+2024,6,Books,Science,59,12988.55
+2024,6,Home & Kitchen,Furniture,355,3297.61
+2024,6,Clothing,Shoes,369,19653.68
+2024,6,Toys,Action Figure,343,46558.34
+2024,6,Clothing,Jacket,65,17853.9
+2024,6,Clothing,Jeans,339,133407.75
+2024,6,Toys,Puzzle,260,55442.84
+2024,6,Toys,Board Game,25,2728.16
+2024,6,Beauty & Personal Care,Shampoo,422,131808.6
+2024,6,Home & Kitchen,Cookware,434,132336.03
+2024,6,Sports,Dumbbells,39,6803.25
+2024,6,Clothing,T-Shirt,344,56692.5
+2024,6,Books,Fiction,175,25210.87
+2024,6,Home & Kitchen,Cookware,62,5267.79
+2024,6,Clothing,T-Shirt,288,41141.46
+2024,6,Clothing,Shoes,19,8666.89
+2024,6,Sports,Dumbbells,182,14108.19
+2024,6,Home & Kitchen,Air Purifier,50,17307.03
+2024,6,Books,Science,178,67311.03
+2024,6,Toys,Board Game,120,36767.12
+2024,7,Books,Non-Fiction,132,26875.6
+2024,7,Clothing,Jacket,441,218713.36
+2024,7,Clothing,T-Shirt,393,65261.36
+2024,7,Clothing,Jeans,145,54248.34
+2024,7,Electronics,Camera,316,117753.49
+2024,7,Home & Kitchen,Air Purifier,325,61706.98
+2024,7,Home & Kitchen,Furniture,280,101267.34
+2024,7,Electronics,Camera,27,5899.76
+2024,7,Clothing,Jeans,254,109665.12
+2024,7,Home & Kitchen,Vacuum Cleaner,95,1007.84
+2024,7,Books,Non-Fiction,460,102828.76
+2024,7,Beauty & Personal Care,Body Wash,280,71833.13
+2024,7,Books,Fiction,344,10764.67
+2024,7,Sports,Football,436,15714.68
+2024,7,Home & Kitchen,Blender,441,82268.43
+2024,7,Toys,Remote Car,307,34231.05
+2024,7,Beauty & Personal Care,Lipstick,325,17167.14
+2024,7,Electronics,Smartwatch,454,116036.57
+2024,7,Books,Comics,45,5238.97
+2024,7,Sports,Yoga Mat,396,10520.58
+2024,7,Clothing,Shoes,339,3359.33
+2024,7,Beauty & Personal Care,Face Cream,21,889.71
+2024,7,Toys,Doll,345,4010.29
+2024,7,Home & Kitchen,Cookware,111,44022.94
+2024,7,Home & Kitchen,Furniture,182,43966.93
+2024,7,Beauty & Personal Care,Lipstick,352,171074.71
+2024,7,Books,Biography,118,16474.93
+2024,7,Books,Comics,126,9729.54
+2024,7,Electronics,Smartphone,309,18688.28
+2024,7,Electronics,Smartphone,328,25666.19
+2024,7,Beauty & Personal Care,Lipstick,305,96014.76
+2024,7,Clothing,T-Shirt,305,114121.38
+2024,7,Clothing,Jacket,176,85853.22
+2024,7,Books,Biography,274,48548.11
+2024,7,Sports,Tennis Racket,220,91982.18
+2024,7,Beauty & Personal Care,Face Cream,107,36752.72
+2024,7,Electronics,Headphones,198,10353.17
+2024,7,Beauty & Personal Care,Face Cream,358,163237.16
+2024,7,Home & Kitchen,Cookware,309,65854.28
+2024,7,Toys,Board Game,201,65144.74
+2024,7,Electronics,Camera,80,38109.0
+2024,7,Sports,Football,186,71450.27
+2024,7,Clothing,Shoes,95,38283.58
+2024,7,Books,Science,199,79446.35
+2024,7,Toys,Action Figure,495,49550.99
+2024,7,Toys,Puzzle,294,71912.72
+2024,7,Sports,Tennis Racket,29,14170.4
+2024,7,Toys,Board Game,446,68918.78
+2024,7,Sports,Cricket Bat,39,7667.79
+2024,7,Home & Kitchen,Cookware,446,33915.2
+2024,7,Beauty & Personal Care,Shampoo,232,89554.39
+2024,7,Home & Kitchen,Blender,176,53938.72
+2024,7,Clothing,Jeans,195,92824.79
+2024,7,Books,Science,126,8346.75
+2024,7,Beauty & Personal Care,Lipstick,177,44184.39
+2024,7,Beauty & Personal Care,Perfume,428,27917.99
+2024,7,Beauty & Personal Care,Body Wash,324,38852.23
+2024,7,Clothing,Jeans,211,24616.4
+2024,7,Home & Kitchen,Air Purifier,380,154998.53
+2024,7,Home & Kitchen,Blender,113,40685.91
+2024,7,Electronics,Laptop,347,61845.87
+2024,7,Beauty & Personal Care,Lipstick,350,135662.05
+2024,7,Books,Fiction,314,50539.36
+2024,7,Books,Science,470,213912.97
+2024,7,Books,Comics,42,5265.92
+2024,7,Sports,Tennis Racket,92,13479.09
+2024,7,Clothing,Jacket,373,3972.81
+2024,7,Beauty & Personal Care,Lipstick,66,1650.5
+2024,7,Beauty & Personal Care,Lipstick,462,96151.81
+2024,7,Beauty & Personal Care,Lipstick,305,135157.06
+2024,7,Books,Comics,305,89407.45
+2024,7,Sports,Yoga Mat,267,11868.58
+2024,7,Toys,Doll,325,126053.53
+2024,7,Sports,Tennis Racket,96,46411.97
+2024,7,Electronics,Laptop,285,116089.01
+2024,7,Electronics,Headphones,489,92892.89
+2024,7,Home & Kitchen,Air Purifier,108,22977.88
+2024,7,Toys,Doll,337,8686.22
+2024,7,Toys,Board Game,367,36220.02
+2024,7,Clothing,Hat,290,98324.56
+2024,7,Toys,Action Figure,17,994.2
+2024,7,Books,Non-Fiction,212,94284.68
+2024,7,Clothing,Shoes,142,30640.94
+2024,7,Electronics,Camera,387,161739.4
+2024,7,Electronics,Laptop,424,39647.97
+2024,7,Toys,Board Game,233,114976.44
+2024,7,Clothing,Jacket,421,168510.26
+2024,7,Toys,Action Figure,259,43118.4
+2024,7,Home & Kitchen,Cookware,71,19594.6
+2024,7,Clothing,T-Shirt,255,68851.63
+2024,7,Books,Comics,181,3843.26
+2024,7,Toys,Puzzle,359,29654.57
+2024,7,Beauty & Personal Care,Lipstick,90,9055.76
+2024,7,Books,Comics,102,8062.83
+2024,7,Beauty & Personal Care,Lipstick,352,29624.58
+2024,7,Home & Kitchen,Air Purifier,254,50119.39
+2024,7,Sports,Tennis Racket,423,49493.56
+2024,7,Beauty & Personal Care,Face Cream,229,13346.51
+2024,7,Electronics,Smartphone,172,19095.95
+2024,7,Toys,Action Figure,141,68220.37
+2024,8,Toys,Action Figure,107,9415.82
+2024,8,Books,Science,398,150952.67
+2024,8,Toys,Action Figure,109,27058.48
+2024,8,Sports,Dumbbells,177,63042.88
+2024,8,Books,Fiction,61,26059.25
+2024,8,Books,Non-Fiction,38,15980.73
+2024,8,Toys,Board Game,108,46705.69
+2024,8,Clothing,Hat,192,68029.08
+2024,8,Clothing,Jacket,116,4026.24
+2024,8,Beauty & Personal Care,Perfume,58,17666.46
+2024,8,Clothing,Shoes,202,57967.77
+2024,8,Sports,Cricket Bat,31,7746.99
+2024,8,Electronics,Camera,174,31804.12
+2024,8,Sports,Football,19,6663.11
+2024,8,Electronics,Smartwatch,419,36574.03
+2024,8,Books,Biography,105,11157.23
+2024,8,Electronics,Smartwatch,52,20122.7
+2024,8,Toys,Doll,395,100458.65
+2024,8,Sports,Dumbbells,136,50714.25
+2024,8,Sports,Dumbbells,372,6023.41
+2024,8,Home & Kitchen,Blender,453,75007.39
+2024,8,Sports,Football,37,15705.42
+2024,8,Clothing,Jacket,203,95579.09
+2024,8,Books,Fiction,219,67606.15
+2024,8,Books,Non-Fiction,221,102611.54
+2024,8,Home & Kitchen,Blender,29,7381.26
+2024,8,Clothing,Jacket,425,148199.56
+2024,8,Toys,Action Figure,22,1556.74
+2024,8,Home & Kitchen,Furniture,156,26278.65
+2024,8,Electronics,Laptop,283,41732.53
+2024,8,Toys,Doll,179,10961.69
+2024,8,Toys,Remote Car,84,24407.68
+2024,8,Home & Kitchen,Furniture,285,9072.11
+2024,8,Home & Kitchen,Cookware,93,38996.26
+2024,8,Books,Biography,225,63910.94
+2024,8,Home & Kitchen,Blender,469,108785.07
+2024,8,Sports,Dumbbells,289,126298.55
+2024,8,Electronics,Camera,142,65995.76
+2024,8,Beauty & Personal Care,Lipstick,464,90850.49
+2024,8,Books,Fiction,207,34787.54
+2024,8,Sports,Tennis Racket,274,110208.77
+2024,8,Home & Kitchen,Vacuum Cleaner,294,51341.1
+2024,8,Books,Fiction,251,79257.15
+2024,8,Toys,Puzzle,309,69784.77
+2024,8,Electronics,Smartphone,67,13162.09
+2024,8,Books,Biography,234,82843.14
+2024,8,Beauty & Personal Care,Shampoo,394,166815.67
+2024,8,Sports,Cricket Bat,134,26072.1
+2024,8,Books,Fiction,389,35195.03
+2024,8,Clothing,T-Shirt,51,1304.13
+2024,8,Sports,Dumbbells,412,123001.05
+2024,8,Electronics,Smartwatch,453,199038.59
+2024,8,Clothing,Hat,274,72938.88
+2024,8,Electronics,Smartphone,257,16452.62
+2024,8,Home & Kitchen,Air Purifier,120,13817.94
+2024,8,Clothing,Shoes,249,89573.76
+2024,8,Beauty & Personal Care,Shampoo,292,41150.25
+2024,8,Beauty & Personal Care,Body Wash,355,68780.94
+2024,8,Toys,Board Game,428,148209.44
+2024,8,Books,Fiction,360,82634.02
+2024,8,Home & Kitchen,Air Purifier,181,73640.06
+2024,8,Electronics,Smartwatch,135,66729.88
+2024,8,Beauty & Personal Care,Face Cream,406,33453.49
+2024,8,Toys,Remote Car,190,92157.32
+2024,8,Home & Kitchen,Blender,277,88722.99
+2024,8,Clothing,Jacket,428,56181.65
+2024,8,Books,Non-Fiction,353,45956.14
+2024,8,Clothing,Hat,244,119713.78
+2024,8,Clothing,T-Shirt,135,67146.43
+2024,8,Home & Kitchen,Air Purifier,354,121722.21
+2024,8,Beauty & Personal Care,Perfume,27,12691.6
+2024,8,Sports,Yoga Mat,275,128214.77
+2024,8,Clothing,Shoes,297,81867.6
+2024,8,Books,Biography,373,108009.8
+2024,8,Home & Kitchen,Cookware,48,4033.62
+2024,8,Toys,Remote Car,24,4959.02
+2024,8,Toys,Doll,465,181295.96
+2024,8,Toys,Action Figure,299,88086.39
+2024,8,Clothing,Shoes,259,80051.71
+2024,8,Beauty & Personal Care,Shampoo,266,84522.69
+2024,8,Clothing,T-Shirt,248,71488.98
+2024,8,Electronics,Camera,176,15967.37
+2024,8,Beauty & Personal Care,Face Cream,93,35116.13
+2024,8,Clothing,Hat,67,22226.14
+2024,8,Toys,Board Game,94,22681.37
+2024,8,Beauty & Personal Care,Face Cream,291,94316.86
+2024,8,Toys,Board Game,418,104412.24
+2024,8,Toys,Remote Car,129,21555.22
+2024,8,Clothing,Jeans,14,1730.05
+2024,8,Sports,Cricket Bat,497,229067.72
+2024,8,Clothing,Jeans,275,28685.15
+2024,8,Home & Kitchen,Vacuum Cleaner,29,5083.61
+2024,8,Clothing,Hat,407,176791.87
+2024,8,Home & Kitchen,Vacuum Cleaner,15,5735.83
+2024,8,Electronics,Smartphone,398,11119.62
+2024,8,Home & Kitchen,Cookware,324,14266.21
+2024,8,Sports,Tennis Racket,406,115094.27
+2024,8,Sports,Football,103,30224.73
+2024,8,Toys,Action Figure,90,24987.91
+2024,8,Sports,Cricket Bat,268,132141.92
+2024,9,Clothing,Shoes,392,14905.6
+2024,9,Books,Non-Fiction,472,134339.67
+2024,9,Toys,Puzzle,319,151565.23
+2024,9,Sports,Yoga Mat,187,73615.22
+2024,9,Clothing,Shoes,110,45883.31
+2024,9,Electronics,Camera,29,9712.38
+2024,9,Beauty & Personal Care,Body Wash,298,94558.25
+2024,9,Books,Biography,179,30967.72
+2024,9,Books,Comics,56,17989.48
+2024,9,Home & Kitchen,Air Purifier,24,2462.49
+2024,9,Electronics,Camera,271,74099.88
+2024,9,Home & Kitchen,Air Purifier,177,79983.25
+2024,9,Sports,Dumbbells,312,36839.91
+2024,9,Sports,Cricket Bat,453,5347.07
+2024,9,Clothing,Jacket,481,35340.72
+2024,9,Electronics,Camera,233,95683.25
+2024,9,Home & Kitchen,Blender,379,133635.3
+2024,9,Clothing,Shoes,363,2837.51
+2024,9,Electronics,Smartphone,393,74427.91
+2024,9,Books,Non-Fiction,395,130544.64
+2024,9,Toys,Remote Car,372,153846.8
+2024,9,Books,Non-Fiction,448,30358.58
+2024,9,Electronics,Smartwatch,63,2797.99
+2024,9,Home & Kitchen,Furniture,266,46762.24
+2024,9,Books,Science,498,219828.58
+2024,9,Clothing,Jeans,96,28619.01
+2024,9,Clothing,Shoes,209,83456.65
+2024,9,Electronics,Smartphone,313,86599.17
+2024,9,Sports,Yoga Mat,299,132083.57
+2024,9,Sports,Yoga Mat,130,41404.52
+2024,9,Electronics,Smartwatch,138,43691.42
+2024,9,Sports,Football,432,177432.09
+2024,9,Beauty & Personal Care,Face Cream,315,124284.09
+2024,9,Electronics,Smartwatch,484,204134.35
+2024,9,Toys,Remote Car,129,23984.58
+2024,9,Toys,Action Figure,43,3480.78
+2024,9,Toys,Remote Car,31,797.02
+2024,9,Electronics,Smartwatch,370,176509.09
+2024,9,Toys,Board Game,471,207588.83
+2024,9,Home & Kitchen,Vacuum Cleaner,428,34278.08
+2024,9,Clothing,Hat,150,35338.19
+2024,9,Sports,Football,433,143482.26
+2024,9,Books,Non-Fiction,405,151963.94
+2024,9,Books,Fiction,81,25888.86
+2024,9,Home & Kitchen,Furniture,86,16521.2
+2024,9,Clothing,Hat,319,84321.2
+2024,9,Books,Biography,167,23559.05
+2024,9,Sports,Football,151,58043.57
+2024,9,Electronics,Camera,467,2376.2
+2024,9,Beauty & Personal Care,Shampoo,253,107459.53
+2024,9,Home & Kitchen,Blender,488,37236.25
+2024,9,Books,Science,266,114542.75
+2024,9,Books,Non-Fiction,138,19105.75
+2024,9,Electronics,Laptop,163,6935.76
+2024,9,Books,Fiction,157,12369.42
+2024,9,Beauty & Personal Care,Lipstick,469,224667.82
+2024,9,Clothing,Hat,102,20160.95
+2024,9,Home & Kitchen,Air Purifier,356,122277.64
+2024,9,Clothing,Shoes,110,46400.77
+2024,9,Home & Kitchen,Furniture,241,9702.39
+2024,9,Electronics,Smartwatch,190,60265.81
+2024,9,Beauty & Personal Care,Body Wash,252,106691.24
+2024,9,Sports,Football,449,12949.24
+2024,9,Electronics,Camera,204,48900.13
+2024,9,Sports,Football,225,43837.56
+2024,9,Beauty & Personal Care,Shampoo,462,81442.37
+2024,9,Home & Kitchen,Air Purifier,187,15578.81
+2024,9,Clothing,Shoes,411,2138.7
+2024,9,Books,Fiction,461,43898.02
+2024,9,Home & Kitchen,Air Purifier,22,257.51
+2024,9,Home & Kitchen,Vacuum Cleaner,90,16259.22
+2024,9,Sports,Dumbbells,202,74943.94
+2024,9,Sports,Football,68,20651.03
+2024,9,Sports,Dumbbells,226,74033.68
+2024,9,Home & Kitchen,Blender,434,6587.46
+2024,9,Electronics,Camera,328,24735.75
+2024,9,Electronics,Camera,294,56361.2
+2024,9,Books,Fiction,197,23086.74
+2024,9,Sports,Tennis Racket,58,18602.04
+2024,9,Electronics,Smartwatch,244,63471.14
+2024,9,Electronics,Laptop,256,76197.77
+2024,9,Sports,Tennis Racket,269,68402.25
+2024,9,Toys,Action Figure,93,17230.15
+2024,9,Toys,Board Game,358,112250.22
+2024,9,Sports,Dumbbells,374,39961.96
+2024,9,Books,Non-Fiction,109,17126.15
+2024,9,Toys,Doll,175,33734.23
+2024,9,Sports,Dumbbells,18,8559.81
+2024,9,Sports,Dumbbells,279,13433.74
+2024,9,Electronics,Headphones,162,13428.0
+2024,9,Home & Kitchen,Blender,476,170867.31
+2024,9,Clothing,Jeans,260,26378.28
+2024,9,Home & Kitchen,Cookware,89,1664.72
+2024,9,Toys,Puzzle,34,15525.4
+2024,9,Books,Non-Fiction,300,109350.36
+2024,9,Electronics,Smartphone,472,216419.39
+2024,9,Books,Non-Fiction,248,98880.21
+2024,9,Toys,Puzzle,262,15126.68
+2024,9,Electronics,Smartwatch,132,53847.38
+2024,9,Toys,Doll,371,82714.18
+2024,10,Books,Comics,151,9090.35
+2024,10,Clothing,Jacket,197,46179.3
+2024,10,Clothing,T-Shirt,447,76937.89
+2024,10,Home & Kitchen,Air Purifier,34,13647.17
+2024,10,Beauty & Personal Care,Body Wash,496,93089.5
+2024,10,Sports,Dumbbells,235,104478.97
+2024,10,Toys,Board Game,338,46873.57
+2024,10,Electronics,Camera,130,58014.68
+2024,10,Sports,Cricket Bat,64,1031.64
+2024,10,Home & Kitchen,Air Purifier,50,15800.17
+2024,10,Electronics,Camera,127,40929.07
+2024,10,Toys,Puzzle,59,24892.48
+2024,10,Toys,Remote Car,293,45188.75
+2024,10,Books,Fiction,474,129513.28
+2024,10,Electronics,Camera,411,64632.06
+2024,10,Toys,Board Game,342,141944.99
+2024,10,Books,Comics,495,43993.14
+2024,10,Electronics,Camera,467,211777.68
+2024,10,Toys,Doll,218,49136.58
+2024,10,Books,Non-Fiction,48,5202.2
+2024,10,Sports,Football,258,70861.02
+2024,10,Books,Science,113,7060.2
+2024,10,Sports,Tennis Racket,429,23476.83
+2024,10,Beauty & Personal Care,Lipstick,69,19139.07
+2024,10,Clothing,Jacket,389,100309.92
+2024,10,Beauty & Personal Care,Perfume,175,78858.94
+2024,10,Beauty & Personal Care,Perfume,16,3608.31
+2024,10,Home & Kitchen,Blender,439,15416.09
+2024,10,Clothing,Jeans,384,56273.42
+2024,10,Sports,Yoga Mat,91,18398.64
+2024,10,Beauty & Personal Care,Shampoo,55,2772.89
+2024,10,Electronics,Camera,256,118311.31
+2024,10,Electronics,Smartphone,437,83176.95
+2024,10,Toys,Action Figure,47,3248.68
+2024,10,Electronics,Smartphone,383,67148.18
+2024,10,Sports,Yoga Mat,422,191065.85
+2024,10,Sports,Cricket Bat,301,56646.66
+2024,10,Home & Kitchen,Furniture,136,44079.48
+2024,10,Clothing,Jeans,384,113741.27
+2024,10,Electronics,Laptop,129,4180.05
+2024,10,Clothing,Jacket,273,67516.81
+2024,10,Toys,Action Figure,470,167848.9
+2024,10,Electronics,Headphones,352,10910.25
+2024,10,Books,Science,309,153687.07
+2024,10,Home & Kitchen,Furniture,92,16990.17
+2024,10,Home & Kitchen,Furniture,347,15920.9
+2024,10,Home & Kitchen,Air Purifier,397,178450.45
+2024,10,Toys,Doll,288,114764.15
+2024,10,Clothing,Hat,391,94616.27
+2024,10,Electronics,Headphones,317,152991.71
+2024,10,Toys,Board Game,29,13993.72
+2024,10,Books,Non-Fiction,364,24890.48
+2024,10,Clothing,Jeans,306,105308.42
+2024,10,Toys,Puzzle,200,19857.42
+2024,10,Toys,Board Game,444,33069.36
+2024,10,Toys,Doll,100,23943.32
+2024,10,Clothing,Hat,22,8008.13
+2024,10,Beauty & Personal Care,Body Wash,391,192177.69
+2024,10,Clothing,Jeans,65,20912.88
+2024,10,Sports,Yoga Mat,480,157472.96
+2024,10,Books,Science,16,7034.46
+2024,10,Toys,Action Figure,176,1478.17
+2024,10,Sports,Tennis Racket,408,17649.66
+2024,10,Home & Kitchen,Cookware,349,142220.9
+2024,10,Beauty & Personal Care,Face Cream,306,133593.06
+2024,10,Books,Fiction,66,7063.74
+2024,10,Toys,Puzzle,282,35104.16
+2024,10,Toys,Action Figure,495,84523.41
+2024,10,Home & Kitchen,Blender,56,3409.6
+2024,10,Electronics,Camera,422,189572.23
+2024,10,Toys,Remote Car,199,20579.08
+2024,10,Clothing,Jeans,62,26127.65
+2024,10,Beauty & Personal Care,Body Wash,273,58123.48
+2024,10,Electronics,Smartphone,26,3362.3
+2024,10,Sports,Dumbbells,194,34960.31
+2024,10,Toys,Board Game,333,118966.52
+2024,10,Sports,Football,69,22582.61
+2024,10,Books,Fiction,108,921.97
+2024,10,Books,Comics,336,6772.68
+2024,10,Sports,Tennis Racket,93,8129.09
+2024,10,Sports,Dumbbells,328,57424.7
+2024,10,Toys,Puzzle,431,163566.78
+2024,10,Books,Science,478,191786.52
+2024,10,Beauty & Personal Care,Face Cream,175,9474.69
+2024,10,Beauty & Personal Care,Lipstick,197,15445.88
+2024,10,Toys,Board Game,71,22791.06
+2024,10,Electronics,Smartwatch,77,3036.12
+2024,10,Electronics,Smartphone,74,6817.13
+2024,10,Electronics,Laptop,272,29432.25
+2024,10,Electronics,Headphones,31,8936.02
+2024,10,Sports,Football,497,246999.53
+2024,10,Books,Comics,285,2481.26
+2024,10,Sports,Football,408,106676.18
+2024,10,Clothing,Jacket,173,14731.37
+2024,10,Clothing,Shoes,86,3561.04
+2024,10,Sports,Cricket Bat,38,12184.83
+2024,10,Electronics,Camera,284,60148.23
+2024,10,Beauty & Personal Care,Face Cream,188,33263.0
+2024,10,Books,Biography,381,18552.7
+2024,10,Home & Kitchen,Furniture,96,40743.9
+2024,11,Beauty & Personal Care,Body Wash,14,3697.26
+2024,11,Electronics,Headphones,38,1245.75
+2024,11,Toys,Remote Car,336,128761.84
+2024,11,Home & Kitchen,Air Purifier,69,1875.86
+2024,11,Clothing,T-Shirt,48,19663.78
+2024,11,Clothing,Jeans,54,5204.67
+2024,11,Beauty & Personal Care,Body Wash,180,42178.83
+2024,11,Books,Fiction,62,27471.23
+2024,11,Electronics,Smartphone,73,16252.25
+2024,11,Beauty & Personal Care,Shampoo,170,24891.4
+2024,11,Home & Kitchen,Blender,212,24081.33
+2024,11,Clothing,T-Shirt,150,72299.07
+2024,11,Books,Comics,409,10571.35
+2024,11,Books,Science,459,226003.7
+2024,11,Clothing,T-Shirt,196,37663.67
+2024,11,Sports,Dumbbells,258,14995.56
+2024,11,Electronics,Smartphone,290,85121.21
+2024,11,Books,Science,249,16321.31
+2024,11,Electronics,Headphones,275,48159.63
+2024,11,Sports,Yoga Mat,325,97661.66
+2024,11,Beauty & Personal Care,Body Wash,157,75956.24
+2024,11,Clothing,Shoes,152,24648.29
+2024,11,Sports,Dumbbells,124,22826.89
+2024,11,Beauty & Personal Care,Shampoo,332,164772.26
+2024,11,Home & Kitchen,Blender,487,46882.42
+2024,11,Sports,Football,289,28895.24
+2024,11,Beauty & Personal Care,Perfume,497,195824.26
+2024,11,Clothing,Hat,327,64039.21
+2024,11,Electronics,Headphones,152,36860.42
+2024,11,Beauty & Personal Care,Perfume,11,4770.48
+2024,11,Toys,Doll,371,55899.34
+2024,11,Clothing,Jeans,17,6403.73
+2024,11,Books,Non-Fiction,49,2188.97
+2024,11,Sports,Yoga Mat,68,21340.83
+2024,11,Toys,Remote Car,450,117969.3
+2024,11,Clothing,T-Shirt,439,157694.29
+2024,11,Sports,Yoga Mat,158,17577.72
+2024,11,Books,Science,78,18128.79
+2024,11,Sports,Yoga Mat,255,42993.35
+2024,11,Books,Biography,59,3016.28
+2024,11,Sports,Dumbbells,368,72246.27
+2024,11,Sports,Yoga Mat,399,161183.9
+2024,11,Home & Kitchen,Cookware,379,145033.79
+2024,11,Beauty & Personal Care,Face Cream,99,28819.93
+2024,11,Clothing,Jacket,133,30276.57
+2024,11,Beauty & Personal Care,Body Wash,55,12004.89
+2024,11,Home & Kitchen,Cookware,353,2069.19
+2024,11,Clothing,Shoes,120,13912.27
+2024,11,Toys,Puzzle,225,37383.9
+2024,11,Home & Kitchen,Air Purifier,58,5723.28
+2024,11,Books,Fiction,290,44300.17
+2024,11,Beauty & Personal Care,Face Cream,101,3503.43
+2024,11,Home & Kitchen,Furniture,72,29196.31
+2024,11,Toys,Board Game,128,52214.03
+2024,11,Toys,Puzzle,21,7936.86
+2024,11,Beauty & Personal Care,Perfume,151,39159.82
+2024,11,Beauty & Personal Care,Shampoo,148,31883.66
+2024,11,Electronics,Headphones,137,59471.18
+2024,11,Clothing,Shoes,420,184683.95
+2024,11,Books,Biography,182,58870.68
+2024,11,Beauty & Personal Care,Face Cream,165,34397.5
+2024,11,Electronics,Smartphone,489,165383.89
+2024,11,Home & Kitchen,Vacuum Cleaner,384,189158.56
+2024,11,Clothing,Jacket,464,158538.96
+2024,11,Electronics,Laptop,428,163336.35
+2024,11,Beauty & Personal Care,Body Wash,453,81392.71
+2024,11,Beauty & Personal Care,Lipstick,119,33511.28
+2024,11,Clothing,T-Shirt,232,8018.65
+2024,11,Toys,Puzzle,198,43838.75
+2024,11,Beauty & Personal Care,Lipstick,217,20233.77
+2024,11,Toys,Board Game,241,28658.04
+2024,11,Beauty & Personal Care,Face Cream,355,66881.06
+2024,11,Home & Kitchen,Vacuum Cleaner,282,138394.67
+2024,11,Electronics,Smartwatch,175,83929.82
+2024,11,Clothing,Jeans,126,28396.92
+2024,11,Home & Kitchen,Vacuum Cleaner,23,249.16
+2024,11,Sports,Cricket Bat,134,41934.89
+2024,11,Books,Biography,356,67118.1
+2024,11,Home & Kitchen,Air Purifier,447,183071.97
+2024,11,Sports,Dumbbells,14,5726.98
+2024,11,Home & Kitchen,Cookware,451,9463.35
+2024,11,Books,Biography,447,61310.27
+2024,11,Sports,Football,134,31242.44
+2024,11,Books,Non-Fiction,142,28498.88
+2024,11,Books,Non-Fiction,36,4899.92
+2024,11,Clothing,Jacket,22,5593.39
+2024,11,Sports,Dumbbells,66,27068.47
+2024,11,Clothing,Shoes,346,48658.31
+2024,11,Beauty & Personal Care,Lipstick,154,20021.89
+2024,11,Beauty & Personal Care,Face Cream,417,128940.38
+2024,11,Electronics,Smartwatch,251,105865.44
+2024,11,Books,Fiction,265,64220.53
+2024,11,Clothing,Jeans,498,17649.61
+2024,11,Beauty & Personal Care,Shampoo,440,98571.59
+2024,11,Beauty & Personal Care,Shampoo,302,124387.77
+2024,11,Clothing,T-Shirt,479,155048.39
+2024,11,Home & Kitchen,Air Purifier,447,198175.94
+2024,11,Beauty & Personal Care,Face Cream,219,42676.69
+2024,11,Toys,Board Game,348,113798.28
+2024,11,Clothing,T-Shirt,25,8043.18
+2024,12,Toys,Puzzle,33,3429.67
+2024,12,Clothing,Jacket,271,25688.95
+2024,12,Sports,Dumbbells,344,67457.24
+2024,12,Toys,Remote Car,262,54293.36
+2024,12,Beauty & Personal Care,Lipstick,191,41477.15
+2024,12,Home & Kitchen,Blender,312,27954.82
+2024,12,Home & Kitchen,Furniture,12,4712.66
+2024,12,Toys,Remote Car,71,22626.85
+2024,12,Electronics,Headphones,283,106327.79
+2024,12,Sports,Football,455,122583.27
+2024,12,Sports,Football,170,64131.6
+2024,12,Home & Kitchen,Furniture,446,149491.41
+2024,12,Home & Kitchen,Furniture,467,229761.65
+2024,12,Books,Science,366,4696.99
+2024,12,Toys,Remote Car,462,155170.51
+2024,12,Beauty & Personal Care,Body Wash,212,83511.81
+2024,12,Electronics,Smartwatch,133,1460.26
+2024,12,Books,Fiction,465,151578.52
+2024,12,Toys,Puzzle,75,31740.85
+2024,12,Clothing,Jeans,397,30224.74
+2024,12,Sports,Dumbbells,209,3356.83
+2024,12,Toys,Doll,349,62413.15
+2024,12,Electronics,Laptop,225,15795.39
+2024,12,Books,Science,35,6944.19
+2024,12,Home & Kitchen,Air Purifier,321,24064.55
+2024,12,Sports,Cricket Bat,258,96953.9
+2024,12,Sports,Football,243,91214.07
+2024,12,Sports,Dumbbells,21,6739.12
+2024,12,Toys,Remote Car,80,27860.19
+2024,12,Clothing,Hat,497,186989.3
+2024,12,Electronics,Smartwatch,110,7460.01
+2024,12,Clothing,Jacket,484,83754.04
+2024,12,Sports,Yoga Mat,384,186976.29
+2024,12,Electronics,Camera,10,4542.67
+2024,12,Books,Fiction,70,16088.32
+2024,12,Clothing,Shoes,249,48426.67
+2024,12,Beauty & Personal Care,Perfume,451,215885.18
+2024,12,Electronics,Smartphone,176,12428.67
+2024,12,Clothing,Shoes,315,128005.54
+2024,12,Clothing,Jeans,348,155599.89
+2024,12,Beauty & Personal Care,Shampoo,20,3799.96
+2024,12,Electronics,Camera,277,19501.95
+2024,12,Home & Kitchen,Blender,395,187349.52
+2024,12,Home & Kitchen,Vacuum Cleaner,124,8977.65
+2024,12,Beauty & Personal Care,Body Wash,313,151941.07
+2024,12,Beauty & Personal Care,Perfume,432,203689.83
+2024,12,Sports,Dumbbells,149,44513.79
+2024,12,Toys,Action Figure,42,418.32
+2024,12,Books,Non-Fiction,177,43736.39
+2024,12,Books,Science,454,47524.13
+2024,12,Toys,Remote Car,76,3854.99
+2024,12,Electronics,Camera,337,31977.16
+2024,12,Beauty & Personal Care,Perfume,196,97562.36
+2024,12,Toys,Action Figure,177,18424.66
+2024,12,Beauty & Personal Care,Body Wash,13,6227.89
+2024,12,Beauty & Personal Care,Lipstick,431,174121.04
+2024,12,Home & Kitchen,Cookware,193,64241.27
+2024,12,Home & Kitchen,Air Purifier,350,153212.91
+2024,12,Toys,Doll,261,51764.62
+2024,12,Sports,Tennis Racket,275,54674.9
+2024,12,Home & Kitchen,Furniture,162,78403.44
+2024,12,Electronics,Smartphone,377,59877.26
+2024,12,Books,Comics,37,6324.03
+2024,12,Books,Biography,381,11757.79
+2024,12,Electronics,Laptop,485,129718.16
+2024,12,Toys,Doll,492,33879.72
+2024,12,Beauty & Personal Care,Shampoo,433,4406.35
+2024,12,Home & Kitchen,Vacuum Cleaner,335,27234.64
+2024,12,Books,Fiction,266,116332.99
+2024,12,Books,Fiction,56,15900.5
+2024,12,Toys,Puzzle,191,1194.11
+2024,12,Beauty & Personal Care,Lipstick,218,107523.64
+2024,12,Home & Kitchen,Cookware,438,36515.15
+2024,12,Sports,Football,423,152070.61
+2024,12,Beauty & Personal Care,Shampoo,121,15058.92
+2024,12,Home & Kitchen,Air Purifier,70,3260.35
+2024,12,Toys,Action Figure,494,127333.72
+2024,12,Sports,Football,126,23714.42
+2024,12,Books,Comics,46,1175.46
+2024,12,Books,Non-Fiction,60,4127.85
+2024,12,Toys,Remote Car,14,2249.07
+2024,12,Beauty & Personal Care,Lipstick,63,10045.75
+2024,12,Beauty & Personal Care,Lipstick,364,7394.83
+2024,12,Sports,Tennis Racket,150,15810.49
+2024,12,Home & Kitchen,Cookware,111,16342.19
+2024,12,Home & Kitchen,Air Purifier,147,15865.02
+2024,12,Home & Kitchen,Cookware,310,70038.97
+2024,12,Home & Kitchen,Furniture,449,224400.7
+2024,12,Electronics,Laptop,277,62986.37
+2024,12,Electronics,Smartwatch,270,75326.43
+2024,12,Beauty & Personal Care,Perfume,55,13991.06
+2024,12,Books,Biography,447,80027.12
+2024,12,Sports,Yoga Mat,312,90868.04
+2024,12,Toys,Puzzle,86,28809.2
+2024,12,Electronics,Camera,18,7132.45
+2024,12,Sports,Football,229,17398.07
+2024,12,Books,Biography,31,686.92
+2024,12,Clothing,Jacket,383,113919.64
+2024,12,Home & Kitchen,Furniture,89,25005.97
+2024,12,Home & Kitchen,Furniture,22,4938.08
